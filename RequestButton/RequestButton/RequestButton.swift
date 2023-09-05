@@ -20,6 +20,7 @@ struct RequestButton<ButtonContent>: View where ButtonContent: View {
     @State private var showPopup: Bool = false
     @State private var popupMessage: String = ""
     @State private var wiggle: Bool = false
+    @State private var contentSize: CGSize = .zero
     
     var body: some View {
         Button {
@@ -54,7 +55,7 @@ struct RequestButton<ButtonContent>: View where ButtonContent: View {
                 .foregroundStyle(foregroundColor)
                 .opacity(isLoading ? 0 : 1)
                 .lineLimit(1)
-                .frame(width: isLoading ? 50 : nil, height: isLoading ? 50 : nil)
+                .frame(width: isLoading ? contentSize.height : nil, height: isLoading ? contentSize.height : nil)
                 .background(Color(taskStatus == .idle ? buttonTint : taskStatus == .success ? .green : .red).shadow(.drop(color: .black.opacity(0.15), radius: 6)), in: .capsule)
                 .overlay {
                     if isLoading && taskStatus == .idle {
@@ -69,6 +70,15 @@ struct RequestButton<ButtonContent>: View where ButtonContent: View {
                             .foregroundStyle(.white)
                     }
                 }
+                .overlay(content: {
+                    GeometryReader(content: { geometry in
+                        Color.clear
+                            .preference(key: SizeKey.self, value: geometry.size)
+                            .onPreferenceChange(SizeKey.self, perform: { value in
+                                contentSize = value
+                            })
+                    })
+                })
                 .wiggle(wiggle)
         }
         .disabled(isLoading)
@@ -135,4 +145,10 @@ struct OpacityLessButtonStyle: ButtonStyle {
     }
 //    .buttonStyle(.opacityLess)
 //    .preferredColorScheme(.dark)
+}
+struct SizeKey: PreferenceKey {
+    static var defaultValue: CGSize = .zero
+    static func reduce(value: inout CGSize, nextValue: () -> CGSize) {
+        value = nextValue()
+    }
 }
