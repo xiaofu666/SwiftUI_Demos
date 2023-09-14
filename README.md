@@ -3,7 +3,9 @@
 Swift UI 实现的小控件
 
 | Demo                                                  |  效果图                                                                                |
-| ----------------------------------------------------  |  -----------------------------------------------------------------------------------  |     
+| ----------------------------------------------------  |  -----------------------------------------------------------------------------------  | 
+| [TagTextField            ](TagTextField            )  |  ![TagTextField             ](TagTextField/TagTextField.gif)                          |     
+| [SwipeToHideNavBar       ](SwipeToHideNavBar       )  |  ![SwipeToHideNavBar        ](SwipeToHideNavBar/SwipeToHideNavBar.gif)                |       
 | [AnimatedSFTabBar        ](AnimatedSFTabBar        )  |  ![AnimatedSFTabBar         ](AnimatedSFTabBar/AnimatedSFTabBar.gif)                  |     
 | [DragDropDemo            ](DragDropDemo            )  |  ![DragDropDemo             ](DragDropDemo/DragDropDemo.gif)                          |     
 | [DragImagePicker         ](DragImagePicker         )  |  ![DragImagePicker          ](DragImagePicker/DragImagePicker.gif)                    |     
