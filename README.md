@@ -43,7 +43,24 @@ Swift UI 实现的小控件 (持续更新中)
 | [ParticleView                ](ParticleView)                |  ![ParticleView               ](ParticleView/ParticleView.gif)                              |     
 | [ContactScrollAnimationView  ](ContactScrollAnimationView)  |  ![ContactScrollAnimationView ](ContactScrollAnimationView/ContactScrollAnimationView.gif)  |     
 | [ListHeaderAnimationView     ](ListHeaderAnimationView)     |  ![ListHeaderAnimationView    ](ListHeaderAnimationView/ListHeaderAnimationView.gif)        |     
-| [OnBoardingView              ](OnBoardingView)              |  ![OnBoardingView             ](OnBoardingView/OnBoardingView.gif)                          |      
+| [OnBoardingView              ](OnBoardingView)              |  ![OnBoardingView             ](OnBoardingView/OnBoardingView.gif)                          |   
+| [IntroView                   ](IntroView)                   |  ![IntroView                  ](IntroView/IntroView.gif)                                    |     
+| [IndecatorAnimatedView       ](IndecatorAnimatedView)       |  ![IndecatorAnimatedView      ](IndecatorAnimatedView/IndecatorAnimatedView.gif)            | 
+| [IsometricView               ](IsometricView)               |  ![IsometricView              ](IsometricView/IsometricView.gif)                            |     
+| [SnapCarouselView            ](SnapCarouselView)            |  ![SnapCarouselView           ](SnapCarouselView/SnapCarouselView.gif)                      |     
+| [BallAnimationView           ](BallAnimationView)           |  ![BallAnimationView          ](BallAnimationView/BallAnimationView.gif)                    |     
+| [LiquidSwipeAnimationView    ](LiquidSwipeAnimationView)    |  ![LiquidSwipeAnimationView   ](LiquidSwipeAnimationView/LiquidSwipeAnimationView.gif)      |     
+| [DashboardAnimationView      ](DashboardAnimationView)      |  ![DashboardAnimationView     ](DashboardAnimationView/DashboardAnimationView.gif)          |     
+| [SwipeCardView               ](SwipeCardView)               |  ![SwipeCardView              ](SwipeCardView/SwipeCardView.gif)                            |  
+| [TinderCardUI                ](TinderCardUI)                |  ![TinderCardUI               ](TinderCardUI/TinderCardUI.gif)                              |    
+| [AppStoreDetailAnimationView ](AppStoreDetailAnimationView) |  ![AppStoreDetailAnimationView](AppStoreDetailAnimationView/AppStoreDetailAnimationView.gif)|     
+| [ClockView                   ](ClockView)                   |  ![ClockView                  ](ClockView/ClockView.gif)                                    |     
+| [ParticleEmitterView         ](ParticleEmitterView)         |  ![ParticleEmitterView        ](ParticleEmitterView/ParticleEmitterView.gif)                |     
+| [YoutubeHomeView             ](YoutubeHomeView)             |  ![YoutubeHomeView            ](YoutubeHomeView/YoutubeHomeView.gif)                        |     
+| [SpotLightView               ](SpotLightView)               |  ![SpotLightView              ](SpotLightView/SpotLightView.gif)                            |     
+| [ContactScrollAnimationView  ](ContactScrollAnimationView)  |  ![ContactScrollAnimationView ](ContactScrollAnimationView/ContactScrollAnimationView.gif)  |     
+| [ContactScrollAnimationView  ](ContactScrollAnimationView)  |  ![ContactScrollAnimationView ](ContactScrollAnimationView/ContactScrollAnimationView.gif)  |     
+| [ContactScrollAnimationView  ](ContactScrollAnimationView)  |  ![ContactScrollAnimationView ](ContactScrollAnimationView/ContactScrollAnimationView.gif)  |        
   
   
   
