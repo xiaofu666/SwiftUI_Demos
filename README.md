@@ -67,11 +67,24 @@ Swift UI 实现的小控件 (持续更新中)
 | [GoogleWebTabView            ](GoogleWebTabView)            |  ![GoogleWebTabView             ](GoogleWebTabView/GoogleWebTabView.gif)                        |     
 | [SplitView                   ](SplitView)                   |  ![SplitView                    ](SplitView/SplitView.gif)                                      |     
 | [MapBottomSheetView          ](MapBottomSheetView)          |  ![MapBottomSheetView           ](MapBottomSheetView/MapBottomSheetView.gif)                    |     
-| [ContactScrollAnimationView  ](ContactScrollAnimationView)  |  ![ContactScrollAnimationView   ](ContactScrollAnimationView/ContactScrollAnimationView.gif)    |     
-| [ContactScrollAnimationView  ](ContactScrollAnimationView)  |  ![ContactScrollAnimationView   ](ContactScrollAnimationView/ContactScrollAnimationView.gif)    |     
-| [ContactScrollAnimationView  ](ContactScrollAnimationView)  |  ![ContactScrollAnimationView   ](ContactScrollAnimationView/ContactScrollAnimationView.gif)    |     
-| [ContactScrollAnimationView  ](ContactScrollAnimationView)  |  ![ContactScrollAnimationView   ](ContactScrollAnimationView/ContactScrollAnimationView.gif)    |     
-| [ContactScrollAnimationView  ](ContactScrollAnimationView)  |  ![ContactScrollAnimationView   ](ContactScrollAnimationView/ContactScrollAnimationView.gif)    |        
+| [WidgetView                  ](WidgetView)                  |  ![WidgetView                   ](WidgetView/WidgetView.gif)                                    |     
+| [DynamicNotificationView     ](DynamicNotificationView)     |  ![DynamicNotificationView      ](DynamicNotificationView/DynamicNotificationView.gif)          |     
+| [RecordVideoView             ](RecordVideoView)             |  ![RecordVideoView              ](RecordVideoView/RecordVideoView.gif)                          |     
+| [QRCodeScannerView           ](QRCodeScannerView)           |  ![QRCodeScannerView            ](QRCodeScannerView/QRCodeScannerView.gif)                      |     
+| [InfiniteCarouselView        ](InfiniteCarouselView)        |  ![InfiniteCarouselView         ](InfiniteCarouselView/InfiniteCarouselView.gif)                |       
+| [iOSControlCenterAnimation   ](iOSControlCenterAnimation)   |  ![iOSControlCenterAnimation    ](iOSControlCenterAnimation/iOSControlCenterAnimation.gif)      |     
+| [DropDownView                ](DropDownView)                |  ![DropDownView                 ](DropDownView/DropDownView.gif)                                |     
+| [CropImageView               ](CropImageView)               |  ![CropImageView                ](CropImageView/CropImageView.gif)                              |     
+| [SpotifyUI                   ](SpotifyUI)                   |  ![SpotifyUI                    ](SpotifyUI/SpotifyUI.gif)                                      |     
+| [TwitterProfileScrollingView ](TwitterProfileScrollingView) |  ![TwitterProfileScrollingView  ](TwitterProfileScrollingView/TwitterProfileScrollingView.gif)  |     
+| [TwitterProfileScrollingView ](TwitterProfileScrollingView) |  ![TwitterProfileScrollingView  ](TwitterProfileScrollingView/TwitterProfileScrollingView.gif)  |     
+| [TwitterProfileScrollingView ](TwitterProfileScrollingView) |  ![TwitterProfileScrollingView  ](TwitterProfileScrollingView/TwitterProfileScrollingView.gif)  |     
+| [TwitterProfileScrollingView ](TwitterProfileScrollingView) |  ![TwitterProfileScrollingView  ](TwitterProfileScrollingView/TwitterProfileScrollingView.gif)  |     
+| [TwitterProfileScrollingView ](TwitterProfileScrollingView) |  ![TwitterProfileScrollingView  ](TwitterProfileScrollingView/TwitterProfileScrollingView.gif)  |     
+| [TwitterProfileScrollingView ](TwitterProfileScrollingView) |  ![TwitterProfileScrollingView  ](TwitterProfileScrollingView/TwitterProfileScrollingView.gif)  |     
+| [TwitterProfileScrollingView ](TwitterProfileScrollingView) |  ![TwitterProfileScrollingView  ](TwitterProfileScrollingView/TwitterProfileScrollingView.gif)  |     
+| [TwitterProfileScrollingView ](TwitterProfileScrollingView) |  ![TwitterProfileScrollingView  ](TwitterProfileScrollingView/TwitterProfileScrollingView.gif)  |     
+| [TwitterProfileScrollingView ](TwitterProfileScrollingView) |  ![TwitterProfileScrollingView  ](TwitterProfileScrollingView/TwitterProfileScrollingView.gif)  |      
   
   
   

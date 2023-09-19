@@ -1,0 +1,11 @@
+{
+    "aps": {
+        "alert" : {
+            "title" : "Push Notification's",
+            "subtitle" : "In App Notification Using Dynamic Island!!!",
+            "body" : "App Notification Body"
+        },
+        "badge" : 1
+    },
+    "Simulator Target Bundle" : "com.lurich.DynamicNotificationView"
+}
