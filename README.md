@@ -3,7 +3,8 @@
 Swift UI 实现的小控件 (持续更新中)
 
 | Demo                                                        |  效果图                                                                                          |
-| ----------------------------------------------------------  |  ---------------------------------------------------------------------------------------------  | 
+| ----------------------------------------------------------  |  ---------------------------------------------------------------------------------------------  |   
+| [CustomUniversalAlert        ](CustomUniversalAlert)        |  ![CustomUniversalAlert         ](CustomUniversalAlert/CustomUniversalAlert.gif)                |     
 | [TagTextField                ](TagTextField              )  |  ![TagTextField                 ](TagTextField/TagTextField.gif)                                |     
 | [SwipeToHideNavBar           ](SwipeToHideNavBar         )  |  ![SwipeToHideNavBar            ](SwipeToHideNavBar/SwipeToHideNavBar.gif)                      |       
 | [AnimatedSFTabBar            ](AnimatedSFTabBar          )  |  ![AnimatedSFTabBar             ](AnimatedSFTabBar/AnimatedSFTabBar.gif)                        |     
@@ -75,8 +76,7 @@ Swift UI 实现的小控件 (持续更新中)
 | [iOSControlCenterAnimation   ](iOSControlCenterAnimation)   |  ![iOSControlCenterAnimation    ](iOSControlCenterAnimation/iOSControlCenterAnimation.gif)      |     
 | [DropDownView                ](DropDownView)                |  ![DropDownView                 ](DropDownView/DropDownView.gif)                                |     
 | [CropImageView               ](CropImageView)               |  ![CropImageView                ](CropImageView/CropImageView.gif)                              |     
-| [SpotifyUI                   ](SpotifyUI)                   |  ![SpotifyUI                    ](SpotifyUI/SpotifyUI.gif)                                      |     
-| [TwitterProfileScrollingView ](TwitterProfileScrollingView) |  ![TwitterProfileScrollingView  ](TwitterProfileScrollingView/TwitterProfileScrollingView.gif)  |     
+| [SpotifyUI                   ](SpotifyUI)                   |  ![SpotifyUI                    ](SpotifyUI/SpotifyUI.gif)                                      |   
 | [TwitterProfileScrollingView ](TwitterProfileScrollingView) |  ![TwitterProfileScrollingView  ](TwitterProfileScrollingView/TwitterProfileScrollingView.gif)  |     
 | [TwitterProfileScrollingView ](TwitterProfileScrollingView) |  ![TwitterProfileScrollingView  ](TwitterProfileScrollingView/TwitterProfileScrollingView.gif)  |     
 | [TwitterProfileScrollingView ](TwitterProfileScrollingView) |  ![TwitterProfileScrollingView  ](TwitterProfileScrollingView/TwitterProfileScrollingView.gif)  |     
