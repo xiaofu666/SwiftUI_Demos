@@ -3,7 +3,8 @@
 Swift UI 实现的小控件 (持续更新中)
 
 | Demo                                                        |  效果图                                                                                          |
-| ----------------------------------------------------------  |  ---------------------------------------------------------------------------------------------  |   
+| ----------------------------------------------------------  |  ---------------------------------------------------------------------------------------------  |    
+| [CustomSlider                ](CustomSlider)                |  ![CustomSlider                 ](CustomSlider/CustomSlider.gif)                                |      
 | [CustomUniversalAlert        ](CustomUniversalAlert)        |  ![CustomUniversalAlert         ](CustomUniversalAlert/CustomUniversalAlert.gif)                |     
 | [TagTextField                ](TagTextField              )  |  ![TagTextField                 ](TagTextField/TagTextField.gif)                                |     
 | [SwipeToHideNavBar           ](SwipeToHideNavBar         )  |  ![SwipeToHideNavBar            ](SwipeToHideNavBar/SwipeToHideNavBar.gif)                      |       
@@ -83,8 +84,7 @@ Swift UI 实现的小控件 (持续更新中)
 | [TwitterProfileScrollingView ](TwitterProfileScrollingView) |  ![TwitterProfileScrollingView  ](TwitterProfileScrollingView/TwitterProfileScrollingView.gif)  |     
 | [TwitterProfileScrollingView ](TwitterProfileScrollingView) |  ![TwitterProfileScrollingView  ](TwitterProfileScrollingView/TwitterProfileScrollingView.gif)  |     
 | [TwitterProfileScrollingView ](TwitterProfileScrollingView) |  ![TwitterProfileScrollingView  ](TwitterProfileScrollingView/TwitterProfileScrollingView.gif)  |     
-| [TwitterProfileScrollingView ](TwitterProfileScrollingView) |  ![TwitterProfileScrollingView  ](TwitterProfileScrollingView/TwitterProfileScrollingView.gif)  |     
-| [TwitterProfileScrollingView ](TwitterProfileScrollingView) |  ![TwitterProfileScrollingView  ](TwitterProfileScrollingView/TwitterProfileScrollingView.gif)  |      
+| [TwitterProfileScrollingView ](TwitterProfileScrollingView) |  ![TwitterProfileScrollingView  ](TwitterProfileScrollingView/TwitterProfileScrollingView.gif)  |    
   
   
   
