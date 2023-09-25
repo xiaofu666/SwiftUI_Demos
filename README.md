@@ -4,6 +4,7 @@ Swift UI 实现的小控件 (持续更新中)
 
 | Demo                                                        |  效果图                                                                                          |
 | ----------------------------------------------------------  |  ---------------------------------------------------------------------------------------------  |    
+| [HeartAnimation              ](HeartAnimation)              |  ![HeartAnimation               ](HeartAnimation/HeartAnimation.gif)                            |    
 | [CustomSlider                ](CustomSlider)                |  ![CustomSlider                 ](CustomSlider/CustomSlider.gif)                                |      
 | [CustomUniversalAlert        ](CustomUniversalAlert)        |  ![CustomUniversalAlert         ](CustomUniversalAlert/CustomUniversalAlert.gif)                |     
 | [TagTextField                ](TagTextField              )  |  ![TagTextField                 ](TagTextField/TagTextField.gif)                                |     
@@ -78,7 +79,23 @@ Swift UI 实现的小控件 (持续更新中)
 | [DropDownView                ](DropDownView)                |  ![DropDownView                 ](DropDownView/DropDownView.gif)                                |     
 | [CropImageView               ](CropImageView)               |  ![CropImageView                ](CropImageView/CropImageView.gif)                              |     
 | [SpotifyUI                   ](SpotifyUI)                   |  ![SpotifyUI                    ](SpotifyUI/SpotifyUI.gif)                                      |   
-| [TwitterProfileScrollingView ](TwitterProfileScrollingView) |  ![TwitterProfileScrollingView  ](TwitterProfileScrollingView/TwitterProfileScrollingView.gif)  |     
+| [CardCreationView            ](CardCreationView)            |  ![CardCreationView             ](CardCreationView/CardCreationView.gif)                        |     
+| [ThemeView                   ](ThemeView)                   |  ![ThemeView                    ](ThemeView/ThemeView.gif)                                      |     
+| [CustomKeyboardShowView      ](CustomKeyboardShowView)      |  ![CustomKeyboardShowView       ](CustomKeyboardShowView/CustomKeyboardShowView.gif)            |     
+| [CustomTabBar1               ](CustomTabBar1)               |  ![CustomTabBar1                ](CustomTabBar1/CustomTabBar1.gif)                              |     
+| [CustomTabBar2               ](CustomTabBar2)               |  ![CustomTabBar2                ](CustomTabBar2/CustomTabBar2.gif)                              |     
+| [CustomTabBar3               ](CustomTabBar3)               |  ![CustomTabBar3                ](CustomTabBar3/CustomTabBar3.gif)                              |     
+| [CustomTabBar4               ](CustomTabBar4)               |  ![CustomTabBar4                ](CustomTabBar4/CustomTabBar4.gif)                              |     
+| [CustomTabBar5               ](CustomTabBar5)               |  ![CustomTabBar5                ](CustomTabBar5/CustomTabBar5.gif)                              |     
+| [CustomTabBar6               ](CustomTabBar6)               |  ![CustomTabBar6                ](CustomTabBar6/CustomTabBar6.gif)                              |     
+| [ThreeColorAnimationView     ](ThreeColorAnimationView)     |  ![ThreeColorAnimationView      ](ThreeColorAnimationView/ThreeColorAnimationView.gif)          |     
+| [NumberLockView              ](NumberLockView)              |  ![NumberLockView               ](NumberLockView/NumberLockView.gif)                            |     
+| [FullScreenCoverView         ](FullScreenCoverView)         |  ![FullScreenCoverView          ](FullScreenCoverView/FullScreenCoverView.gif)                  |     
+| [SliderPagerView             ](SliderPagerView)             |  ![SliderPagerView              ](SliderPagerView/SliderPagerView.gif)                          |     
+| [AutoScrollingPageView       ](AutoScrollingPageView)       |  ![AutoScrollingPageView        ](AutoScrollingPageView/AutoScrollingPageView.gif)              |     
+| [AutoScrollingTabsView       ](AutoScrollingTabsView)       |  ![AutoScrollingTabsView        ](AutoScrollingTabsView/AutoScrollingTabsView.gif)              |     
+| [VerifyCodeView              ](VerifyCodeView)              |  ![VerifyCodeView               ](VerifyCodeView/VerifyCodeView.gif)                            |     
+| [BankCardView                ](BankCardView)                |  ![BankCardView                 ](BankCardView/BankCardView.gif)                                |     
 | [TwitterProfileScrollingView ](TwitterProfileScrollingView) |  ![TwitterProfileScrollingView  ](TwitterProfileScrollingView/TwitterProfileScrollingView.gif)  |     
 | [TwitterProfileScrollingView ](TwitterProfileScrollingView) |  ![TwitterProfileScrollingView  ](TwitterProfileScrollingView/TwitterProfileScrollingView.gif)  |     
 | [TwitterProfileScrollingView ](TwitterProfileScrollingView) |  ![TwitterProfileScrollingView  ](TwitterProfileScrollingView/TwitterProfileScrollingView.gif)  |     
