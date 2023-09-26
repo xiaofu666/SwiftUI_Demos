@@ -78,7 +78,9 @@ Swift UI 实现的小控件 (持续更新中)
 | [iOSControlCenterAnimation   ](iOSControlCenterAnimation)   |  ![iOSControlCenterAnimation    ](iOSControlCenterAnimation/iOSControlCenterAnimation.gif)      |     
 | [DropDownView                ](DropDownView)                |  ![DropDownView                 ](DropDownView/DropDownView.gif)                                |     
 | [CropImageView               ](CropImageView)               |  ![CropImageView                ](CropImageView/CropImageView.gif)                              |     
-| [SpotifyUI                   ](SpotifyUI)                   |  ![SpotifyUI                    ](SpotifyUI/SpotifyUI.gif)                                      |   
+| [SpotifyUI                   ](SpotifyUI)                   |  ![SpotifyUI                    ](SpotifyUI/SpotifyUI.gif)                                      |  
+| [ShopUI                      ](ShopUI)                      |  ![ShopUI                       ](ShopUI/ShopUI.gif)                                            |     
+| [WeatherAPPUI                ](WeatherAPPUI)                |  ![WeatherAPPUI                 ](WeatherAPPUI/WeatherAPPUI.gif)                                |      
 | [CardCreationView            ](CardCreationView)            |  ![CardCreationView             ](CardCreationView/CardCreationView.gif)                        |     
 | [ThemeView                   ](ThemeView)                   |  ![ThemeView                    ](ThemeView/ThemeView.gif)                                      |     
 | [CustomKeyboardShowView      ](CustomKeyboardShowView)      |  ![CustomKeyboardShowView       ](CustomKeyboardShowView/CustomKeyboardShowView.gif)            |     
@@ -96,12 +98,14 @@ Swift UI 实现的小控件 (持续更新中)
 | [AutoScrollingTabsView       ](AutoScrollingTabsView)       |  ![AutoScrollingTabsView        ](AutoScrollingTabsView/AutoScrollingTabsView.gif)              |     
 | [VerifyCodeView              ](VerifyCodeView)              |  ![VerifyCodeView               ](VerifyCodeView/VerifyCodeView.gif)                            |     
 | [BankCardView                ](BankCardView)                |  ![BankCardView                 ](BankCardView/BankCardView.gif)                                |     
-| [TwitterProfileScrollingView ](TwitterProfileScrollingView) |  ![TwitterProfileScrollingView  ](TwitterProfileScrollingView/TwitterProfileScrollingView.gif)  |     
-| [TwitterProfileScrollingView ](TwitterProfileScrollingView) |  ![TwitterProfileScrollingView  ](TwitterProfileScrollingView/TwitterProfileScrollingView.gif)  |     
-| [TwitterProfileScrollingView ](TwitterProfileScrollingView) |  ![TwitterProfileScrollingView  ](TwitterProfileScrollingView/TwitterProfileScrollingView.gif)  |     
-| [TwitterProfileScrollingView ](TwitterProfileScrollingView) |  ![TwitterProfileScrollingView  ](TwitterProfileScrollingView/TwitterProfileScrollingView.gif)  |     
-| [TwitterProfileScrollingView ](TwitterProfileScrollingView) |  ![TwitterProfileScrollingView  ](TwitterProfileScrollingView/TwitterProfileScrollingView.gif)  |     
-| [TwitterProfileScrollingView ](TwitterProfileScrollingView) |  ![TwitterProfileScrollingView  ](TwitterProfileScrollingView/TwitterProfileScrollingView.gif)  |    
+| [CardGroupAnimationView      ](CardGroupAnimationView)      |  ![CardGroupAnimationView       ](CardGroupAnimationView/CardGroupAnimationView.gif)            |     
+| [DrawerSidebarMainView       ](DrawerSidebarMainView)       |  ![DrawerSidebarMainView        ](DrawerSidebarMainView/DrawerSidebarMainView.gif)              |     
+| [DrawerSidebarHomeView       ](DrawerSidebarHomeView)       |  ![DrawerSidebarHomeView        ](DrawerSidebarHomeView/DrawerSidebarHomeView.gif)              |     
+| [LocationSearchView          ](LocationSearchView)          |  ![LocationSearchView           ](LocationSearchView/LocationSearchView.gif)                    |     
+| [HabitTrackerView            ](HabitTrackerView)            |  ![HabitTrackerView             ](HabitTrackerView/HabitTrackerView.gif)                        |     
+| [TaskManager                 ](TaskManager)                 |  ![TaskManager                  ](TaskManager/TaskManager.gif)                                  |     
+| [TaskManagerView             ](TaskManagerView)             |  ![TaskManagerView              ](TaskManagerView/TaskManagerView.gif)                          |     
+| [SimpleTodoView              ](SimpleTodoView)              |  ![SimpleTodoView               ](SimpleTodoView/SimpleTodoView.gif)                            |    
   
   
   
