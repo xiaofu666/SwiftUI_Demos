@@ -1,6 +1,6 @@
 //
-//  IndecatorAnimatedView.swift
-//  IndecatorAnimated
+//  IndicatorAnimatedView.swift
+//  IndicatorAnimated
 //
 //  Created by Lurich on 2021/8/30.
 //
@@ -19,14 +19,14 @@ struct intro: Identifiable {
 
 var intros : [intro] = [
 
-    intro(image: "Book 1", title: "Choose your favourite menu", description: "But they are not the inconvience that our pleasure", color: Color("Blue")),
+    intro(image: "Book 1", title: "Choose your favourite menu", description: "But they are not the inconvenience that our pleasure", color: Color("Blue")),
     intro(image: "Book 2", title: "Find the best price", description: "There is no provision to smooth the consequences are", color: Color("Yellow")),
-    intro(image: "Book 3", title: "Your food is ready to be delivered", description: "ter than the plain of the soul to the task", color: Color("Pink")),
+    intro(image: "Book 3", title: "Your food is ready to be delivered", description: "the than the plain of the soul to the task", color: Color("Pink")),
 
 ]
 
 @available(iOS 15.0, *)
-struct IndecatorAnimatedView: View {
+struct IndicatorAnimatedView: View {
     @State var offset: CGFloat = 0
     
     var body: some View {
@@ -153,7 +153,7 @@ struct IndecatorAnimatedView: View {
 @available(iOS 15.0, *)
 struct IndecatorAnimatedView_Previews: PreviewProvider {
     static var previews: some View {
-        IndecatorAnimatedView()
+        IndicatorAnimatedView()
             .preferredColorScheme(.dark)
     }
 }

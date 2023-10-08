@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  IndecatorAnimatedView
+//  IndicatorAnimatedView
 //
 //  Created by Lurich on 2023/9/18.
 //
@@ -9,7 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        IndecatorAnimatedView()
+        IndicatorAnimatedView()
     }
 }
 
