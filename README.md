@@ -4,6 +4,8 @@ Swift UI 实现的小控件 (持续更新中)
 
 | Demo                                                              |  效果图                                                                                                |
 | ----------------------------------------------------------------  |  ---------------------------------------------------------------------------------------------------  |   
+| [FullScreenPop               ](Demos/FullScreenPop)               |  ![FullScreenPop                ](Demos/FullScreenPop/FullScreenPop.gif)                              |  
+| [InAppNotifications          ](Demos/InAppNotifications)          |  ![InAppNotifications           ](Demos/InAppNotifications/InAppNotifications.gif)                    |   
 | [StatusBarUpdate             ](Demos/StatusBarUpdate)             |  ![StatusBarUpdate              ](Demos/StatusBarUpdate/StatusBarUpdate.gif)                          |    
 | [DarkModeAnimation           ](Demos/DarkModeAnimation)           |  ![DarkModeAnimation            ](Demos/DarkModeAnimation/DarkModeAnimation.gif)                      |    
 | [HeartAnimation              ](Demos/HeartAnimation)              |  ![HeartAnimation               ](Demos/HeartAnimation/HeartAnimation.gif)                            |    
