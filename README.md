@@ -4,6 +4,7 @@ Swift UI 实现的小控件 (持续更新中)
 
 | Demo                                                              |  效果图                                                                                                | 功能的介绍 |
 | ----------------------------------------------------------------  |  ---------------------------------------------------------------------------------------------------  | -------- |   
+| [ProgressHeroEffect          ](Demos/ProgressHeroEffect)          |  ![ProgressHeroEffect           ](Demos/ProgressHeroEffect/ProgressHeroEffect.gif)                    | 过度动画 | 
 | [FullScreenPop               ](Demos/FullScreenPop)               |  ![FullScreenPop                ](Demos/FullScreenPop/FullScreenPop.gif)                              | 任意页面控制全屏手势返回 |  
 | [InAppNotifications          ](Demos/InAppNotifications)          |  ![InAppNotifications           ](Demos/InAppNotifications/InAppNotifications.gif)                    | 为灵动岛适配的消息通知 |   
 | [StatusBarUpdate             ](Demos/StatusBarUpdate)             |  ![StatusBarUpdate              ](Demos/StatusBarUpdate/StatusBarUpdate.gif)                          | 自定义控制系统状态栏颜色显示 |    
