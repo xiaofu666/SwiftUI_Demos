@@ -4,6 +4,7 @@ Swift UI 实现的小控件 (持续更新中)
 
 | Demo                                                              |  效果图                                                                                                | 功能的介绍 |
 | ----------------------------------------------------------------  |  ---------------------------------------------------------------------------------------------------  | -------- |  
+| [CardScroll                  ](Demos/CardScroll)                  |  ![CardScroll                   ](Demos/CardScroll/CardScroll.gif)                                    | 卡片表头滚动动画 |  
 | [LockSwiftUIView             ](Demos/LockSwiftUIView)             |  ![LockSwiftUIView              ](Demos/LockSwiftUIView/LockSwiftUIView.gif)                          | 面容解锁与数字解锁 |  
 | [ProgressHeroEffect          ](Demos/ProgressHeroEffect)          |  ![ProgressHeroEffect           ](Demos/ProgressHeroEffect/ProgressHeroEffect.gif)                    | 过度动画 | 
 | [FullScreenPop               ](Demos/FullScreenPop)               |  ![FullScreenPop                ](Demos/FullScreenPop/FullScreenPop.gif)                              | 任意页面控制全屏手势返回 |  
