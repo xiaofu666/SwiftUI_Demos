@@ -4,6 +4,7 @@ Swift UI 实现的小控件 (持续更新中)
 
 | Demo                                                              |  效果图                                                                                                | 功能的介绍 |
 | ----------------------------------------------------------------  |  ---------------------------------------------------------------------------------------------------  | -------- |  
+| [ScrollableTabView           ](Demos/ScrollableTabView)           |  ![ScrollableTabView            ](Demos/ScrollableTabView/ScrollableTabView.gif)                      | 标签滚动动画 |  
 | [CardScroll                  ](Demos/CardScroll)                  |  ![CardScroll                   ](Demos/CardScroll/CardScroll.gif)                                    | 卡片表头滚动动画 |  
 | [LockSwiftUIView             ](Demos/LockSwiftUIView)             |  ![LockSwiftUIView              ](Demos/LockSwiftUIView/LockSwiftUIView.gif)                          | 面容解锁与数字解锁 |  
 | [ProgressHeroEffect          ](Demos/ProgressHeroEffect)          |  ![ProgressHeroEffect           ](Demos/ProgressHeroEffect/ProgressHeroEffect.gif)                    | 过度动画 | 
@@ -17,7 +18,7 @@ Swift UI 实现的小控件 (持续更新中)
 | [TagTextField                ](Demos/TagTextField              )  |  ![TagTextField                 ](Demos/TagTextField/TagTextField.gif)                                | 标签输入 |     
 | [SwipeToHideNavBar           ](Demos/SwipeToHideNavBar         )  |  ![SwipeToHideNavBar            ](Demos/SwipeToHideNavBar/SwipeToHideNavBar.gif)                      | 列表滑动隐藏导航栏 |       
 | [AnimatedSFTabBar            ](Demos/AnimatedSFTabBar          )  |  ![AnimatedSFTabBar             ](Demos/AnimatedSFTabBar/AnimatedSFTabBar.gif)                        | TabBar 动画 |     
-| [DragDropDemo                ](Demos/DragDropDemo              )  |  ![DragDropDemo                 ](Demos/DragDropDemo/DragDropDemo.gif)                                | Darg 和 Drop |     
+| [DragDropDemo                ](Demos/DragDropDemo              )  |  ![DragDropDemo                 ](Demos/DragDropDemo/DragDropDemo.gif)                                | Drag 和 Drop |     
 | [DragImagePicker             ](Demos/DragImagePicker           )  |  ![DragImagePicker              ](Demos/DragImagePicker/DragImagePicker.gif)                          | 动态 Sheet |     
 | [DynamicSheetView            ](Demos/DynamicSheetView          )  |  ![DynamicSheetView             ](Demos/DynamicSheetView/DynamicSheetView.gif)                        | 玻璃面板 |     
 | [GlassMorphismCardView       ](Demos/GlassMorphismCardView     )  |  ![GlassMorphismCardView        ](Demos/GlassMorphismCardView/GlassMorphismCardView.gif)              |  |     
