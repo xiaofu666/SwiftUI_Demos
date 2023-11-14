@@ -4,6 +4,7 @@ Swift UI 实现的小控件 (持续更新中)
 
 | Demo                                                              |  效果图                                                                                                | 功能的介绍 |
 | ----------------------------------------------------------------  |  ---------------------------------------------------------------------------------------------------  | -------- |  
+| [ReelsLayout                 ](Demos/ReelsLayout)                 |  ![ReelsLayout                  ](Demos/ReelsLayout/ReelsLayout.gif)                                  | 仿短视频滑动播放与点赞 |  
 | [ScrollableTabView           ](Demos/ScrollableTabView)           |  ![ScrollableTabView            ](Demos/ScrollableTabView/ScrollableTabView.gif)                      | 标签滚动动画 |  
 | [CardScroll                  ](Demos/CardScroll)                  |  ![CardScroll                   ](Demos/CardScroll/CardScroll.gif)                                    | 卡片表头滚动动画 |  
 | [LockSwiftUIView             ](Demos/LockSwiftUIView)             |  ![LockSwiftUIView              ](Demos/LockSwiftUIView/LockSwiftUIView.gif)                          | 面容解锁与数字解锁 |  
