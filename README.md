@@ -4,6 +4,7 @@ Swift UI 实现的小控件 (持续更新中)
 
 | Demo                                                              |  效果图                                                                                                | 功能的介绍 |
 | ----------------------------------------------------------------  |  ---------------------------------------------------------------------------------------------------  | -------- |  
+| [DropDownPicker              ](Demos/DropDownPicker)              |  ![DropDownPicker               ](Demos/DropDownPicker/DropDownPicker.gif)                            | 选择框 | 
 | [CustomSwipeActions          ](Demos/CustomSwipeActions)          |  ![CustomSwipeActions           ](Demos/CustomSwipeActions/CustomSwipeActions.gif)                    | 滑动显示功能 |  
 | [CustomScrollAnimation       ](Demos/CustomScrollAnimation)       |  ![CustomScrollAnimation        ](Demos/CustomScrollAnimation/CustomScrollAnimation.gif)              | 日历滚动动画 |  
 | [ReelsLayout                 ](Demos/ReelsLayout)                 |  ![ReelsLayout                  ](Demos/ReelsLayout/ReelsLayout.gif)                                  | 仿短视频滑动播放与点赞 |  
