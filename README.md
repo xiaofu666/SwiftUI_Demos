@@ -4,6 +4,7 @@ Swift UI 实现的小控件 (持续更新中)
 
 | Demo                                                              |  效果图                                                                                                | 功能的介绍 |
 | ----------------------------------------------------------------  |  ---------------------------------------------------------------------------------------------------  | -------- |  
+| [InfiniteView                ](Demos/InfiniteView)                |  ![InfiniteView                 ](Demos/InfiniteView/InfiniteView.gif)                                | 无限轮播 | 
 | [DropDownPicker              ](Demos/DropDownPicker)              |  ![DropDownPicker               ](Demos/DropDownPicker/DropDownPicker.gif)                            | 选择框 | 
 | [CustomSwipeActions          ](Demos/CustomSwipeActions)          |  ![CustomSwipeActions           ](Demos/CustomSwipeActions/CustomSwipeActions.gif)                    | 滑动显示功能 |  
 | [CustomScrollAnimation       ](Demos/CustomScrollAnimation)       |  ![CustomScrollAnimation        ](Demos/CustomScrollAnimation/CustomScrollAnimation.gif)              | 日历滚动动画 |  
