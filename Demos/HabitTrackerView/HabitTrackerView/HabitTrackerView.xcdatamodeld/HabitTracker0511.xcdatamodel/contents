@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="21513" systemVersion="21G83" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="HabitData" representedClassName="HabitData" syncable="YES" codeGenerationType="class">
+        <attribute name="color" optional="YES" attributeType="String"/>
+        <attribute name="dateAdded" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="isRemainderOn" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="notificationDate" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="notificationIDs" optional="YES" attributeType="Transformable" valueTransformerName="NSStringValueTransformer" customClassName="[String]"/>
+        <attribute name="remainderText" optional="YES" attributeType="String"/>
+        <attribute name="title" optional="YES" attributeType="String"/>
+        <attribute name="weekDays" optional="YES" attributeType="Transformable" valueTransformerName="NSStringValueTransformer" customClassName="[String]"/>
+    </entity>
+</model>
