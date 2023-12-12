@@ -4,6 +4,7 @@ Swift UI 实现的小控件 (持续更新中)
 
 | Demo                                                              |  效果图                                                                                                | 功能的介绍 |
 | ----------------------------------------------------------------  |  ---------------------------------------------------------------------------------------------------  | -------- |  
+| [ImageViewer                 ](Demos/ImageViewer)                 |  ![ImageViewer                  ](Demos/ImageViewer/ImageViewer.gif)                                  | 图片查看器 | 
 | [WidgetsDemo                 ](Demos/WidgetsDemo)                 |  ![WidgetsDemo                  ](Demos/WidgetsDemo/WidgetsDemo.gif)                                  |  | 
 | [ShineEffect                 ](Demos/ShineEffect)                 |  ![ShineEffect                  ](Demos/ShineEffect/ShineEffect.gif)                                  | 光影动效 | 
 | [InfiniteView                ](Demos/InfiniteView)                |  ![InfiniteView                 ](Demos/InfiniteView/InfiniteView.gif)                                | 无限轮播 | 
