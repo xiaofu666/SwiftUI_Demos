@@ -32,7 +32,8 @@
 		E7EC24A42B2DF8C200749FB7 /* UserDefaults+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7EC24A32B2DF8C200749FB7 /* UserDefaults+Extensions.swift */; };
 		E7EC24A72B2DFD5900749FB7 /* MyUnitProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7EC24A62B2DFD5900749FB7 /* MyUnitProtocol.swift */; };
 		E7EC24A92B2E003500749FB7 /* LockView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7EC24A82B2E003500749FB7 /* LockView.swift */; };
-		E7EC24AC2B2E0AF700749FB7 /* NewExpenseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7EC24AB2B2E0AF700749FB7 /* NewExpenseView.swift */; };
+		E7EC24AC2B2E0AF700749FB7 /* TransactionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7EC24AB2B2E0AF700749FB7 /* TransactionView.swift */; };
+		E7EC24CA2B3088C800749FB7 /* FilterTransactionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7EC24C92B3088C800749FB7 /* FilterTransactionsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -62,7 +63,8 @@
 		E7EC24A32B2DF8C200749FB7 /* UserDefaults+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UserDefaults+Extensions.swift"; sourceTree = "<group>"; };
 		E7EC24A62B2DFD5900749FB7 /* MyUnitProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyUnitProtocol.swift; sourceTree = "<group>"; };
 		E7EC24A82B2E003500749FB7 /* LockView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LockView.swift; path = ../../../LockSwiftUIView/LockSwiftUIView/LockView.swift; sourceTree = "<group>"; };
-		E7EC24AB2B2E0AF700749FB7 /* NewExpenseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewExpenseView.swift; sourceTree = "<group>"; };
+		E7EC24AB2B2E0AF700749FB7 /* TransactionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransactionView.swift; sourceTree = "<group>"; };
+		E7EC24C92B3088C800749FB7 /* FilterTransactionsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilterTransactionsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -184,7 +186,8 @@
 			isa = PBXGroup;
 			children = (
 				E7EC247C2B2DCD7C00749FB7 /* IntroScreen.swift */,
-				E7EC24AB2B2E0AF700749FB7 /* NewExpenseView.swift */,
+				E7EC24AB2B2E0AF700749FB7 /* TransactionView.swift */,
+				E7EC24C92B3088C800749FB7 /* FilterTransactionsView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -263,6 +266,7 @@
 				E7EC248F2B2DDCCF00749FB7 /* Charts.swift in Sources */,
 				E7EC249E2B2DF4D200749FB7 /* DateFilterView.swift in Sources */,
 				E7EC24A22B2DF89B00749FB7 /* AppStorage+Extensions.swift in Sources */,
+				E7EC24CA2B3088C800749FB7 /* FilterTransactionsView.swift in Sources */,
 				E7EC24A42B2DF8C200749FB7 /* UserDefaults+Extensions.swift in Sources */,
 				E7EC248B2B2DDCBD00749FB7 /* Recents.swift in Sources */,
 				E7EC24862B2DDB3D00749FB7 /* Transaction.swift in Sources */,
@@ -279,7 +283,7 @@
 				E7EC24932B2DDE0300749FB7 /* View+Extensions.swift in Sources */,
 				E7EC248D2B2DDCC800749FB7 /* Search.swift in Sources */,
 				E7EC24802B2DCE8E00749FB7 /* Constants.swift in Sources */,
-				E7EC24AC2B2E0AF700749FB7 /* NewExpenseView.swift in Sources */,
+				E7EC24AC2B2E0AF700749FB7 /* TransactionView.swift in Sources */,
 				E7EC24842B2DDADA00749FB7 /* Category.swift in Sources */,
 				E7EC249A2B2DF0AC00749FB7 /* TransactionCardView.swift in Sources */,
 				E7EC24A92B2E003500749FB7 /* LockView.swift in Sources */,

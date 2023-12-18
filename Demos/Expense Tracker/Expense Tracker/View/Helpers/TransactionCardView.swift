@@ -9,6 +9,7 @@ import SwiftUI
 
 struct TransactionCardView: View {
     var transaction: Transaction
+    var showCategory: Bool = false
     
     @Environment(\.modelContext) private var context
     
@@ -33,6 +34,15 @@ struct TransactionCardView: View {
                     Text(format(date: transaction.dateAdded,format: "dd MMM yyyy"))
                         .font(.caption2)
                         .foregroundStyle(.gray)
+                    
+                    if showCategory {
+                        Text(transaction.category)
+                            .font(.caption2)
+                            .padding(.horizontal, 8)
+                            .padding(.vertical, 2)
+                            .foregroundStyle(.white)
+                            .background(transaction.category == Category.income.rawValue ? Color.green.gradient : Color.red.gradient, in: .capsule)
+                    }
                 })
                 .lineLimit(1)
                 .hSpacing(.leading)
