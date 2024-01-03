@@ -4,6 +4,7 @@ Swift UI 实现的小控件 (持续更新中)
 
 | Demo                                                              |  效果图                                                                                                | 功能的介绍 |
 | ----------------------------------------------------------------  |  ---------------------------------------------------------------------------------------------------  | -------- |  
+| [AnimatedPageIndicator       ](Demos/AnimatedPageIndicator)       |  ![AnimatedPageIndicator        ](Demos/AnimatedPageIndicator/AnimatedPageIndicator.gif)              | 自定义页面指示器 | 
 | [ScrollParallax              ](Demos/ScrollParallax)              |  ![ScrollParallax               ](Demos/ScrollParallax/ScrollParallax.gif)                            | 主题色更改动画 | 
 | [ThemeChanger                ](Demos/ThemeChanger)                |  ![ThemeChanger                 ](Demos/ThemeChanger/ThemeChanger.gif)                                | 主题色更改动画 | 
 | [CustomToasts                ](Demos/CustomToasts)                |  ![CustomToasts                 ](Demos/CustomToasts/CustomToasts.gif)                                | 提示弹框 | 
