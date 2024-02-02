@@ -4,6 +4,7 @@ Swift UI 实现的小控件 (持续更新中)
 
 | Demo                                                              |  效果图                                                                                                | 功能的介绍 |
 | ----------------------------------------------------------------  |  ---------------------------------------------------------------------------------------------------  | -------- |  
+| [MinimalTodo                 ](Demos/MinimalTodo)                 |  ![MinimalTodo                  ](Demos/MinimalTodo/MinimalTodo.gif)                                  | Swift Data 和 Widget 交互学习 | 
 | [ShareSheetExtension         ](Demos/ShareSheetExtension)         |  ![ShareSheetExtension          ](Demos/ShareSheetExtension/ShareSheetExtension.gif)                  | 系统相册照片分享至APP | 
 | [Coverflow                   ](Demos/Coverflow)                   |  ![Coverflow                    ](Demos/Coverflow/Coverflow.gif)                                      | 视图3D旋转效果 | 
 | [CustomFileExtension         ](Demos/CustomFileExtension)         |  ![CustomFileExtension          ](Demos/CustomFileExtension/CustomFileExtension.gif)                  | 数据加密存储和数据解密读取 | 
