@@ -4,6 +4,8 @@ Swift UI 实现的小控件 (持续更新中)
 
 | Demo                                                              |  效果图                                                                                                | 功能的介绍 |
 | ----------------------------------------------------------------  |  ---------------------------------------------------------------------------------------------------  | -------- |  
+| [DraggableMapPin             ](Demos/DraggableMapPin)             |  ![DraggableMapPin              ](Demos/DraggableMapPin/DraggableMapPin.gif)                          |  | 
+| [PopToRoot                   ](Demos/PopToRoot)                   |  ![PopToRoot                    ](Demos/PopToRoot/PopToRoot.gif)                                      | pop to root | 
 | [StretchySlider              ](Demos/StretchySlider)              |  ![StretchySlider               ](Demos/StretchySlider/StretchySlider.gif)                            | 弹性滑块 | 
 | [HeroEffect                  ](Demos/HeroEffect)                  |  ![HeroEffect                   ](Demos/HeroEffect/HeroEffect.gif)                                    | 转场动画 | 
 | [MinimalTodo                 ](Demos/MinimalTodo)                 |  ![MinimalTodo                  ](Demos/MinimalTodo/MinimalTodo.gif)                                  | Swift Data 和 Widget 交互学习 | 
