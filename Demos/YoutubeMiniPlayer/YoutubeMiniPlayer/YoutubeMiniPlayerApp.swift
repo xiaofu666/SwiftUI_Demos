@@ -1,6 +1,6 @@
 //
-//  YoutobeMiniPlayerApp.swift
-//  YoutobeMiniPlayer
+//  YoutubeMiniPlayerApp.swift
+//  YoutubeMiniPlayer
 //
 //  Created by Lurich on 2024/2/24.
 //
@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct YoutobeMiniPlayerApp: App {
+struct YoutubeMiniPlayerApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()

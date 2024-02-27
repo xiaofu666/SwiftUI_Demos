@@ -1,6 +1,6 @@
 //
 //  MiniPlayerView.swift
-//  YoutobeMiniPlayer
+//  YoutubeMiniPlayer
 //
 //  Created by Lurich on 2024/2/24.
 //

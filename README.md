@@ -4,6 +4,9 @@ Swift UI 实现的小控件 (持续更新中)
 
 | Demo                                                              |  效果图                                                                                                | 功能的介绍 |
 | ----------------------------------------------------------------  |  ---------------------------------------------------------------------------------------------------  | -------- |  
+| [AnimatedSegmentedControl    ](Demos/AnimatedSegmentedControl)    |  ![AnimatedSegmentedControl     ](Demos/AnimatedSegmentedControl/AnimatedSegmentedControl.gif)        | 分段控制器切换动画 | 
+| [YoutubeMiniPlayer           ](Demos/YoutubeMiniPlayer)           |  ![YoutubeMiniPlayer            ](Demos/YoutubeMiniPlayer/YoutubeMiniPlayer.gif)                      |  | 
+| [MapsBottomSheetV2           ](Demos/MapsBottomSheetV2)           |  ![MapsBottomSheetV2            ](Demos/MapsBottomSheetV2/MapsBottomSheetV2.gif)                      |  | 
 | [DraggableMapPin             ](Demos/DraggableMapPin)             |  ![DraggableMapPin              ](Demos/DraggableMapPin/DraggableMapPin.gif)                          |  | 
 | [PopToRoot                   ](Demos/PopToRoot)                   |  ![PopToRoot                    ](Demos/PopToRoot/PopToRoot.gif)                                      | pop to root | 
 | [StretchySlider              ](Demos/StretchySlider)              |  ![StretchySlider               ](Demos/StretchySlider/StretchySlider.gif)                            | 弹性滑块 | 

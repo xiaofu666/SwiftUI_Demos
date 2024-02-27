@@ -7,30 +7,30 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		E74EE8D82B899A4E00A7C256 /* YoutobeMiniPlayerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E74EE8D72B899A4E00A7C256 /* YoutobeMiniPlayerApp.swift */; };
-		E74EE8DA2B899A4E00A7C256 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E74EE8D92B899A4E00A7C256 /* ContentView.swift */; };
-		E74EE8DC2B899A4F00A7C256 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E74EE8DB2B899A4F00A7C256 /* Assets.xcassets */; };
-		E74EE8DF2B899A4F00A7C256 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E74EE8DE2B899A4F00A7C256 /* Preview Assets.xcassets */; };
-		E74EE8E62B899A6C00A7C256 /* Tab.swift in Sources */ = {isa = PBXBuildFile; fileRef = E74EE8E52B899A6C00A7C256 /* Tab.swift */; };
-		E74EE8E82B89AF2800A7C256 /* PlayerItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = E74EE8E72B89AF2800A7C256 /* PlayerItem.swift */; };
-		E74EE8EA2B89B29D00A7C256 /* PlayerConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = E74EE8E92B89B29D00A7C256 /* PlayerConfig.swift */; };
-		E74EE8EC2B89B38300A7C256 /* MiniPlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E74EE8EB2B89B38300A7C256 /* MiniPlayerView.swift */; };
+		E7D655DE2B89C82B00666246 /* YoutubeMiniPlayerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7D655DD2B89C82B00666246 /* YoutubeMiniPlayerApp.swift */; };
+		E7D655E02B89C82B00666246 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7D655DF2B89C82B00666246 /* ContentView.swift */; };
+		E7D655E22B89C82C00666246 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E7D655E12B89C82C00666246 /* Assets.xcassets */; };
+		E7D655E52B89C82C00666246 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E7D655E42B89C82C00666246 /* Preview Assets.xcassets */; };
+		E7D655EF2B89C86700666246 /* PlayerItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7D655EB2B89C86700666246 /* PlayerItem.swift */; };
+		E7D655F02B89C86700666246 /* PlayerConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7D655EC2B89C86700666246 /* PlayerConfig.swift */; };
+		E7D655F12B89C86700666246 /* Tab.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7D655ED2B89C86700666246 /* Tab.swift */; };
+		E7D655F22B89C86700666246 /* MiniPlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7D655EE2B89C86700666246 /* MiniPlayerView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		E74EE8D42B899A4E00A7C256 /* YoutobeMiniPlayer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YoutobeMiniPlayer.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		E74EE8D72B899A4E00A7C256 /* YoutobeMiniPlayerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YoutobeMiniPlayerApp.swift; sourceTree = "<group>"; };
-		E74EE8D92B899A4E00A7C256 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		E74EE8DB2B899A4F00A7C256 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		E74EE8DE2B899A4F00A7C256 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		E74EE8E52B899A6C00A7C256 /* Tab.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tab.swift; sourceTree = "<group>"; };
-		E74EE8E72B89AF2800A7C256 /* PlayerItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerItem.swift; sourceTree = "<group>"; };
-		E74EE8E92B89B29D00A7C256 /* PlayerConfig.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerConfig.swift; sourceTree = "<group>"; };
-		E74EE8EB2B89B38300A7C256 /* MiniPlayerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MiniPlayerView.swift; sourceTree = "<group>"; };
+		E7D655DA2B89C82B00666246 /* YoutubeMiniPlayer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YoutubeMiniPlayer.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E7D655DD2B89C82B00666246 /* YoutubeMiniPlayerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YoutubeMiniPlayerApp.swift; sourceTree = "<group>"; };
+		E7D655DF2B89C82B00666246 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		E7D655E12B89C82C00666246 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		E7D655E42B89C82C00666246 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E7D655EB2B89C86700666246 /* PlayerItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlayerItem.swift; sourceTree = "<group>"; };
+		E7D655EC2B89C86700666246 /* PlayerConfig.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlayerConfig.swift; sourceTree = "<group>"; };
+		E7D655ED2B89C86700666246 /* Tab.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Tab.swift; sourceTree = "<group>"; };
+		E7D655EE2B89C86700666246 /* MiniPlayerView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MiniPlayerView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		E74EE8D12B899A4E00A7C256 /* Frameworks */ = {
+		E7D655D72B89C82B00666246 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -40,41 +40,41 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		E74EE8CB2B899A4E00A7C256 = {
+		E7D655D12B89C82B00666246 = {
 			isa = PBXGroup;
 			children = (
-				E74EE8D62B899A4E00A7C256 /* YoutobeMiniPlayer */,
-				E74EE8D52B899A4E00A7C256 /* Products */,
+				E7D655DC2B89C82B00666246 /* YoutubeMiniPlayer */,
+				E7D655DB2B89C82B00666246 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		E74EE8D52B899A4E00A7C256 /* Products */ = {
+		E7D655DB2B89C82B00666246 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E74EE8D42B899A4E00A7C256 /* YoutobeMiniPlayer.app */,
+				E7D655DA2B89C82B00666246 /* YoutubeMiniPlayer.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		E74EE8D62B899A4E00A7C256 /* YoutobeMiniPlayer */ = {
+		E7D655DC2B89C82B00666246 /* YoutubeMiniPlayer */ = {
 			isa = PBXGroup;
 			children = (
-				E74EE8D72B899A4E00A7C256 /* YoutobeMiniPlayerApp.swift */,
-				E74EE8D92B899A4E00A7C256 /* ContentView.swift */,
-				E74EE8E52B899A6C00A7C256 /* Tab.swift */,
-				E74EE8E72B89AF2800A7C256 /* PlayerItem.swift */,
-				E74EE8E92B89B29D00A7C256 /* PlayerConfig.swift */,
-				E74EE8EB2B89B38300A7C256 /* MiniPlayerView.swift */,
-				E74EE8DB2B899A4F00A7C256 /* Assets.xcassets */,
-				E74EE8DD2B899A4F00A7C256 /* Preview Content */,
+				E7D655DD2B89C82B00666246 /* YoutubeMiniPlayerApp.swift */,
+				E7D655DF2B89C82B00666246 /* ContentView.swift */,
+				E7D655EE2B89C86700666246 /* MiniPlayerView.swift */,
+				E7D655EC2B89C86700666246 /* PlayerConfig.swift */,
+				E7D655EB2B89C86700666246 /* PlayerItem.swift */,
+				E7D655ED2B89C86700666246 /* Tab.swift */,
+				E7D655E12B89C82C00666246 /* Assets.xcassets */,
+				E7D655E32B89C82C00666246 /* Preview Content */,
 			);
-			path = YoutobeMiniPlayer;
+			path = YoutubeMiniPlayer;
 			sourceTree = "<group>";
 		};
-		E74EE8DD2B899A4F00A7C256 /* Preview Content */ = {
+		E7D655E32B89C82C00666246 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				E74EE8DE2B899A4F00A7C256 /* Preview Assets.xcassets */,
+				E7D655E42B89C82C00666246 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -82,39 +82,39 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E74EE8D32B899A4E00A7C256 /* YoutobeMiniPlayer */ = {
+		E7D655D92B89C82B00666246 /* YoutubeMiniPlayer */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E74EE8E22B899A4F00A7C256 /* Build configuration list for PBXNativeTarget "YoutobeMiniPlayer" */;
+			buildConfigurationList = E7D655E82B89C82C00666246 /* Build configuration list for PBXNativeTarget "YoutubeMiniPlayer" */;
 			buildPhases = (
-				E74EE8D02B899A4E00A7C256 /* Sources */,
-				E74EE8D12B899A4E00A7C256 /* Frameworks */,
-				E74EE8D22B899A4E00A7C256 /* Resources */,
+				E7D655D62B89C82B00666246 /* Sources */,
+				E7D655D72B89C82B00666246 /* Frameworks */,
+				E7D655D82B89C82B00666246 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = YoutobeMiniPlayer;
-			productName = YoutobeMiniPlayer;
-			productReference = E74EE8D42B899A4E00A7C256 /* YoutobeMiniPlayer.app */;
+			name = YoutubeMiniPlayer;
+			productName = YoutubeMiniPlayer;
+			productReference = E7D655DA2B89C82B00666246 /* YoutubeMiniPlayer.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		E74EE8CC2B899A4E00A7C256 /* Project object */ = {
+		E7D655D22B89C82B00666246 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1520;
 				LastUpgradeCheck = 1520;
 				TargetAttributes = {
-					E74EE8D32B899A4E00A7C256 = {
+					E7D655D92B89C82B00666246 = {
 						CreatedOnToolsVersion = 15.2;
 					};
 				};
 			};
-			buildConfigurationList = E74EE8CF2B899A4E00A7C256 /* Build configuration list for PBXProject "YoutobeMiniPlayer" */;
+			buildConfigurationList = E7D655D52B89C82B00666246 /* Build configuration list for PBXProject "YoutubeMiniPlayer" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -122,46 +122,46 @@
 				en,
 				Base,
 			);
-			mainGroup = E74EE8CB2B899A4E00A7C256;
-			productRefGroup = E74EE8D52B899A4E00A7C256 /* Products */;
+			mainGroup = E7D655D12B89C82B00666246;
+			productRefGroup = E7D655DB2B89C82B00666246 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E74EE8D32B899A4E00A7C256 /* YoutobeMiniPlayer */,
+				E7D655D92B89C82B00666246 /* YoutubeMiniPlayer */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		E74EE8D22B899A4E00A7C256 /* Resources */ = {
+		E7D655D82B89C82B00666246 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E74EE8DF2B899A4F00A7C256 /* Preview Assets.xcassets in Resources */,
-				E74EE8DC2B899A4F00A7C256 /* Assets.xcassets in Resources */,
+				E7D655E52B89C82C00666246 /* Preview Assets.xcassets in Resources */,
+				E7D655E22B89C82C00666246 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		E74EE8D02B899A4E00A7C256 /* Sources */ = {
+		E7D655D62B89C82B00666246 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E74EE8EC2B89B38300A7C256 /* MiniPlayerView.swift in Sources */,
-				E74EE8E62B899A6C00A7C256 /* Tab.swift in Sources */,
-				E74EE8DA2B899A4E00A7C256 /* ContentView.swift in Sources */,
-				E74EE8D82B899A4E00A7C256 /* YoutobeMiniPlayerApp.swift in Sources */,
-				E74EE8E82B89AF2800A7C256 /* PlayerItem.swift in Sources */,
-				E74EE8EA2B89B29D00A7C256 /* PlayerConfig.swift in Sources */,
+				E7D655F22B89C86700666246 /* MiniPlayerView.swift in Sources */,
+				E7D655F02B89C86700666246 /* PlayerConfig.swift in Sources */,
+				E7D655E02B89C82B00666246 /* ContentView.swift in Sources */,
+				E7D655F12B89C86700666246 /* Tab.swift in Sources */,
+				E7D655DE2B89C82B00666246 /* YoutubeMiniPlayerApp.swift in Sources */,
+				E7D655EF2B89C86700666246 /* PlayerItem.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		E74EE8E02B899A4F00A7C256 /* Debug */ = {
+		E7D655E62B89C82C00666246 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -224,7 +224,7 @@
 			};
 			name = Debug;
 		};
-		E74EE8E12B899A4F00A7C256 /* Release */ = {
+		E7D655E72B89C82C00666246 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -280,14 +280,14 @@
 			};
 			name = Release;
 		};
-		E74EE8E32B899A4F00A7C256 /* Debug */ = {
+		E7D655E92B89C82C00666246 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"YoutobeMiniPlayer/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"YoutubeMiniPlayer/Preview Content\"";
 				DEVELOPMENT_TEAM = NN56R38BZT;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -301,7 +301,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = con.lurich.YoutobeMiniPlayer;
+				PRODUCT_BUNDLE_IDENTIFIER = con.lurich.YoutubeMiniPlayer;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -309,14 +309,14 @@
 			};
 			name = Debug;
 		};
-		E74EE8E42B899A4F00A7C256 /* Release */ = {
+		E7D655EA2B89C82C00666246 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"YoutobeMiniPlayer/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"YoutubeMiniPlayer/Preview Content\"";
 				DEVELOPMENT_TEAM = NN56R38BZT;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -330,7 +330,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = con.lurich.YoutobeMiniPlayer;
+				PRODUCT_BUNDLE_IDENTIFIER = con.lurich.YoutubeMiniPlayer;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -341,25 +341,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E74EE8CF2B899A4E00A7C256 /* Build configuration list for PBXProject "YoutobeMiniPlayer" */ = {
+		E7D655D52B89C82B00666246 /* Build configuration list for PBXProject "YoutubeMiniPlayer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E74EE8E02B899A4F00A7C256 /* Debug */,
-				E74EE8E12B899A4F00A7C256 /* Release */,
+				E7D655E62B89C82C00666246 /* Debug */,
+				E7D655E72B89C82C00666246 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E74EE8E22B899A4F00A7C256 /* Build configuration list for PBXNativeTarget "YoutobeMiniPlayer" */ = {
+		E7D655E82B89C82C00666246 /* Build configuration list for PBXNativeTarget "YoutubeMiniPlayer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E74EE8E32B899A4F00A7C256 /* Debug */,
-				E74EE8E42B899A4F00A7C256 /* Release */,
+				E7D655E92B89C82C00666246 /* Debug */,
+				E7D655EA2B89C82C00666246 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = E74EE8CC2B899A4E00A7C256 /* Project object */;
+	rootObject = E7D655D22B89C82B00666246 /* Project object */;
 }
