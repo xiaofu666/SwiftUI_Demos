@@ -4,6 +4,20 @@ Swift UI 实现的小控件 (持续更新中)
 
 | Demo                                                              |  效果图                                                                                                | 功能的介绍 |
 | ----------------------------------------------------------------  |  ---------------------------------------------------------------------------------------------------  | -------- |  
+| [StackedCards                ](Demos/StackedCards)                |  ![StackedCards                 ](Demos/StackedCards/StackedCards.gif)                                | 卡片堆叠 |    
+| [BoomerangCardsView          ](Demos/BoomerangCardsView)          |  ![BoomerangCardsView           ](Demos/BoomerangCardsView/BoomerangCardsView.gif)                    |  |     
+| [SwipeCardView               ](Demos/SwipeCardView)               |  ![SwipeCardView                ](Demos/SwipeCardView/SwipeCardView.gif)                              |  |  
+| [TinderCardUI                ](Demos/TinderCardUI)                |  ![TinderCardUI                 ](Demos/TinderCardUI/TinderCardUI.gif)                                |  |   
+| [AnimatedPageIndicator       ](Demos/AnimatedPageIndicator)       |  ![AnimatedPageIndicator        ](Demos/AnimatedPageIndicator/AnimatedPageIndicator.gif)              | 自定义页面指示器 | 
+| [CustomSlider                ](Demos/CustomSlider)                |  ![CustomSlider                 ](Demos/CustomSlider/CustomSlider.gif)                                | 自定义Slider |  
+| [InfiniteCarouselView        ](Demos/InfiniteCarouselView)        |  ![InfiniteCarouselView         ](Demos/InfiniteCarouselView/InfiniteCarouselView.gif)                | 轮播图 |   
+| [InfiniteView                ](Demos/InfiniteView)                |  ![InfiniteView                 ](Demos/InfiniteView/InfiniteView.gif)                                | 无限轮播 | 
+| [MaterialCarouselView        ](Demos/MaterialCarouselView      )  |  ![MaterialCarouselView         ](Demos/MaterialCarouselView/MaterialCarouselView.gif)                | 转盘 |      
+| [MovieBannerView             ](Demos/MovieBannerView)             |  ![MovieBannerView              ](Demos/MovieBannerView/MovieBannerView.gif)                          |  |     
+| [ParallaxCarousel            ](Demos/ParallaxCarousel          )  |  ![ParallaxCarousel             ](Demos/ParallaxCarousel/ParallaxCarousel.gif)                        |  |   
+| [ParallaxCarouselView        ](Demos/ParallaxCarouselView)        |  ![ParallaxCarouselView         ](Demos/ParallaxCarouselView/ParallaxCarouselView.gif)                |  |    
+| [Coverflow                   ](Demos/Coverflow)                   |  ![Coverflow                    ](Demos/Coverflow/Coverflow.gif)                                      | 视图3D旋转效果 |     
+| [Carousel3DView              ](Demos/Carousel3DView)              |  ![Carousel3DView               ](Demos/Carousel3DView/Carousel3DView.gif)                            | 3D 转盘 |    
 | [AnimatedSegmentedControl    ](Demos/AnimatedSegmentedControl)    |  ![AnimatedSegmentedControl     ](Demos/AnimatedSegmentedControl/AnimatedSegmentedControl.gif)        | 分段控制器切换动画 | 
 | [YoutubeMiniPlayer           ](Demos/YoutubeMiniPlayer)           |  ![YoutubeMiniPlayer            ](Demos/YoutubeMiniPlayer/YoutubeMiniPlayer.gif)                      |  | 
 | [MapsBottomSheetV2           ](Demos/MapsBottomSheetV2)           |  ![MapsBottomSheetV2            ](Demos/MapsBottomSheetV2/MapsBottomSheetV2.gif)                      |  | 
@@ -13,16 +27,13 @@ Swift UI 实现的小控件 (持续更新中)
 | [HeroEffect                  ](Demos/HeroEffect)                  |  ![HeroEffect                   ](Demos/HeroEffect/HeroEffect.gif)                                    | 转场动画 | 
 | [MinimalTodo                 ](Demos/MinimalTodo)                 |  ![MinimalTodo                  ](Demos/MinimalTodo/MinimalTodo.gif)                                  | Swift Data 和 Widget 交互学习 | 
 | [ShareSheetExtension         ](Demos/ShareSheetExtension)         |  ![ShareSheetExtension          ](Demos/ShareSheetExtension/ShareSheetExtension.gif)                  | 系统相册照片分享至APP | 
-| [Coverflow                   ](Demos/Coverflow)                   |  ![Coverflow                    ](Demos/Coverflow/Coverflow.gif)                                      | 视图3D旋转效果 | 
 | [CustomFileExtension         ](Demos/CustomFileExtension)         |  ![CustomFileExtension          ](Demos/CustomFileExtension/CustomFileExtension.gif)                  | 数据加密存储和数据解密读取 | 
-| [AnimatedPageIndicator       ](Demos/AnimatedPageIndicator)       |  ![AnimatedPageIndicator        ](Demos/AnimatedPageIndicator/AnimatedPageIndicator.gif)              | 自定义页面指示器 | 
 | [ScrollParallax              ](Demos/ScrollParallax)              |  ![ScrollParallax               ](Demos/ScrollParallax/ScrollParallax.gif)                            |  | 
 | [ThemeChanger                ](Demos/ThemeChanger)                |  ![ThemeChanger                 ](Demos/ThemeChanger/ThemeChanger.gif)                                | 主题色更改动画 | 
 | [CustomToasts                ](Demos/CustomToasts)                |  ![CustomToasts                 ](Demos/CustomToasts/CustomToasts.gif)                                | 提示弹框 | 
 | [ImageViewer                 ](Demos/ImageViewer)                 |  ![ImageViewer                  ](Demos/ImageViewer/ImageViewer.gif)                                  | 图片查看器 | 
 | [WidgetsDemo                 ](Demos/WidgetsDemo)                 |  ![WidgetsDemo                  ](Demos/WidgetsDemo/WidgetsDemo.gif)                                  |  | 
 | [ShineEffect                 ](Demos/ShineEffect)                 |  ![ShineEffect                  ](Demos/ShineEffect/ShineEffect.gif)                                  | 光影动效 | 
-| [InfiniteView                ](Demos/InfiniteView)                |  ![InfiniteView                 ](Demos/InfiniteView/InfiniteView.gif)                                | 无限轮播 | 
 | [DropDownPicker              ](Demos/DropDownPicker)              |  ![DropDownPicker               ](Demos/DropDownPicker/DropDownPicker.gif)                            | 选择框 | 
 | [CustomSwipeActions          ](Demos/CustomSwipeActions)          |  ![CustomSwipeActions           ](Demos/CustomSwipeActions/CustomSwipeActions.gif)                    | 滑动显示功能 |  
 | [CustomScrollAnimation       ](Demos/CustomScrollAnimation)       |  ![CustomScrollAnimation        ](Demos/CustomScrollAnimation/CustomScrollAnimation.gif)              | 日历滚动动画 |  
@@ -35,8 +46,7 @@ Swift UI 实现的小控件 (持续更新中)
 | [InAppNotifications          ](Demos/InAppNotifications)          |  ![InAppNotifications           ](Demos/InAppNotifications/InAppNotifications.gif)                    | 为灵动岛适配的消息通知 |   
 | [StatusBarUpdate             ](Demos/StatusBarUpdate)             |  ![StatusBarUpdate              ](Demos/StatusBarUpdate/StatusBarUpdate.gif)                          | 自定义控制系统状态栏颜色显示 |    
 | [DarkModeAnimation           ](Demos/DarkModeAnimation)           |  ![DarkModeAnimation            ](Demos/DarkModeAnimation/DarkModeAnimation.gif)                      | 暗黑模式切换动画 |    
-| [HeartAnimation              ](Demos/HeartAnimation)              |  ![HeartAnimation               ](Demos/HeartAnimation/HeartAnimation.gif)                            | 心跳动画 |    
-| [CustomSlider                ](Demos/CustomSlider)                |  ![CustomSlider                 ](Demos/CustomSlider/CustomSlider.gif)                                | 自定义Slider |      
+| [HeartAnimation              ](Demos/HeartAnimation)              |  ![HeartAnimation               ](Demos/HeartAnimation/HeartAnimation.gif)                            | 心跳动画 |        
 | [CustomUniversalAlert        ](Demos/CustomUniversalAlert)        |  ![CustomUniversalAlert         ](Demos/CustomUniversalAlert/CustomUniversalAlert.gif)                | 自定义弹框 |     
 | [TagTextField                ](Demos/TagTextField              )  |  ![TagTextField                 ](Demos/TagTextField/TagTextField.gif)                                | 标签输入 |     
 | [SwipeToHideNavBar           ](Demos/SwipeToHideNavBar         )  |  ![SwipeToHideNavBar            ](Demos/SwipeToHideNavBar/SwipeToHideNavBar.gif)                      | 列表滑动隐藏导航栏 |       
@@ -44,9 +54,7 @@ Swift UI 实现的小控件 (持续更新中)
 | [DragDropDemo                ](Demos/DragDropDemo              )  |  ![DragDropDemo                 ](Demos/DragDropDemo/DragDropDemo.gif)                                | Drag 和 Drop |     
 | [DragImagePicker             ](Demos/DragImagePicker           )  |  ![DragImagePicker              ](Demos/DragImagePicker/DragImagePicker.gif)                          | 动态 Sheet |     
 | [DynamicSheetView            ](Demos/DynamicSheetView          )  |  ![DynamicSheetView             ](Demos/DynamicSheetView/DynamicSheetView.gif)                        | 玻璃面板 |     
-| [GlassMorphismCardView       ](Demos/GlassMorphismCardView     )  |  ![GlassMorphismCardView        ](Demos/GlassMorphismCardView/GlassMorphismCardView.gif)              |  |     
-| [MaterialCarouselView        ](Demos/MaterialCarouselView      )  |  ![MaterialCarouselView         ](Demos/MaterialCarouselView/MaterialCarouselView.gif)                | 转盘 |     
-| [ParallaxCarousel            ](Demos/ParallaxCarousel          )  |  ![ParallaxCarousel             ](Demos/ParallaxCarousel/ParallaxCarousel.gif)                        |  |     
+| [GlassMorphismCardView       ](Demos/GlassMorphismCardView     )  |  ![GlassMorphismCardView        ](Demos/GlassMorphismCardView/GlassMorphismCardView.gif)              |  |      
 | [RadialView                  ](Demos/RadialView                )  |  ![RadialView                   ](Demos/RadialView/RadialView.gif)                                    |  |     
 | [ReOrderingGridView          ](Demos/ReOrderingGridView        )  |  ![ReOrderingGridView           ](Demos/ReOrderingGridView/ReOrderingGridView.gif)                    | 拖拽排序 |     
 | [RepeatButton                ](Demos/RepeatButton              )  |  ![RepeatButton                 ](Demos/RepeatButton/RepeatButton.gif)                                | 数字动画 |     
@@ -59,10 +67,7 @@ Swift UI 实现的小控件 (持续更新中)
 | [WalkthroughAnimationView    ](Demos/WalkthroughAnimationView  )  |  ![WalkthroughAnimationView     ](Demos/WalkthroughAnimationView/WalkthroughAnimationView.gif)        | ChatGPT 首页动画 |     
 | [ShapeMorphingAnimationView  ](Demos/ShapeMorphingAnimationView)  |  ![ShapeMorphingAnimationView   ](Demos/ShapeMorphingAnimationView/ShapeMorphingAnimationView.gif)    |  |     
 | [MatchedCarouselView         ](Demos/MatchedCarouselView)         |  ![MatchedCarouselView          ](Demos/MatchedCarouselView/MatchedCarouselView.gif)                  |  |     
-| [SegmentControl3DView        ](Demos/SegmentControl3DView)        |  ![SegmentControl3DView         ](Demos/SegmentControl3DView/SegmentControl3DView.gif)                | 3D 分段选择器 |     
-| [Carousel3DView              ](Demos/Carousel3DView)              |  ![Carousel3DView               ](Demos/Carousel3DView/Carousel3DView.gif)                            | 3D 转盘 |     
-| [ParallaxCarouselView        ](Demos/ParallaxCarouselView)        |  ![ParallaxCarouselView         ](Demos/ParallaxCarouselView/ParallaxCarouselView.gif)                |  |     
-| [MovieBannerView             ](Demos/MovieBannerView)             |  ![MovieBannerView              ](Demos/MovieBannerView/MovieBannerView.gif)                          |  |     
+| [SegmentControl3DView        ](Demos/SegmentControl3DView)        |  ![SegmentControl3DView         ](Demos/SegmentControl3DView/SegmentControl3DView.gif)                | 3D 分段选择器 |   
 | [SearchNavView               ](Demos/SearchNavView)               |  ![SearchNavView                ](Demos/SearchNavView/SearchNavView.gif)                              |  |     
 | [PageCurlSwipeView           ](Demos/PageCurlSwipeView)           |  ![PageCurlSwipeView            ](Demos/PageCurlSwipeView/PageCurlSwipeView.gif)                      |  |     
 | [PomodoroTimerView           ](Demos/PomodoroTimerView)           |  ![PomodoroTimerView            ](Demos/PomodoroTimerView/PomodoroTimerView.gif)                      | 定时器 |     
@@ -72,8 +77,6 @@ Swift UI 实现的小控件 (持续更新中)
 | [ScratchCardView             ](Demos/ScratchCardView)             |  ![ScratchCardView              ](Demos/ScratchCardView/ScratchCardView.gif)                          | 刮刮卡 |     
 | [ShimmerAnimationView        ](Demos/ShimmerAnimationView)        |  ![ShimmerAnimationView         ](Demos/ShimmerAnimationView/ShimmerAnimationView.gif)                | 光影动效 |     
 | [RollingTextView             ](Demos/RollingTextView)             |  ![RollingTextView              ](Demos/RollingTextView/RollingTextView.gif)                          | 滚动数字 |     
-| [BoomerangCardsView          ](Demos/BoomerangCardsView)          |  ![BoomerangCardsView           ](Demos/BoomerangCardsView/BoomerangCardsView.gif)                    |  |     
-| [PayListView                 ](Demos/PayListView)                 |  ![PayListView                  ](Demos/PayListView/PayListView.gif)                                  |  |     
 | [ParticleView                ](Demos/ParticleView)                |  ![ParticleView                 ](Demos/ParticleView/ParticleView.gif)                                | 水波纹 |     
 | [ContactScrollAnimationView  ](Demos/ContactScrollAnimationView)  |  ![ContactScrollAnimationView   ](Demos/ContactScrollAnimationView/ContactScrollAnimationView.gif)    |  |     
 | [ListHeaderAnimationView     ](Demos/ListHeaderAnimationView)     |  ![ListHeaderAnimationView      ](Demos/ListHeaderAnimationView/ListHeaderAnimationView.gif)          |  |     
@@ -84,9 +87,7 @@ Swift UI 实现的小控件 (持续更新中)
 | [SnapCarouselView            ](Demos/SnapCarouselView)            |  ![SnapCarouselView             ](Demos/SnapCarouselView/SnapCarouselView.gif)                        |  |     
 | [BallAnimationView           ](Demos/BallAnimationView)           |  ![BallAnimationView            ](Demos/BallAnimationView/BallAnimationView.gif)                      | 液体动画 |     
 | [LiquidSwipeAnimationView    ](Demos/LiquidSwipeAnimationView)    |  ![LiquidSwipeAnimationView     ](Demos/LiquidSwipeAnimationView/LiquidSwipeAnimationView.gif)        |  |     
-| [DashboardAnimationView      ](Demos/DashboardAnimationView)      |  ![DashboardAnimationView       ](Demos/DashboardAnimationView/DashboardAnimationView.gif)            | 进度指示器 |     
-| [SwipeCardView               ](Demos/SwipeCardView)               |  ![SwipeCardView                ](Demos/SwipeCardView/SwipeCardView.gif)                              |  |  
-| [TinderCardUI                ](Demos/TinderCardUI)                |  ![TinderCardUI                 ](Demos/TinderCardUI/TinderCardUI.gif)                                |  |    
+| [DashboardAnimationView      ](Demos/DashboardAnimationView)      |  ![DashboardAnimationView       ](Demos/DashboardAnimationView/DashboardAnimationView.gif)            | 进度指示器 |    
 | [AppStoreDetailAnimationView ](Demos/AppStoreDetailAnimationView) |  ![AppStoreDetailAnimationView  ](Demos/AppStoreDetailAnimationView/AppStoreDetailAnimationView.gif)  |  |     
 | [ClockView                   ](Demos/ClockView)                   |  ![ClockView                    ](Demos/ClockView/ClockView.gif)                                      | 表盘 |     
 | [ParticleEmitterView         ](Demos/ParticleEmitterView)         |  ![ParticleEmitterView          ](Demos/ParticleEmitterView/ParticleEmitterView.gif)                  | 点赞动画 |     
@@ -104,8 +105,7 @@ Swift UI 实现的小控件 (持续更新中)
 | [WidgetView                  ](Demos/WidgetView)                  |  ![WidgetView                   ](Demos/WidgetView/WidgetView.gif)                                    | 小组件及灵动岛 |     
 | [DynamicNotificationView     ](Demos/DynamicNotificationView)     |  ![DynamicNotificationView      ](Demos/DynamicNotificationView/DynamicNotificationView.gif)          | 灵动岛通知适配 |     
 | [RecordVideoView             ](Demos/RecordVideoView)             |  ![RecordVideoView              ](Demos/RecordVideoView/RecordVideoView.gif)                          | 录屏 |     
-| [QRCodeScannerView           ](Demos/QRCodeScannerView)           |  ![QRCodeScannerView            ](Demos/QRCodeScannerView/QRCodeScannerView.gif)                      | 扫码 |     
-| [InfiniteCarouselView        ](Demos/InfiniteCarouselView)        |  ![InfiniteCarouselView         ](Demos/InfiniteCarouselView/InfiniteCarouselView.gif)                | 轮播图 |       
+| [QRCodeScannerView           ](Demos/QRCodeScannerView)           |  ![QRCodeScannerView            ](Demos/QRCodeScannerView/QRCodeScannerView.gif)                      | 扫码 |         
 | [iOSControlCenterAnimation   ](Demos/iOSControlCenterAnimation)   |  ![iOSControlCenterAnimation    ](Demos/iOSControlCenterAnimation/iOSControlCenterAnimation.gif)      |  |     
 | [DropDownView                ](Demos/DropDownView)                |  ![DropDownView                 ](Demos/DropDownView/DropDownView.gif)                                | 选择框 |     
 | [CropImageView               ](Demos/CropImageView)               |  ![CropImageView                ](Demos/CropImageView/CropImageView.gif)                              | 图片裁剪 |     
@@ -129,6 +129,7 @@ Swift UI 实现的小控件 (持续更新中)
 | [AutoScrollingTabsView       ](Demos/AutoScrollingTabsView)       |  ![AutoScrollingTabsView        ](Demos/AutoScrollingTabsView/AutoScrollingTabsView.gif)              |  |     
 | [VerifyCodeView              ](Demos/VerifyCodeView)              |  ![VerifyCodeView               ](Demos/VerifyCodeView/VerifyCodeView.gif)                            | 验证码输入 |     
 | [BankCardView                ](Demos/BankCardView)                |  ![BankCardView                 ](Demos/BankCardView/BankCardView.gif)                                |  |     
+| [PayListView                 ](Demos/PayListView)                 |  ![PayListView                  ](Demos/PayListView/PayListView.gif)                                  |  |    
 | [CardGroupAnimationView      ](Demos/CardGroupAnimationView)      |  ![CardGroupAnimationView       ](Demos/CardGroupAnimationView/CardGroupAnimationView.gif)            |  |     
 | [DrawerSidebarMainView       ](Demos/DrawerSidebarMainView)       |  ![DrawerSidebarMainView        ](Demos/DrawerSidebarMainView/DrawerSidebarMainView.gif)              | 抽屉侧边栏 |     
 | [DrawerSidebarHomeView       ](Demos/DrawerSidebarHomeView)       |  ![DrawerSidebarHomeView        ](Demos/DrawerSidebarHomeView/DrawerSidebarHomeView.gif)              |  |     
