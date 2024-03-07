@@ -9,7 +9,21 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        WeatherAPPUI()
+        TabView {
+            WeatherAPPUI()
+                .tabItem {
+                    Image(systemName: "cloud.drizzle.circle.fill")
+                    Text("样式1")
+                }
+                .tag(1)
+            
+            WeatherApp()
+                .tabItem {
+                    Image(systemName: "cloud.drizzle.circle.fill")
+                    Text("样式2")
+                }
+                .tag(2)
+        }
     }
 }
 
