@@ -128,8 +128,10 @@ struct SpotLightTestView: View {
             }
             .labelStyle(.titleAndIcon)
         }
+        .contentShape(.rect)
         .onTapGesture {
             currentTipTag += 1
+            print(currentTipTag)
         }
     }
 }

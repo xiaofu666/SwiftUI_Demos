@@ -94,7 +94,8 @@ Swift UI 实现的小控件 (持续更新中)
 | [ClockView                   ](Demos/ClockView)                   |  ![ClockView                    ](Demos/ClockView/ClockView.gif)                                      | 表盘 |     
 | [ParticleEmitterView         ](Demos/ParticleEmitterView)         |  ![ParticleEmitterView          ](Demos/ParticleEmitterView/ParticleEmitterView.gif)                  | 点赞动画 |     
 | [YoutubeHomeView             ](Demos/YoutubeHomeView)             |  ![YoutubeHomeView              ](Demos/YoutubeHomeView/YoutubeHomeView.gif)                          |  |     
-| [SpotLightView               ](Demos/SpotLightView)               |  ![SpotLightView                ](Demos/SpotLightView/SpotLightView.gif)                              | 引导提示 |     
+| [SpotLightView               ](Demos/SpotLightView)               |  ![SpotLightView                ](Demos/SpotLightView/SpotLightView.gif)                              | 引导提示 | 
+| [ShowCaseView                ](Demos/ShowCaseView)                |  ![ShowCaseView                 ](Demos/ShowCaseView/ShowCaseView.gif)                                | 引导提示2 |     
 | [ResizableHeaderView         ](Demos/ResizableHeaderView)         |  ![ResizableHeaderView          ](Demos/ResizableHeaderView/ResizableHeaderView.gif)                  |  |     
 | [TelegramDynamicIsLandHeader ](Demos/TelegramDynamicIsLandHeader) |  ![TelegramDynamicIsLandHeade   ](Demos/TelegramDynamicIsLandHeader/TelegramDynamicIsLandHeader.gif)  |  |     
 | [TwitterProfileScrollingView ](Demos/TwitterProfileScrollingView) |  ![TwitterProfileScrollingView  ](Demos/TwitterProfileScrollingView/TwitterProfileScrollingView.gif)  |  |     

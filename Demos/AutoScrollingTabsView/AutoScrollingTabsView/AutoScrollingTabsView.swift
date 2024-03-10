@@ -21,9 +21,9 @@ struct AutoScrollingTabsView: View {
     
     var body: some View {
         //顶部tab跟随滚动
-//        scrollViewType1()
+        scrollViewType1()
         //顶部tab不跟随滚动
-        scrollViewType2()
+//        scrollViewType2()
     }
     
     @ViewBuilder
@@ -48,8 +48,8 @@ struct AutoScrollingTabsView: View {
             }
         }
         .onAppear {
-            for index in 1...6 {
-                items.append(AppItem(name: "标题\(index)", num: Int.random(in: 1...10)))
+            for index in 1...10 {
+                items.append(AppItem(name: "标题\(index)", num: Int.random(in: 20...100)))
             }
             currentTab = items[0].name
             
@@ -60,7 +60,7 @@ struct AutoScrollingTabsView: View {
             for item in items {
                 tmpArr.removeAll()
                 for i in 0...item.num {
-                    tmpArr.append(AppItem(name: "第 \(i+1) 个 cell", source: item.name, color: Color.orange, num: Int.random(in: 1...100)))
+                    tmpArr.append(AppItem(name: "第 \(i+1) 个 cell", source: item.name, color: Color.orange, num: Int.random(in: 10...100)))
                 }
                 productsBaseOnType.append(tmpArr)
             }
@@ -91,8 +91,8 @@ struct AutoScrollingTabsView: View {
             }
         }
         .onAppear {
-            for index in 1...6 {
-                items.append(AppItem(name: "标题\(index)", num: Int.random(in: 1...10)))
+            for index in 1...10 {
+                items.append(AppItem(name: "标题\(index)", num: Int.random(in: 20...100)))
             }
             currentTab = items[0].name
             
@@ -103,7 +103,7 @@ struct AutoScrollingTabsView: View {
             for item in items {
                 tmpArr.removeAll()
                 for i in 0...item.num {
-                    tmpArr.append(AppItem(name: "第 \(i+1) 个 cell", source: item.name, color: Color.orange, num: Int.random(in: 1...100)))
+                    tmpArr.append(AppItem(name: "第 \(i+1) 个 cell", source: item.name, color: Color.orange, num: Int.random(in: 10...100)))
                 }
                 productsBaseOnType.append(tmpArr)
             }
@@ -209,7 +209,7 @@ struct AutoScrollingTabsView: View {
                 }
             }
         })
-        .frame(maxWidth: .infinity, alignment: .leading)
+        .frame(maxWidthVSHS: .infinity, alignment: .leading)
         .padding(15)
         .id(products.type)
     }

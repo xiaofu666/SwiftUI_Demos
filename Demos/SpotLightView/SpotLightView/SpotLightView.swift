@@ -78,7 +78,7 @@ struct SpotLightView<Content: View>: View {
     func overlaySwiftUIView() -> some View {
         ZStack {
             Rectangle()
-                .fill(.black.opacity(0.8))
+                .fill(.primary.opacity(0.8))
                 .mask({
                     let radius: CGFloat = 8
                     Rectangle()
@@ -96,7 +96,7 @@ struct SpotLightView<Content: View>: View {
             if !title.isEmpty {
                 Text(title)
                     .font(.title.bold())
-                    .foregroundColor(.white)
+                    .foregroundStyle(.background)
                     .position()
                     .offset(x: getScreenRect().midX, y: rect.maxY > (getScreenRect().height - offsetY) ? (rect.minY - offsetY) : (rect.maxY + offsetY))
                     .padding()
