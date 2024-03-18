@@ -4,6 +4,9 @@ Swift UI 实现的小控件 (持续更新中)
 
 | Demo                                                              |  效果图                                                                                                | 功能的介绍 |
 | ----------------------------------------------------------------  |  ---------------------------------------------------------------------------------------------------  | -------- |  
+| [HorizontalWheelPicker       ](Demos/HorizontalWheelPicker)       |  ![HorizontalWheelPicker        ](Demos/HorizontalWheelPicker/HorizontalWheelPicker.gif)              | 滑动卡尺 |  
+| [FlipClockAnimation          ](Demos/FlipClockAnimation)          |  ![FlipClockAnimation           ](Demos/FlipClockAnimation/FlipClockAnimation.gif)                    | 时钟卡片翻页动画 |  
+| [MasonryLayout               ](Demos/MasonryLayout)               |  ![MasonryLayout                ](Demos/MasonryLayout/MasonryLayout.gif)                              | 图片瀑布流 |  
 | [HelloAnimation              ](Demos/HelloAnimation)              |  ![HelloAnimation               ](Demos/HelloAnimation/HelloAnimation.gif)                            | Hello 动画 |  
 | [CharRain                    ](Demos/CharRain)                    |  ![CharRain                     ](Demos/CharRain/CharRain.gif)                                        | 字符雨动画 |  
 | [StackedCards                ](Demos/StackedCards)                |  ![StackedCards                 ](Demos/StackedCards/StackedCards.gif)                                | 卡片堆叠 |    

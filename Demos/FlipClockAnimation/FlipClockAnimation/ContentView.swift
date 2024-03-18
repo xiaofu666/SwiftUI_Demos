@@ -17,12 +17,14 @@ struct ContentView: View {
     @State private var AmOrPm: String = "AM"
     @State private var animationDone: Bool = false
     
+    @Environment(\.verticalSizeClass) private var verticalSizeClass
+    
     var body: some View {
         ZStack {
             Color.primary
                 .ignoresSafeArea()
-            
-            HStack(spacing: 15) {
+            let layout = (verticalSizeClass == .compact) ? AnyLayout(HStackLayout()) : AnyLayout(VStackLayout())
+            layout {
                 FlipNumberView(current: hour)
                     .overlay(alignment: .topLeading) {
                         Text(AmOrPm)
@@ -34,6 +36,7 @@ struct ContentView: View {
                 FlipNumberView(current: minute)
                 FlipNumberView(current: second)
             }
+            .padding(15)
         }
         .onReceive(Timer.publish(every: 1, on: .main, in: .common).autoconnect(), perform: { date in
             hour = currentCalendar.component(.hour, from: date + 1)
@@ -135,7 +138,7 @@ struct FlipNumberView: View {
                     }
                     .rotation3DEffect(
                         .degrees(values.flip2),
-                        axis: (x: -1.0, y: 0.0,z: 0.0)
+                        axis: (x: 1.0, y: 0.0,z: 0.0)
                     )
             }
             .overlay {
