@@ -4,6 +4,7 @@ Swift UI 实现的小控件 (持续更新中)
 
 | Demo                                                              |  效果图                                                                                                | 功能的介绍 |
 | ----------------------------------------------------------------  |  ---------------------------------------------------------------------------------------------------  | -------- |  
+| [HoldDownView                ](Demos/HoldDownView)                |  ![HoldDownView                 ](Demos/HoldDownView/HoldDownView.gif)                                | 按压手势按钮 |  
 | [HorizontalWheelPicker       ](Demos/HorizontalWheelPicker)       |  ![HorizontalWheelPicker        ](Demos/HorizontalWheelPicker/HorizontalWheelPicker.gif)              | 滑动卡尺 |  
 | [FlipClockAnimation          ](Demos/FlipClockAnimation)          |  ![FlipClockAnimation           ](Demos/FlipClockAnimation/FlipClockAnimation.gif)                    | 时钟卡片翻页动画 |  
 | [MasonryLayout               ](Demos/MasonryLayout)               |  ![MasonryLayout                ](Demos/MasonryLayout/MasonryLayout.gif)                              | 图片瀑布流 |  
