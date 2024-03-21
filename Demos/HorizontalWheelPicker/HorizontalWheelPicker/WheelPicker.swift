@@ -58,6 +58,9 @@ struct WheelPicker: View {
                     .frame(width: 1, height: 40)
                     .padding(.bottom, 20)
             }
+            .sensoryFeedback(trigger: value) { oldValue, newValue in
+                return SensoryFeedback.impact(weight: .light, intensity: 0.5)
+            }
             .safeAreaPadding(.horizontal, horizontalPadding)
             .onAppear() {
                 if !isLoaded {

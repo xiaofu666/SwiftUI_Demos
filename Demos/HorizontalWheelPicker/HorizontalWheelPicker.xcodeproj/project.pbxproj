@@ -12,6 +12,7 @@
 		E798B5A72BA87A98007DAA27 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E798B5A62BA87A98007DAA27 /* Assets.xcassets */; };
 		E798B5AA2BA87A98007DAA27 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E798B5A92BA87A98007DAA27 /* Preview Assets.xcassets */; };
 		E798B5B12BA87AB5007DAA27 /* WheelPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = E798B5B02BA87AB5007DAA27 /* WheelPicker.swift */; };
+		E798B5E92BAC67B6007DAA27 /* StatureControlView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E798B5E82BAC67B6007DAA27 /* StatureControlView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		E798B5A62BA87A98007DAA27 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E798B5A92BA87A98007DAA27 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E798B5B02BA87AB5007DAA27 /* WheelPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WheelPicker.swift; sourceTree = "<group>"; };
+		E798B5E82BAC67B6007DAA27 /* StatureControlView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StatureControlView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				E798B5A22BA87A97007DAA27 /* HorizontalWheelPickerApp.swift */,
 				E798B5A42BA87A97007DAA27 /* ContentView.swift */,
 				E798B5B02BA87AB5007DAA27 /* WheelPicker.swift */,
+				E798B5E82BAC67B6007DAA27 /* StatureControlView.swift */,
 				E798B5A62BA87A98007DAA27 /* Assets.xcassets */,
 				E798B5A82BA87A98007DAA27 /* Preview Content */,
 			);
@@ -143,6 +146,7 @@
 				E798B5A52BA87A97007DAA27 /* ContentView.swift in Sources */,
 				E798B5B12BA87AB5007DAA27 /* WheelPicker.swift in Sources */,
 				E798B5A32BA87A97007DAA27 /* HorizontalWheelPickerApp.swift in Sources */,
+				E798B5E92BAC67B6007DAA27 /* StatureControlView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

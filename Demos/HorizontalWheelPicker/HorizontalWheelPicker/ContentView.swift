@@ -77,6 +77,13 @@ struct ContentView: View {
                         Text("spacing")
                     }
                 }
+                
+                NavigationLink {
+                    StatureControlView()
+                } label: {
+                    Text("身高控件")
+                }
+
             }
             .navigationTitle("Wheel Picker")
         }
