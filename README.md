@@ -1,9 +1,11 @@
 # SwiftUI_Demos
 
-Swift UI 实现的小控件 (持续更新中)
+Swift UI 实现的小控件 (持续更新中，有疑问联系 QQ群 646589269 交流学习)
 
 | Demo                                                              |  效果图                                                                                                | 功能的介绍 |
 | ----------------------------------------------------------------  |  ---------------------------------------------------------------------------------------------------  | -------- |  
+| [AnimatedMenu                ](Demos/AnimatedMenu)                |  ![AnimatedMenu                 ](Demos/AnimatedMenu/AnimatedMenu.gif)                                | 侧滑菜单 | 
+| [JSONWithPagination          ](Demos/JSONWithPagination)          |  ![JSONWithPagination           ](Demos/JSONWithPagination/JSONWithPagination.gif)                    | SDWebImageSwiftUI 的使用和上拉加载更多数据的实现 |  
 | [HoldDownView                ](Demos/HoldDownView)                |  ![HoldDownView                 ](Demos/HoldDownView/HoldDownView.gif)                                | 按压手势按钮 |  
 | [HorizontalWheelPicker       ](Demos/HorizontalWheelPicker)       |  ![HorizontalWheelPicker        ](Demos/HorizontalWheelPicker/HorizontalWheelPicker.gif)              | 滑动卡尺 |  
 | [FlipClockAnimation          ](Demos/FlipClockAnimation)          |  ![FlipClockAnimation           ](Demos/FlipClockAnimation/FlipClockAnimation.gif)                    | 时钟卡片翻页动画 |  
