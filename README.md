@@ -4,6 +4,8 @@ Swift UI 实现的小控件 (持续更新中，有疑问联系 QQ群 646589269 �
 
 | Demo                                                              |  效果图                                                                                                | 功能的介绍 |
 | ----------------------------------------------------------------  |  ---------------------------------------------------------------------------------------------------  | -------- |  
+| [AnimatedCharts              ](Demos/AnimatedCharts)              |  ![AnimatedCharts               ](Demos/AnimatedCharts/AnimatedCharts.gif)                            | 图表动画 | 
+| [InstagramPinchZoom          ](Demos/InstagramPinchZoom)          |  ![InstagramPinchZoom           ](Demos/InstagramPinchZoom/InstagramPinchZoom.gif)                    | 图片缩放查看 | 
 | [LimitedTF                   ](Demos/LimitedTF)                   |  ![LimitedTF                    ](Demos/LimitedTF/LimitedTF.gif)                                      | 自定义输入框 | 
 | [AnimatedMenu                ](Demos/AnimatedMenu)                |  ![AnimatedMenu                 ](Demos/AnimatedMenu/AnimatedMenu.gif)                                | 侧滑菜单 | 
 | [JSONWithPagination          ](Demos/JSONWithPagination)          |  ![JSONWithPagination           ](Demos/JSONWithPagination/JSONWithPagination.gif)                    | SDWebImageSwiftUI 的使用和上拉加载更多数据的实现 |  
