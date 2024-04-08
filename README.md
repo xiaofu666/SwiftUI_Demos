@@ -1,9 +1,10 @@
 # SwiftUI_Demos
 
-Swift UI 实现的小控件 (持续更新中，有疑问联系 QQ群 646589269 交流学习)
+Swift UI 实现的小控件 (持续更新中)
 
 | Demo                                                              |  效果图                                                                                                | 功能的介绍 |
 | ----------------------------------------------------------------  |  ---------------------------------------------------------------------------------------------------  | -------- |  
+| [InteractiveFloatingButton   ](Demos/InteractiveFloatingButton)   |  ![InteractiveFloatingButton    ](Demos/InteractiveFloatingButton/InteractiveFloatingButton.gif)      | 浮动按钮动画 | 
 | [AnimatedCharts              ](Demos/AnimatedCharts)              |  ![AnimatedCharts               ](Demos/AnimatedCharts/AnimatedCharts.gif)                            | 图表动画 | 
 | [InstagramPinchZoom          ](Demos/InstagramPinchZoom)          |  ![InstagramPinchZoom           ](Demos/InstagramPinchZoom/InstagramPinchZoom.gif)                    | 图片缩放查看 | 
 | [LimitedTF                   ](Demos/LimitedTF)                   |  ![LimitedTF                    ](Demos/LimitedTF/LimitedTF.gif)                                      | 自定义输入框 | 

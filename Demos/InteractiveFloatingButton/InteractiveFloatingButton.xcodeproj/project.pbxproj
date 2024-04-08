@@ -7,26 +7,24 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		E78D9E382BC2D35E003026DC /* AnimatedChartsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E78D9E372BC2D35E003026DC /* AnimatedChartsApp.swift */; };
-		E78D9E3A2BC2D35E003026DC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E78D9E392BC2D35E003026DC /* ContentView.swift */; };
-		E78D9E3C2BC2D360003026DC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E78D9E3B2BC2D360003026DC /* Assets.xcassets */; };
-		E78D9E3F2BC2D360003026DC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E78D9E3E2BC2D360003026DC /* Preview Assets.xcassets */; };
-		E78D9E462BC2D385003026DC /* Download.swift in Sources */ = {isa = PBXBuildFile; fileRef = E78D9E452BC2D385003026DC /* Download.swift */; };
-		E78D9E482BC2E912003026DC /* InteractiveChartsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E78D9E472BC2E912003026DC /* InteractiveChartsView.swift */; };
+		E78D9E562BC42547003026DC /* InteractiveFloatingButtonApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E78D9E552BC42547003026DC /* InteractiveFloatingButtonApp.swift */; };
+		E78D9E582BC42547003026DC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E78D9E572BC42547003026DC /* ContentView.swift */; };
+		E78D9E5A2BC42549003026DC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E78D9E592BC42549003026DC /* Assets.xcassets */; };
+		E78D9E5D2BC42549003026DC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E78D9E5C2BC42549003026DC /* Preview Assets.xcassets */; };
+		E78D9E642BC4271F003026DC /* FloatingButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = E78D9E632BC4271F003026DC /* FloatingButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		E78D9E342BC2D35E003026DC /* AnimatedCharts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AnimatedCharts.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		E78D9E372BC2D35E003026DC /* AnimatedChartsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatedChartsApp.swift; sourceTree = "<group>"; };
-		E78D9E392BC2D35E003026DC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		E78D9E3B2BC2D360003026DC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		E78D9E3E2BC2D360003026DC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		E78D9E452BC2D385003026DC /* Download.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Download.swift; sourceTree = "<group>"; };
-		E78D9E472BC2E912003026DC /* InteractiveChartsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InteractiveChartsView.swift; sourceTree = "<group>"; };
+		E78D9E522BC42547003026DC /* InteractiveFloatingButton.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InteractiveFloatingButton.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E78D9E552BC42547003026DC /* InteractiveFloatingButtonApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InteractiveFloatingButtonApp.swift; sourceTree = "<group>"; };
+		E78D9E572BC42547003026DC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		E78D9E592BC42549003026DC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		E78D9E5C2BC42549003026DC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E78D9E632BC4271F003026DC /* FloatingButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FloatingButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		E78D9E312BC2D35E003026DC /* Frameworks */ = {
+		E78D9E4F2BC42547003026DC /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -36,39 +34,38 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		E78D9E2B2BC2D35E003026DC = {
+		E78D9E492BC42547003026DC = {
 			isa = PBXGroup;
 			children = (
-				E78D9E362BC2D35E003026DC /* AnimatedCharts */,
-				E78D9E352BC2D35E003026DC /* Products */,
+				E78D9E542BC42547003026DC /* InteractiveFloatingButton */,
+				E78D9E532BC42547003026DC /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		E78D9E352BC2D35E003026DC /* Products */ = {
+		E78D9E532BC42547003026DC /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E78D9E342BC2D35E003026DC /* AnimatedCharts.app */,
+				E78D9E522BC42547003026DC /* InteractiveFloatingButton.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		E78D9E362BC2D35E003026DC /* AnimatedCharts */ = {
+		E78D9E542BC42547003026DC /* InteractiveFloatingButton */ = {
 			isa = PBXGroup;
 			children = (
-				E78D9E372BC2D35E003026DC /* AnimatedChartsApp.swift */,
-				E78D9E392BC2D35E003026DC /* ContentView.swift */,
-				E78D9E472BC2E912003026DC /* InteractiveChartsView.swift */,
-				E78D9E452BC2D385003026DC /* Download.swift */,
-				E78D9E3B2BC2D360003026DC /* Assets.xcassets */,
-				E78D9E3D2BC2D360003026DC /* Preview Content */,
+				E78D9E552BC42547003026DC /* InteractiveFloatingButtonApp.swift */,
+				E78D9E572BC42547003026DC /* ContentView.swift */,
+				E78D9E632BC4271F003026DC /* FloatingButton.swift */,
+				E78D9E592BC42549003026DC /* Assets.xcassets */,
+				E78D9E5B2BC42549003026DC /* Preview Content */,
 			);
-			path = AnimatedCharts;
+			path = InteractiveFloatingButton;
 			sourceTree = "<group>";
 		};
-		E78D9E3D2BC2D360003026DC /* Preview Content */ = {
+		E78D9E5B2BC42549003026DC /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				E78D9E3E2BC2D360003026DC /* Preview Assets.xcassets */,
+				E78D9E5C2BC42549003026DC /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -76,39 +73,39 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E78D9E332BC2D35E003026DC /* AnimatedCharts */ = {
+		E78D9E512BC42547003026DC /* InteractiveFloatingButton */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E78D9E422BC2D360003026DC /* Build configuration list for PBXNativeTarget "AnimatedCharts" */;
+			buildConfigurationList = E78D9E602BC42549003026DC /* Build configuration list for PBXNativeTarget "InteractiveFloatingButton" */;
 			buildPhases = (
-				E78D9E302BC2D35E003026DC /* Sources */,
-				E78D9E312BC2D35E003026DC /* Frameworks */,
-				E78D9E322BC2D35E003026DC /* Resources */,
+				E78D9E4E2BC42547003026DC /* Sources */,
+				E78D9E4F2BC42547003026DC /* Frameworks */,
+				E78D9E502BC42547003026DC /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = AnimatedCharts;
-			productName = AnimatedCharts;
-			productReference = E78D9E342BC2D35E003026DC /* AnimatedCharts.app */;
+			name = InteractiveFloatingButton;
+			productName = InteractiveFloatingButton;
+			productReference = E78D9E522BC42547003026DC /* InteractiveFloatingButton.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		E78D9E2C2BC2D35E003026DC /* Project object */ = {
+		E78D9E4A2BC42547003026DC /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1530;
 				LastUpgradeCheck = 1530;
 				TargetAttributes = {
-					E78D9E332BC2D35E003026DC = {
+					E78D9E512BC42547003026DC = {
 						CreatedOnToolsVersion = 15.3;
 					};
 				};
 			};
-			buildConfigurationList = E78D9E2F2BC2D35E003026DC /* Build configuration list for PBXProject "AnimatedCharts" */;
+			buildConfigurationList = E78D9E4D2BC42547003026DC /* Build configuration list for PBXProject "InteractiveFloatingButton" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -116,44 +113,43 @@
 				en,
 				Base,
 			);
-			mainGroup = E78D9E2B2BC2D35E003026DC;
-			productRefGroup = E78D9E352BC2D35E003026DC /* Products */;
+			mainGroup = E78D9E492BC42547003026DC;
+			productRefGroup = E78D9E532BC42547003026DC /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E78D9E332BC2D35E003026DC /* AnimatedCharts */,
+				E78D9E512BC42547003026DC /* InteractiveFloatingButton */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		E78D9E322BC2D35E003026DC /* Resources */ = {
+		E78D9E502BC42547003026DC /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E78D9E3F2BC2D360003026DC /* Preview Assets.xcassets in Resources */,
-				E78D9E3C2BC2D360003026DC /* Assets.xcassets in Resources */,
+				E78D9E5D2BC42549003026DC /* Preview Assets.xcassets in Resources */,
+				E78D9E5A2BC42549003026DC /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		E78D9E302BC2D35E003026DC /* Sources */ = {
+		E78D9E4E2BC42547003026DC /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E78D9E482BC2E912003026DC /* InteractiveChartsView.swift in Sources */,
-				E78D9E462BC2D385003026DC /* Download.swift in Sources */,
-				E78D9E3A2BC2D35E003026DC /* ContentView.swift in Sources */,
-				E78D9E382BC2D35E003026DC /* AnimatedChartsApp.swift in Sources */,
+				E78D9E582BC42547003026DC /* ContentView.swift in Sources */,
+				E78D9E562BC42547003026DC /* InteractiveFloatingButtonApp.swift in Sources */,
+				E78D9E642BC4271F003026DC /* FloatingButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		E78D9E402BC2D360003026DC /* Debug */ = {
+		E78D9E5E2BC42549003026DC /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -216,7 +212,7 @@
 			};
 			name = Debug;
 		};
-		E78D9E412BC2D360003026DC /* Release */ = {
+		E78D9E5F2BC42549003026DC /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -272,14 +268,14 @@
 			};
 			name = Release;
 		};
-		E78D9E432BC2D360003026DC /* Debug */ = {
+		E78D9E612BC42549003026DC /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"AnimatedCharts/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"InteractiveFloatingButton/Preview Content\"";
 				DEVELOPMENT_TEAM = NN56R38BZT;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -293,7 +289,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = con.lurich.AnimatedCharts;
+				PRODUCT_BUNDLE_IDENTIFIER = con.lurich.InteractiveFloatingButton;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -301,14 +297,14 @@
 			};
 			name = Debug;
 		};
-		E78D9E442BC2D360003026DC /* Release */ = {
+		E78D9E622BC42549003026DC /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"AnimatedCharts/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"InteractiveFloatingButton/Preview Content\"";
 				DEVELOPMENT_TEAM = NN56R38BZT;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -322,7 +318,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = con.lurich.AnimatedCharts;
+				PRODUCT_BUNDLE_IDENTIFIER = con.lurich.InteractiveFloatingButton;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -333,25 +329,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E78D9E2F2BC2D35E003026DC /* Build configuration list for PBXProject "AnimatedCharts" */ = {
+		E78D9E4D2BC42547003026DC /* Build configuration list for PBXProject "InteractiveFloatingButton" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E78D9E402BC2D360003026DC /* Debug */,
-				E78D9E412BC2D360003026DC /* Release */,
+				E78D9E5E2BC42549003026DC /* Debug */,
+				E78D9E5F2BC42549003026DC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E78D9E422BC2D360003026DC /* Build configuration list for PBXNativeTarget "AnimatedCharts" */ = {
+		E78D9E602BC42549003026DC /* Build configuration list for PBXNativeTarget "InteractiveFloatingButton" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E78D9E432BC2D360003026DC /* Debug */,
-				E78D9E442BC2D360003026DC /* Release */,
+				E78D9E612BC42549003026DC /* Debug */,
+				E78D9E622BC42549003026DC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = E78D9E2C2BC2D35E003026DC /* Project object */;
+	rootObject = E78D9E4A2BC42547003026DC /* Project object */;
 }

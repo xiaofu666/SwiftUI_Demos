@@ -13,7 +13,7 @@ struct ContentView: View {
     @State private var isAnimated: Bool = false
     @State private var trigger: Bool = false
     @State private var chartType: String = "Bar"
-    @State private var animatedItems: Int = 5
+    @State private var animatedItems: Int = 9
     
     var body: some View {
         NavigationStack {
@@ -37,8 +37,8 @@ struct ContentView: View {
                     Picker("Animated Items", selection: $animatedItems) {
                         Text("5")
                             .tag(5)
-                        Text("8")
-                            .tag(8)
+                        Text("9")
+                            .tag(9)
                     }
                     .pickerStyle(.segmented)
 
@@ -91,12 +91,19 @@ struct ContentView: View {
                     }
                     //必须提供一个动画范围，一般是获取数组最大值
                     .chartYScale(domain: 0...12000)
-                    .frame(height: 280)
+                    .frame(height: 220)
                     .padding()
                     .background(.background, in: .rect(cornerRadius: 10))
                 } header: {
                     Text("Demo")
                 }
+                
+                NavigationLink {
+                    InteractiveChartsView()
+                } label: {
+                    Text("互动性图表")
+                }
+
             }
             .padding()
             .background(.gray.opacity(0.12))
@@ -111,9 +118,9 @@ struct ContentView: View {
                     Button("", systemImage: "arrow.clockwise") {
                         appDownloads = sampleDownloads
                         appDownloads.append(contentsOf: [
-                            .init(date: .createDate(1, 2, 24), value: 4700), 
-                            .init(date: .createDate(1, 3, 24), value: 7700),
-                            .init(date: .createDate(1, 4, 24), value: 1700)
+                            .init(date: .createDate(1, 7, 23), value: 4700),
+                            .init(date: .createDate(1, 8, 23), value: 7700),
+                            .init(date: .createDate(1, 9, 23), value: 1700)
                         ])
                         trigger.toggle()
                     }
