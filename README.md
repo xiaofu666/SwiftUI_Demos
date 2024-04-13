@@ -3,7 +3,8 @@
 Swift UI 实现的小控件 (持续更新中)
 
 | Demo                                                              |  效果图                                                                                                | 功能的介绍 |
-| ----------------------------------------------------------------  |  ---------------------------------------------------------------------------------------------------  | -------- |  
+| ----------------------------------------------------------------  |  ---------------------------------------------------------------------------------------------------  | -------- | 
+| [NetflixUI                   ](Demos/NetflixUI)                   |  ![NetflixUI                    ](Demos/NetflixUI/NetflixUI.gif)                                      | 启动屏动画 |  
 | [BookCard                    ](Demos/BookCard)                    |  ![BookCard                     ](Demos/BookCard/BookCard.gif)                                        | 翻书动画 | 
 | [InteractiveFloatingButton   ](Demos/InteractiveFloatingButton)   |  ![InteractiveFloatingButton    ](Demos/InteractiveFloatingButton/InteractiveFloatingButton.gif)      | 浮动按钮动画 | 
 | [AnimatedCharts              ](Demos/AnimatedCharts)              |  ![AnimatedCharts               ](Demos/AnimatedCharts/AnimatedCharts.gif)                            | 图表动画 | 
