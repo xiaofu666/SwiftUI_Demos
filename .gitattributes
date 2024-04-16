@@ -1,0 +1,10 @@
+*.md linguist-language=Swift
+*.yml linguist-language=Swift 
+*.html linguist-language=Swift 
+*.js linguist-language=Swift
+*.xml linguist-language=Swift
+*.css linguist-language=Swift
+*.sql linguist-language=Swift
+*.uml linguist-language=Swift
+*.cmd linguist-language=Swift
+*.gif linguist-language=Swift
