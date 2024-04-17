@@ -4,6 +4,7 @@ Swift UI 实现的小控件 (持续更新中)
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
+| [FlipTransition              ](SwiftUI_Demos/FlipTransition)              |  ![FlipTransition               ](SwiftUI_Demos/FlipTransition/FlipTransition.gif)                            | 翻卡动画 |  
 | [NetflixUI                   ](SwiftUI_Demos/NetflixUI)                   |  ![NetflixUI                    ](SwiftUI_Demos/NetflixUI/NetflixUI.gif)                                      | 启动屏动画 |  
 | [BookCard                    ](SwiftUI_Demos/BookCard)                    |  ![BookCard                     ](SwiftUI_Demos/BookCard/BookCard.gif)                                        | 翻书动画 | 
 | [InteractiveFloatingButton   ](SwiftUI_Demos/InteractiveFloatingButton)   |  ![InteractiveFloatingButton    ](SwiftUI_Demos/InteractiveFloatingButton/InteractiveFloatingButton.gif)      | 浮动按钮动画 | 
