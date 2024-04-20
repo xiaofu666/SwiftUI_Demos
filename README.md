@@ -1,9 +1,19 @@
-# SwiftUI_SwiftUI_Demos
-
-Swift UI 实现的小控件 (持续更新中)
+# SwiftUI_Demos
+##################
+ [![README-zh](https://shields.io/badge/README-中文-blue)](README.md)
+ [![Swift UI](https://img.shields.io/badge/Swift-UI-green.svg)](https://github.com/xiaofu666/SwiftUI_Demos.git)
+ [![Language](https://img.shields.io/badge/Language-Swift-DD5C44.svg?style=flat)](https://github.com/xiaofu666/SwiftUI_Demos.git)
+ [![Platform](https://img.shields.io/badge/platform-ios-cyan.svg)](https://github.com/xiaofu666/SwiftUI_Demos.git)
+ [![开源爱情](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/xiaofu666/SwiftUI_Demos.git)
+ [![开源爱情](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/xiaofu666/SwiftUI_Demos.git)
+ [![QQ](https://img.shields.io/badge/QQ-3290235031-purple.svg?style=flat)](https://qm.qq.com/q/Nbo6sgqD0M)
+ [![邮箱](https://img.shields.io/badge/邮箱-3290235031@qq.com-yellow.svg?style=flat)](https://qm.qq.com/q/Nbo6sgqD0M)
+ [赞助作者](https://xiaofu666.github.io/static/jsonToModel/pay/pay.html)
+#### Swift UI 实现的小控件 (持续更新中)
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
+| [ScrollableIndicators        ](SwiftUI_Demos/ScrollableIndicators)        |  ![ScrollableIndicators         ](SwiftUI_Demos/ScrollableIndicators/ScrollableIndicators.gif)                | 分栏视图切换 |  
 | [FlipTransition              ](SwiftUI_Demos/FlipTransition)              |  ![FlipTransition               ](SwiftUI_Demos/FlipTransition/FlipTransition.gif)                            | 翻卡动画 |  
 | [NetflixUI                   ](SwiftUI_Demos/NetflixUI)                   |  ![NetflixUI                    ](SwiftUI_Demos/NetflixUI/NetflixUI.gif)                                      | 启动屏动画 |  
 | [BookCard                    ](SwiftUI_Demos/BookCard)                    |  ![BookCard                     ](SwiftUI_Demos/BookCard/BookCard.gif)                                        | 翻书动画 | 
