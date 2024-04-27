@@ -12,6 +12,7 @@
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
+| [RangeSlider                 ](SwiftUI_Demos/RangeSlider)                 |  ![RangeSlider                  ](SwiftUI_Demos/RangeSlider/RangeSlider.gif)                                  | 区间滑块 | 
 | [ScrollableIndicators        ](SwiftUI_Demos/ScrollableIndicators)        |  ![ScrollableIndicators         ](SwiftUI_Demos/ScrollableIndicators/ScrollableIndicators.gif)                | 分栏视图切换 |  
 | [FlipTransition              ](SwiftUI_Demos/FlipTransition)              |  ![FlipTransition               ](SwiftUI_Demos/FlipTransition/FlipTransition.gif)                            | 翻卡动画 |  
 | [NetflixUI                   ](SwiftUI_Demos/NetflixUI)                   |  ![NetflixUI                    ](SwiftUI_Demos/NetflixUI/NetflixUI.gif)                                      | 启动屏动画 |  
@@ -50,6 +51,7 @@
 | [StretchySlider              ](SwiftUI_Demos/StretchySlider)              |  ![StretchySlider               ](SwiftUI_Demos/StretchySlider/StretchySlider.gif)                            | 弹性滑块 | 
 | [HeroEffect                  ](SwiftUI_Demos/HeroEffect)                  |  ![HeroEffect                   ](SwiftUI_Demos/HeroEffect/HeroEffect.gif)                                    | 转场动画 | 
 | [MinimalTodo                 ](SwiftUI_Demos/MinimalTodo)                 |  ![MinimalTodo                  ](SwiftUI_Demos/MinimalTodo/MinimalTodo.gif)                                  | Swift Data 和 Widget 交互学习 | 
+| [SwiftTransformer            ](SwiftUI_Demos/SwiftTransformer)            |  ![SwiftTransformer             ](SwiftUI_Demos/SwiftTransformer/SwiftTransformer.gif)                        | Swift Data 之 ValueTransformer 的学习 | 
 | [ShareSheetExtension         ](SwiftUI_Demos/ShareSheetExtension)         |  ![ShareSheetExtension          ](SwiftUI_Demos/ShareSheetExtension/ShareSheetExtension.gif)                  | 系统相册照片分享至APP | 
 | [CustomFileExtension         ](SwiftUI_Demos/CustomFileExtension)         |  ![CustomFileExtension          ](SwiftUI_Demos/CustomFileExtension/CustomFileExtension.gif)                  | 数据加密存储和数据解密读取 | 
 | [ScrollParallax              ](SwiftUI_Demos/ScrollParallax)              |  ![ScrollParallax               ](SwiftUI_Demos/ScrollParallax/ScrollParallax.gif)                            |  | 
