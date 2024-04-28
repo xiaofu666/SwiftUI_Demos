@@ -12,6 +12,7 @@
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
+| [ExpandableSearchBar         ](SwiftUI_Demos/ExpandableSearchBar)         |  ![ExpandableSearchBar          ](SwiftUI_Demos/ExpandableSearchBar/ExpandableSearchBar.gif)                  | 搜索导航栏动画 | 
 | [RangeSlider                 ](SwiftUI_Demos/RangeSlider)                 |  ![RangeSlider                  ](SwiftUI_Demos/RangeSlider/RangeSlider.gif)                                  | 区间滑块 | 
 | [ScrollableIndicators        ](SwiftUI_Demos/ScrollableIndicators)        |  ![ScrollableIndicators         ](SwiftUI_Demos/ScrollableIndicators/ScrollableIndicators.gif)                | 分栏视图切换 |  
 | [FlipTransition              ](SwiftUI_Demos/FlipTransition)              |  ![FlipTransition               ](SwiftUI_Demos/FlipTransition/FlipTransition.gif)                            | 翻卡动画 |  
