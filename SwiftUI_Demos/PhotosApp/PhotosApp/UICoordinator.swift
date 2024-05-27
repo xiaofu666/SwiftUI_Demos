@@ -9,9 +9,9 @@ import SwiftUI
 
 @Observable
 class UICoordinator {
-    var items: [Item] = sampleItems.compactMap({
+    var items: [Item] = sampleItems.compactMap {
         Item(title: $0.title, image: $0.image, previewImage: $0.image)
-    })
+    }
     var selectedItem: Item?
     var animateView: Bool = false
     var showDetailView: Bool = false
