@@ -12,6 +12,7 @@
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
+| [HackerText                  ](SwiftUI_Demos/HackerText)                  |  ![HackerText                   ](SwiftUI_Demos/HackerText/HackerText.gif)                                    | 黑客文字动画 | 
 | [StackedCardsView            ](SwiftUI_Demos/StackedCardsView)            |  ![StackedCardsView             ](SwiftUI_Demos/StackedCardsView/StackedCardsView.gif)                        | 仿iPhone通知页面 |
 | [PhotosApp                   ](SwiftUI_Demos/PhotosApp)                   |  ![PhotosApp                    ](SwiftUI_Demos/PhotosApp/PhotosApp.gif)                                      | 仿旧版系统相册 | 
 | [PinterestGridAnimation      ](SwiftUI_Demos/PinterestGridAnimation)      |  ![PinterestGridAnimation       ](SwiftUI_Demos/PinterestGridAnimation/PinterestGridAnimation.gif)            | 详情页过度动画 | 
