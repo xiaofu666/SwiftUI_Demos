@@ -11,6 +11,8 @@
 		E72C9B362B9DCA85002AADF3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E72C9B352B9DCA85002AADF3 /* ContentView.swift */; };
 		E72C9B382B9DCA87002AADF3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E72C9B372B9DCA87002AADF3 /* Assets.xcassets */; };
 		E72C9B3B2B9DCA87002AADF3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E72C9B3A2B9DCA87002AADF3 /* Preview Assets.xcassets */; };
+		E7CA033C2C0C2F760031C42D /* ContentView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7CA033B2C0C2F760031C42D /* ContentView2.swift */; };
+		E7CA033F2C0C2FAB0031C42D /* FlipClockTextEffect.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7CA033E2C0C2FAB0031C42D /* FlipClockTextEffect.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		E72C9B352B9DCA85002AADF3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E72C9B372B9DCA87002AADF3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E72C9B3A2B9DCA87002AADF3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E7CA033B2C0C2F760031C42D /* ContentView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView2.swift; sourceTree = "<group>"; };
+		E7CA033E2C0C2FAB0031C42D /* FlipClockTextEffect.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FlipClockTextEffect.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,7 @@
 			children = (
 				E72C9B332B9DCA85002AADF3 /* FlipClockAnimationApp.swift */,
 				E72C9B352B9DCA85002AADF3 /* ContentView.swift */,
+				E7CA033D2C0C2F8A0031C42D /* Other */,
 				E72C9B372B9DCA87002AADF3 /* Assets.xcassets */,
 				E72C9B392B9DCA87002AADF3 /* Preview Content */,
 			);
@@ -65,6 +70,15 @@
 				E72C9B3A2B9DCA87002AADF3 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		E7CA033D2C0C2F8A0031C42D /* Other */ = {
+			isa = PBXGroup;
+			children = (
+				E7CA033B2C0C2F760031C42D /* ContentView2.swift */,
+				E7CA033E2C0C2FAB0031C42D /* FlipClockTextEffect.swift */,
+			);
+			path = Other;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,6 +151,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E7CA033C2C0C2F760031C42D /* ContentView2.swift in Sources */,
+				E7CA033F2C0C2FAB0031C42D /* FlipClockTextEffect.swift in Sources */,
 				E72C9B362B9DCA85002AADF3 /* ContentView.swift in Sources */,
 				E72C9B342B9DCA85002AADF3 /* FlipClockAnimationApp.swift in Sources */,
 			);

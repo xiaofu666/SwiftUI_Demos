@@ -21,17 +21,17 @@ struct ContentView: View {
     
     var body: some View {
         ZStack {
-            Color.primary
+            Color.black
                 .ignoresSafeArea()
-            let layout = (verticalSizeClass == .compact) ? AnyLayout(HStackLayout()) : AnyLayout(VStackLayout())
+            let layout = (verticalSizeClass == .compact) ? AnyLayout(HStackLayout(spacing: 30)) : AnyLayout(VStackLayout(spacing: 15))
             layout {
                 FlipNumberView(current: hour)
                     .overlay(alignment: .topLeading) {
                         Text(AmOrPm)
                             .font(.title)
                             .fontWeight(.medium)
-                            .foregroundStyle(.background)
-                            .padding(15)
+                            .foregroundStyle(.black)
+                            .padding(10)
                     }
                 FlipNumberView(current: minute)
                 FlipNumberView(current: second)
@@ -55,6 +55,38 @@ struct ContentView: View {
         return Calendar.current
     }
 }
+
+struct FlipNumberView: View {
+    var current: Int = 0
+    var body: some View {
+        HStack {
+            FlipClockTextEffect(
+                value: .constant(current / 10),
+                size: CGSize(
+                    width: 120,
+                    height: 200
+                ),
+                fontSize: 150,
+                cornerRadius: 10,
+                foreground: .black,
+                background: .white
+            )
+            
+            FlipClockTextEffect(
+                value: .constant(current % 10),
+                size: CGSize(
+                    width: 120,
+                    height: 200
+                ),
+                fontSize: 150,
+                cornerRadius: 10,
+                foreground: .black,
+                background: .white
+            )
+        }
+    }
+}
+
 extension Int {
     func toDisplay() -> String {
         if self >= 0 && self < 10{
@@ -68,7 +100,7 @@ struct FlipAnimate {
     var flip1: Double = 0
     var flip2: Double = 90
 }
-struct FlipNumberView: View {
+struct FlipNumberView1: View {
     var current: Int = 0
     
     var body: some View {
