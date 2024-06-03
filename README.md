@@ -12,6 +12,7 @@
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
+| [VerticalCarousel            ](SwiftUI_Demos/VerticalCarousel)            |  ![VerticalCarousel             ](SwiftUI_Demos/VerticalCarousel/VerticalCarousel.gif)                        | 旋转木马视图 | 
 | [TabViewOffset               ](SwiftUI_Demos/TabViewOffset)               |  ![TabViewOffset                ](SwiftUI_Demos/TabViewOffset/TabViewOffset.gif)                              | TabView的滑动分页效果 | 
 | [HackerText                  ](SwiftUI_Demos/HackerText)                  |  ![HackerText                   ](SwiftUI_Demos/HackerText/HackerText.gif)                                    | 黑客文字动画 | 
 | [StackedCardsView            ](SwiftUI_Demos/StackedCardsView)            |  ![StackedCardsView             ](SwiftUI_Demos/StackedCardsView/StackedCardsView.gif)                        | 仿iPhone通知页面 |
