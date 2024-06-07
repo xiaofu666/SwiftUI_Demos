@@ -12,9 +12,10 @@
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
+| [GlitchEffect                ](SwiftUI_Demos/GlitchEffect)                |  ![GlitchEffect                 ](SwiftUI_Demos/GlitchEffect/GlitchEffect.gif)                                | 黑客文字动画2 | 
+| [HackerText                  ](SwiftUI_Demos/HackerText)                  |  ![HackerText                   ](SwiftUI_Demos/HackerText/HackerText.gif)                                    | 黑客文字动画1 | 
 | [VerticalCarousel            ](SwiftUI_Demos/VerticalCarousel)            |  ![VerticalCarousel             ](SwiftUI_Demos/VerticalCarousel/VerticalCarousel.gif)                        | 旋转木马视图 | 
 | [TabViewOffset               ](SwiftUI_Demos/TabViewOffset)               |  ![TabViewOffset                ](SwiftUI_Demos/TabViewOffset/TabViewOffset.gif)                              | TabView的滑动分页效果 | 
-| [HackerText                  ](SwiftUI_Demos/HackerText)                  |  ![HackerText                   ](SwiftUI_Demos/HackerText/HackerText.gif)                                    | 黑客文字动画 | 
 | [StackedCardsView            ](SwiftUI_Demos/StackedCardsView)            |  ![StackedCardsView             ](SwiftUI_Demos/StackedCardsView/StackedCardsView.gif)                        | 仿iPhone通知页面 |
 | [PhotosApp                   ](SwiftUI_Demos/PhotosApp)                   |  ![PhotosApp                    ](SwiftUI_Demos/PhotosApp/PhotosApp.gif)                                      | 仿旧版系统相册 | 
 | [PinterestGridAnimation      ](SwiftUI_Demos/PinterestGridAnimation)      |  ![PinterestGridAnimation       ](SwiftUI_Demos/PinterestGridAnimation/PinterestGridAnimation.gif)            | 详情页过度动画 | 
