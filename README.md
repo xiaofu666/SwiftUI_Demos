@@ -12,6 +12,7 @@
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
+| [ControlWidgetDemo           ](SwiftUI_Demos/ControlWidgetDemo)           |  ![ControlWidgetDemo            ](SwiftUI_Demos/ControlWidgetDemo/ControlWidgetDemo.gif)                      | 自定义控制中心控件Demo | 
 | [TextRendererEffect          ](SwiftUI_Demos/TextRendererEffect)          |  ![TextRendererEffect           ](SwiftUI_Demos/TextRendererEffect/TextRendererEffect.gif)                    | 黑客文字动画3 | 
 | [GlitchEffect                ](SwiftUI_Demos/GlitchEffect)                |  ![GlitchEffect                 ](SwiftUI_Demos/GlitchEffect/GlitchEffect.gif)                                | 黑客文字动画2 | 
 | [HackerText                  ](SwiftUI_Demos/HackerText)                  |  ![HackerText                   ](SwiftUI_Demos/HackerText/HackerText.gif)                                    | 黑客文字动画1 | 
