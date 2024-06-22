@@ -9,10 +9,10 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        GeometryReader { proxy in
-            let safeArea = proxy.safeAreaInsets
-            let size = proxy.size
-            YoutubeHomeView(safeArea: safeArea, size: size)
+        if #available(iOS 18.0, *) {
+            YoutubeHomeView2()
+        } else {
+            YoutubeHomeView1()
         }
     }
 }

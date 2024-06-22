@@ -7,20 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E75D702B2C25BFED00BC0A93 /* YoutubeHomeView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = E75D702A2C25BFED00BC0A93 /* YoutubeHomeView2.swift */; };
 		E7BE7F462AB83D1D00D7F194 /* YoutubeHomeViewApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7BE7F452AB83D1D00D7F194 /* YoutubeHomeViewApp.swift */; };
 		E7BE7F482AB83D1D00D7F194 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7BE7F472AB83D1D00D7F194 /* ContentView.swift */; };
 		E7BE7F4A2AB83D1F00D7F194 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E7BE7F492AB83D1F00D7F194 /* Assets.xcassets */; };
 		E7BE7F4D2AB83D1F00D7F194 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E7BE7F4C2AB83D1F00D7F194 /* Preview Assets.xcassets */; };
-		E7BE7F542AB83D2A00D7F194 /* YoutubeHomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7BE7F532AB83D2A00D7F194 /* YoutubeHomeView.swift */; };
+		E7BE7F542AB83D2A00D7F194 /* YoutubeHomeView1.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7BE7F532AB83D2A00D7F194 /* YoutubeHomeView1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E75D702A2C25BFED00BC0A93 /* YoutubeHomeView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YoutubeHomeView2.swift; sourceTree = "<group>"; };
 		E7BE7F422AB83D1D00D7F194 /* YoutubeHomeView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YoutubeHomeView.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E7BE7F452AB83D1D00D7F194 /* YoutubeHomeViewApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YoutubeHomeViewApp.swift; sourceTree = "<group>"; };
 		E7BE7F472AB83D1D00D7F194 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E7BE7F492AB83D1F00D7F194 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E7BE7F4C2AB83D1F00D7F194 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		E7BE7F532AB83D2A00D7F194 /* YoutubeHomeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = YoutubeHomeView.swift; sourceTree = "<group>"; };
+		E7BE7F532AB83D2A00D7F194 /* YoutubeHomeView1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = YoutubeHomeView1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,7 +57,8 @@
 			children = (
 				E7BE7F452AB83D1D00D7F194 /* YoutubeHomeViewApp.swift */,
 				E7BE7F472AB83D1D00D7F194 /* ContentView.swift */,
-				E7BE7F532AB83D2A00D7F194 /* YoutubeHomeView.swift */,
+				E7BE7F532AB83D2A00D7F194 /* YoutubeHomeView1.swift */,
+				E75D702A2C25BFED00BC0A93 /* YoutubeHomeView2.swift */,
 				E7BE7F492AB83D1F00D7F194 /* Assets.xcassets */,
 				E7BE7F4B2AB83D1F00D7F194 /* Preview Content */,
 			);
@@ -140,9 +143,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E75D702B2C25BFED00BC0A93 /* YoutubeHomeView2.swift in Sources */,
 				E7BE7F482AB83D1D00D7F194 /* ContentView.swift in Sources */,
 				E7BE7F462AB83D1D00D7F194 /* YoutubeHomeViewApp.swift in Sources */,
-				E7BE7F542AB83D2A00D7F194 /* YoutubeHomeView.swift in Sources */,
+				E7BE7F542AB83D2A00D7F194 /* YoutubeHomeView1.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
