@@ -12,6 +12,7 @@
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
+| [PomodoroTimer               ](SwiftUI_Demos/PomodoroTimer)               |  ![PomodoroTimer                ](SwiftUI_Demos/PomodoroTimer/PomodoroTimer.gif)                              | 计时器 | 
 | [CustomTimePicker            ](SwiftUI_Demos/CustomTimePicker)            |  ![CustomTimePicker             ](SwiftUI_Demos/CustomTimePicker/CustomTimePicker.gif)                        | 自定义时间选择器 | 
 | [ControlWidgetDemo           ](SwiftUI_Demos/ControlWidgetDemo)           |  ![ControlWidgetDemo            ](SwiftUI_Demos/ControlWidgetDemo/ControlWidgetDemo.gif)                      | 自定义控制中心控件Demo | 
 | [TextRendererEffect          ](SwiftUI_Demos/TextRendererEffect)          |  ![TextRendererEffect           ](SwiftUI_Demos/TextRendererEffect/TextRendererEffect.gif)                    | 黑客文字动画3 | 
