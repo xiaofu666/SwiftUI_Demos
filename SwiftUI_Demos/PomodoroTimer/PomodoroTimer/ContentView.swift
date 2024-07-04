@@ -12,6 +12,7 @@ struct ContentView: View {
         Home()
             .preferredColorScheme(.light)
             .modelContainer(for: RecentModel.self)
+        
     }
 }
 
