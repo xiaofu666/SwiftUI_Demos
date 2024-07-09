@@ -12,6 +12,7 @@
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
+| [Custom3DPicker              ](SwiftUI_Demos/Custom3DPicker)              |  ![Custom3DPicker               ](SwiftUI_Demos/Custom3DPicker/Custom3DPicker.gif)                            | 3D选择器 | 
 | [CustomTabView               ](SwiftUI_Demos/CustomTabView)               |  ![CustomTabView                ](SwiftUI_Demos/CustomTabView/CustomTabView.gif)                              | 可排序TabBar | 
 | [PomodoroTimer               ](SwiftUI_Demos/PomodoroTimer)               |  ![PomodoroTimer                ](SwiftUI_Demos/PomodoroTimer/PomodoroTimer.gif)                              | 计时器 | 
 | [CustomTimePicker            ](SwiftUI_Demos/CustomTimePicker)            |  ![CustomTimePicker             ](SwiftUI_Demos/CustomTimePicker/CustomTimePicker.gif)                        | 自定义时间选择器 | 
