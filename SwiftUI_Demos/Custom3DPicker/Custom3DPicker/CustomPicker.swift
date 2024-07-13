@@ -94,6 +94,9 @@ fileprivate struct CustomPickerView: View {
                 config.text = newValue
             }
         }
+        .sensoryFeedback(trigger: config.text) { oldValue, newValue in
+            return SensoryFeedback.impact(weight: .light, intensity: 0.5)
+        }
     }
     
     @ViewBuilder

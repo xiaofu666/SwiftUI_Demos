@@ -12,6 +12,8 @@
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
+| [AnimationLineView           ](SwiftUI_Demos/AnimationLineView)           |  ![AnimationLineView            ](SwiftUI_Demos/AnimationLineView/AnimationLineView.gif)                      | 魔术线2 | 
+| [MagicDividingLineView       ](SwiftUI_Demos/MagicDividingLineView)       |  ![MagicDividingLineView        ](SwiftUI_Demos/MagicDividingLineView/MagicDividingLineView.gif)              | 魔术线1 | 
 | [ZoomTransitions             ](SwiftUI_Demos/ZoomTransitions)             |  ![ZoomTransitions              ](SwiftUI_Demos/ZoomTransitions/ZoomTransitions.gif)                          | Zoom转场示例 | 
 | [Custom3DPicker              ](SwiftUI_Demos/Custom3DPicker)              |  ![Custom3DPicker               ](SwiftUI_Demos/Custom3DPicker/Custom3DPicker.gif)                            | 3D选择器 | 
 | [CustomTabView               ](SwiftUI_Demos/CustomTabView)               |  ![CustomTabView                ](SwiftUI_Demos/CustomTabView/CustomTabView.gif)                              | 可排序TabBar | 
