@@ -1,4 +1,4 @@
-# SwiftUI_Demos
+# Swift UI 实现的小控件 (持续更新中)
 
  [![README-zh](https://shields.io/badge/README-中文-blue)](README.md)
  [![Swift UI](https://img.shields.io/badge/Swift-UI-green.svg)](https://github.com/xiaofu666/SwiftUI_Demos.git)
@@ -7,8 +7,6 @@
  [![开源爱情](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/xiaofu666/SwiftUI_Demos.git)
  [![QQ](https://img.shields.io/badge/QQ-3290235031-purple.svg?style=flat)](https://qm.qq.com/q/Nbo6sgqD0M)
  [![邮箱](https://img.shields.io/badge/邮箱-3290235031@qq.com-yellow.svg?style=flat)](https://qm.qq.com/q/Nbo6sgqD0M)
- [赞助作者](https://xiaofu666.github.io/static/jsonToModel/pay/pay.html)
-#### Swift UI 实现的小控件 (持续更新中)
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
@@ -185,3 +183,6 @@
   
   
   
+##  [赞助作者](https://xiaofu666.github.io/static/jsonToModel/pay/pay.html)
+
+![stars](https://starchart.cc/xiaofu666/SwiftUI_Demos.svg)

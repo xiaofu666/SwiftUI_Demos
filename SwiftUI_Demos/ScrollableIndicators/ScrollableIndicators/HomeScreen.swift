@@ -13,7 +13,7 @@ struct HomeScreen: View {
         .init(id: TabModel.Tab.deployment),
         .init(id: TabModel.Tab.analytics),
         .init(id: TabModel.Tab.audience),
-        .init(id: TabModel.Tab.privacy)
+        .init(id: TabModel.Tab.privacy),
     ]
     @State private var activeTab: TabModel.Tab = .research
     @State private var tabBarScrollState: TabModel.Tab?
