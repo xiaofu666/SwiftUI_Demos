@@ -9,7 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        TimelineView(.periodic(from: .now, by: 0.16)) { timeline in
+        TimelineView(.periodic(from: .now, by: 0.1)) { timeline in
             CharRainView(date: timeline.date)
                 .ignoresSafeArea()
         }
@@ -18,7 +18,7 @@ struct ContentView: View {
 
 struct CharRainView: View {
     let date: Date
-    let columnSize: CGFloat = 24
+    var columnSize: CGFloat = 24
     @State private var nextIdx: [Int] = []
     @State private var row: [SavedChar] = []
     @State private var rows: [[SavedChar]] = []
@@ -36,7 +36,7 @@ struct CharRainView: View {
             }
         }
         .onAppear() {
-            let columnCount = Int(UIScreen.main.bounds.width / columnSize)
+            let columnCount = Int(UIScreen.main.bounds.width / columnSize) + 1
             nextIdx = Array(repeating: 0, count: columnCount)
         }
         .onChange(of: date) { oldValue, newValue in
@@ -49,25 +49,27 @@ struct CharRainView: View {
                 )
             }
             rows.append(row)
-            rows = rows.filter({ row in
-                return row[0].opacity > 0
-            })
-            nextIdx = nextIdx.map({x in
-                let result = x + 1
-                if x > Int(UIScreen.main.bounds.height / columnSize) && Double.random(in: 0...1) > 0.8 {
+            rows = rows.filter { row in
+                row.filter { char in
+                    char.opacity > 0
+                }.count > 0
+            }
+            nextIdx = nextIdx.map { x in
+                if CGFloat(x) * columnSize > UIScreen.main.bounds.height && Double.random(in: 0...1) > 0.95 {
                     return 0
+                } else {
+                    return x + 1
                 }
-                return result
-            })
+            }
 
         }
     }
     
     func getRandomChar() -> String {
-        return String("ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789".randomElement() ?? "a")
+        return String("abcdefghijklmnopqrstuvwxyz0123456789".randomElement() ?? "a")
     }
     func getRandomColor() -> Color {
-        return Color(uiColor: UIColor(red: Double.random(in: 0...1), green: Double.random(in: 0...1), blue: Double.random(in: 0...1), alpha: 1.0))
+        return Color(uiColor: UIColor(red: Double.random(in: 0.3...1), green: Double.random(in: 0.3...1), blue: Double.random(in: 0.3...1), alpha: 1.0))
     }
 }
 
