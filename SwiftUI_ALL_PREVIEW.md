@@ -2,6 +2,7 @@
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
+| [iOS18PhotosAppUI            ](SwiftUI_Demos/iOS18PhotosAppUI)            |  ![iOS18PhotosAppUI             ](SwiftUI_Demos/iOS18PhotosAppUI/iOS18PhotosAppUI.gif)                        | 仿iOS18相册UI | 
 | [MetalWallpaper              ](SwiftUI_Demos/MetalWallpaper)              |  ![MetalWallpaper               ](SwiftUI_Demos/MetalWallpaper/MetalWallpaper.gif)                            | Metal纹理效果 | 
 | [FacebookGradientMask        ](SwiftUI_Demos/FacebookGradientMask)        |  ![FacebookGradientMask         ](SwiftUI_Demos/FacebookGradientMask/FacebookGradientMask.gif)                |  | 
 | [CustomDropDown              ](SwiftUI_Demos/CustomDropDown)              |  ![CustomDropDown               ](SwiftUI_Demos/CustomDropDown/CustomDropDown.gif)                            | 自定义选择框 | 

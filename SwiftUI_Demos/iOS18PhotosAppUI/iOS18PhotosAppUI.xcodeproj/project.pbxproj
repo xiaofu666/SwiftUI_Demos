@@ -11,6 +11,12 @@
 		E7007B492C4C13C5001DDDC3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7007B482C4C13C5001DDDC3 /* ContentView.swift */; };
 		E7007B4B2C4C13C7001DDDC3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E7007B4A2C4C13C7001DDDC3 /* Assets.xcassets */; };
 		E7007B4E2C4C13C7001DDDC3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E7007B4D2C4C13C7001DDDC3 /* Preview Assets.xcassets */; };
+		E7007B552C4C152B001DDDC3 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7007B542C4C152B001DDDC3 /* Home.swift */; };
+		E7007B572C4C1DCA001DDDC3 /* PhotosScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7007B562C4C1DCA001DDDC3 /* PhotosScrollView.swift */; };
+		E7007B592C4C23B2001DDDC3 /* OtherContents.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7007B582C4C23B2001DDDC3 /* OtherContents.swift */; };
+		E7007B5C2C4C2612001DDDC3 /* ShareData.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7007B5B2C4C2612001DDDC3 /* ShareData.swift */; };
+		E7007B5F2C4C2826001DDDC3 /* CustomPagingIndicatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7007B5E2C4C2826001DDDC3 /* CustomPagingIndicatorView.swift */; };
+		E7007B622C4C2AD5001DDDC3 /* CustomGesture.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7007B612C4C2AD5001DDDC3 /* CustomGesture.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +25,12 @@
 		E7007B482C4C13C5001DDDC3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E7007B4A2C4C13C7001DDDC3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E7007B4D2C4C13C7001DDDC3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E7007B542C4C152B001DDDC3 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		E7007B562C4C1DCA001DDDC3 /* PhotosScrollView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotosScrollView.swift; sourceTree = "<group>"; };
+		E7007B582C4C23B2001DDDC3 /* OtherContents.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OtherContents.swift; sourceTree = "<group>"; };
+		E7007B5B2C4C2612001DDDC3 /* ShareData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShareData.swift; sourceTree = "<group>"; };
+		E7007B5E2C4C2826001DDDC3 /* CustomPagingIndicatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomPagingIndicatorView.swift; sourceTree = "<group>"; };
+		E7007B612C4C2AD5001DDDC3 /* CustomGesture.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomGesture.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +63,9 @@
 		E7007B452C4C13C5001DDDC3 /* iOS18PhotosAppUI */ = {
 			isa = PBXGroup;
 			children = (
+				E7007B602C4C2AC4001DDDC3 /* Helpers */,
+				E7007B5D2C4C27FC001DDDC3 /* View */,
+				E7007B5A2C4C2609001DDDC3 /* Model */,
 				E7007B462C4C13C5001DDDC3 /* iOS18PhotosAppUIApp.swift */,
 				E7007B482C4C13C5001DDDC3 /* ContentView.swift */,
 				E7007B4A2C4C13C7001DDDC3 /* Assets.xcassets */,
@@ -65,6 +80,33 @@
 				E7007B4D2C4C13C7001DDDC3 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		E7007B5A2C4C2609001DDDC3 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				E7007B5B2C4C2612001DDDC3 /* ShareData.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		E7007B5D2C4C27FC001DDDC3 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				E7007B542C4C152B001DDDC3 /* Home.swift */,
+				E7007B562C4C1DCA001DDDC3 /* PhotosScrollView.swift */,
+				E7007B582C4C23B2001DDDC3 /* OtherContents.swift */,
+				E7007B5E2C4C2826001DDDC3 /* CustomPagingIndicatorView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		E7007B602C4C2AC4001DDDC3 /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				E7007B612C4C2AD5001DDDC3 /* CustomGesture.swift */,
+			);
+			path = Helpers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +179,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E7007B622C4C2AD5001DDDC3 /* CustomGesture.swift in Sources */,
+				E7007B592C4C23B2001DDDC3 /* OtherContents.swift in Sources */,
+				E7007B572C4C1DCA001DDDC3 /* PhotosScrollView.swift in Sources */,
 				E7007B492C4C13C5001DDDC3 /* ContentView.swift in Sources */,
+				E7007B5F2C4C2826001DDDC3 /* CustomPagingIndicatorView.swift in Sources */,
+				E7007B552C4C152B001DDDC3 /* Home.swift in Sources */,
 				E7007B472C4C13C5001DDDC3 /* iOS18PhotosAppUIApp.swift in Sources */,
+				E7007B5C2C4C2612001DDDC3 /* ShareData.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -7,12 +7,14 @@
 
 import SwiftUI
 
-struct ShareData: View {
-    var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
-    }
-}
-
-#Preview {
-    ShareData()
+@Observable
+class ShareData {
+    var activePage: Int = 3
+    var isExpanded: Bool = false
+    var mainOffset: CGFloat = .zero
+    var photosScreenOffset: CGFloat = .zero
+    var selectedCategory: String = "年"
+    var canPullUp: Bool = false
+    var canPullDown: Bool = false
+    var progress: CGFloat = 0
 }
