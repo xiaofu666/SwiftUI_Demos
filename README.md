@@ -13,20 +13,22 @@
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
 | [AnimationLineView           ](SwiftUI_Demos/AnimationLineView)           |  ![AnimationLineView            ](SwiftUI_Demos/AnimationLineView/AnimationLineView.gif)                      | 魔术线2 | 
 | [MagicDividingLineView       ](SwiftUI_Demos/MagicDividingLineView)       |  ![MagicDividingLineView        ](SwiftUI_Demos/MagicDividingLineView/MagicDividingLineView.gif)              | 魔术线1 | 
+| [HelloAnimation              ](SwiftUI_Demos/HelloAnimation)              |  ![HelloAnimation               ](SwiftUI_Demos/HelloAnimation/HelloAnimation.gif)                            | Hello 动画 |  
+| [CharRain                    ](SwiftUI_Demos/CharRain)                    |  ![CharRain                     ](SwiftUI_Demos/CharRain/CharRain.gif)                                        | 字符雨动画 |  
 | [GlitchEffect                ](SwiftUI_Demos/GlitchEffect)                |  ![GlitchEffect                 ](SwiftUI_Demos/GlitchEffect/GlitchEffect.gif)                                | 黑客文字动画2 | 
-| [HackerText                  ](SwiftUI_Demos/HackerText)                  |  ![HackerText                   ](SwiftUI_Demos/HackerText/HackerText.gif)                                    | 黑客文字动画1 | 
+| [HackerText                  ](SwiftUI_Demos/HackerText)                  |  ![HackerText                   ](SwiftUI_Demos/HackerText/HackerText.gif)                                    | 黑客文字动画1 |     
+| [BallAnimationView           ](SwiftUI_Demos/BallAnimationView)           |  ![BallAnimationView            ](SwiftUI_Demos/BallAnimationView/BallAnimationView.gif)                      | 液体动画 | 
 | [TabViewOffset               ](SwiftUI_Demos/TabViewOffset)               |  ![TabViewOffset                ](SwiftUI_Demos/TabViewOffset/TabViewOffset.gif)                              | TabView的滑动分页效果 | 
 | [FlipTransition              ](SwiftUI_Demos/FlipTransition)              |  ![FlipTransition               ](SwiftUI_Demos/FlipTransition/FlipTransition.gif)                            | 翻卡动画 |   
 | [AnimatedCharts              ](SwiftUI_Demos/AnimatedCharts)              |  ![AnimatedCharts               ](SwiftUI_Demos/AnimatedCharts/AnimatedCharts.gif)                            | 图表动画 | 
 | [AnimatedMenu                ](SwiftUI_Demos/AnimatedMenu)                |  ![AnimatedMenu                 ](SwiftUI_Demos/AnimatedMenu/AnimatedMenu.gif)                                | 侧滑菜单 | 
 | [HorizontalWheelPicker       ](SwiftUI_Demos/HorizontalWheelPicker)       |  ![HorizontalWheelPicker        ](SwiftUI_Demos/HorizontalWheelPicker/HorizontalWheelPicker.gif)              | 滑动卡尺 |  
-| [HelloAnimation              ](SwiftUI_Demos/HelloAnimation)              |  ![HelloAnimation               ](SwiftUI_Demos/HelloAnimation/HelloAnimation.gif)                            | Hello 动画 |  
-| [CharRain                    ](SwiftUI_Demos/CharRain)                    |  ![CharRain                     ](SwiftUI_Demos/CharRain/CharRain.gif)                                        | 字符雨动画 |  
 | [StackedCards                ](SwiftUI_Demos/StackedCards)                |  ![StackedCards                 ](SwiftUI_Demos/StackedCards/StackedCards.gif)                                | 卡片堆叠 |    
 | [BoomerangCardsView          ](SwiftUI_Demos/BoomerangCardsView)          |  ![BoomerangCardsView           ](SwiftUI_Demos/BoomerangCardsView/BoomerangCardsView.gif)                    |  |     
 | [SwipeCardView               ](SwiftUI_Demos/SwipeCardView)               |  ![SwipeCardView                ](SwiftUI_Demos/SwipeCardView/SwipeCardView.gif)                              |  |  
 | [TinderCardUI                ](SwiftUI_Demos/TinderCardUI)                |  ![TinderCardUI                 ](SwiftUI_Demos/TinderCardUI/TinderCardUI.gif)                                |  |   
 | [AnimatedPageIndicator       ](SwiftUI_Demos/AnimatedPageIndicator)       |  ![AnimatedPageIndicator        ](SwiftUI_Demos/AnimatedPageIndicator/AnimatedPageIndicator.gif)              | 自定义页面指示器 | 
+| [CoverCarousel               ](SwiftUI_Demos/CoverCarousel)               |  ![CoverCarousel                ](SwiftUI_Demos/CoverCarousel/CoverCarousel.gif)                              | 轮播图 | 
 | [InfiniteView                ](SwiftUI_Demos/InfiniteView)                |  ![InfiniteView                 ](SwiftUI_Demos/InfiniteView/InfiniteView.gif)                                | 无限轮播 | 
 | [MaterialCarouselView        ](SwiftUI_Demos/MaterialCarouselView      )  |  ![MaterialCarouselView         ](SwiftUI_Demos/MaterialCarouselView/MaterialCarouselView.gif)                | 转盘 |      
 | [MovieBannerView             ](SwiftUI_Demos/MovieBannerView)             |  ![MovieBannerView              ](SwiftUI_Demos/MovieBannerView/MovieBannerView.gif)                          |  |     
@@ -44,8 +46,7 @@
 | [ShaderDemo                  ](SwiftUI_Demos/ShaderDemo                )  |  ![ShaderDemo                   ](SwiftUI_Demos/ShaderDemo/ShaderDemo.gif)                                    | Shader 动画 |   
 | [WalkthroughAnimationView    ](SwiftUI_Demos/WalkthroughAnimationView  )  |  ![WalkthroughAnimationView     ](SwiftUI_Demos/WalkthroughAnimationView/WalkthroughAnimationView.gif)        | ChatGPT 首页动画 |    
 | [PageCurlSwipeView           ](SwiftUI_Demos/PageCurlSwipeView)           |  ![PageCurlSwipeView            ](SwiftUI_Demos/PageCurlSwipeView/PageCurlSwipeView.gif)                      |  |       
-| [ShimmerAnimationView        ](SwiftUI_Demos/ShimmerAnimationView)        |  ![ShimmerAnimationView         ](SwiftUI_Demos/ShimmerAnimationView/ShimmerAnimationView.gif)                | 光影动效 |     
-| [BallAnimationView           ](SwiftUI_Demos/BallAnimationView)           |  ![BallAnimationView            ](SwiftUI_Demos/BallAnimationView/BallAnimationView.gif)                      | 液体动画 |    
+| [ShimmerAnimationView        ](SwiftUI_Demos/ShimmerAnimationView)        |  ![ShimmerAnimationView         ](SwiftUI_Demos/ShimmerAnimationView/ShimmerAnimationView.gif)                | 光影动效 |    
 | [SpotLightView               ](SwiftUI_Demos/SpotLightView)               |  ![SpotLightView                ](SwiftUI_Demos/SpotLightView/SpotLightView.gif)                              | 引导提示 | 
 | [ShowCaseView                ](SwiftUI_Demos/ShowCaseView)                |  ![ShowCaseView                 ](SwiftUI_Demos/ShowCaseView/ShowCaseView.gif)                                | 引导提示2 |    
 | [WidgetView                  ](SwiftUI_Demos/WidgetView)                  |  ![WidgetView                   ](SwiftUI_Demos/WidgetView/WidgetView.gif)                                    | 小组件及灵动岛 |     
