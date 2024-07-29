@@ -2,6 +2,7 @@
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
+| [Walkthrough+Morphing        ](SwiftUI_Demos/Walkthrough+Morphing)        |  ![Walkthrough+Morphing         ](SwiftUI_Demos/Walkthrough+Morphing/Walkthrough+Morphing.gif)                | 引导图 | 
 | [CoverCarousel               ](SwiftUI_Demos/CoverCarousel)               |  ![CoverCarousel                ](SwiftUI_Demos/CoverCarousel/CoverCarousel.gif)                              | 轮播图 | 
 | [iOS18PhotosAppUI            ](SwiftUI_Demos/iOS18PhotosAppUI)            |  ![iOS18PhotosAppUI             ](SwiftUI_Demos/iOS18PhotosAppUI/iOS18PhotosAppUI.gif)                        | 仿iOS18相册UI | 
 | [MetalWallpaper              ](SwiftUI_Demos/MetalWallpaper)              |  ![MetalWallpaper               ](SwiftUI_Demos/MetalWallpaper/MetalWallpaper.gif)                            | Metal纹理效果 | 
