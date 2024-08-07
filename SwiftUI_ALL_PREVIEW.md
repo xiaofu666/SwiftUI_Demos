@@ -2,6 +2,7 @@
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
+| [CompositionalGridLayout     ](SwiftUI_Demos/CompositionalGridLayout)     |  ![CompositionalGridLayout      ](SwiftUI_Demos/CompositionalGridLayout/CompositionalGridLayout.gif)          | Group API 实战示例 | 
 | [FloatingBottomSheet         ](SwiftUI_Demos/FloatingBottomSheet)         |  ![FloatingBottomSheet          ](SwiftUI_Demos/FloatingBottomSheet/FloatingBottomSheet.gif)                  | 浮层底部弹性框 | 
 | [Walkthrough+Morphing        ](SwiftUI_Demos/Walkthrough+Morphing)        |  ![Walkthrough+Morphing         ](SwiftUI_Demos/Walkthrough+Morphing/Walkthrough+Morphing.gif)                | 引导图 | 
 | [CoverCarousel               ](SwiftUI_Demos/CoverCarousel)               |  ![CoverCarousel                ](SwiftUI_Demos/CoverCarousel/CoverCarousel.gif)                              | 轮播图 | 
