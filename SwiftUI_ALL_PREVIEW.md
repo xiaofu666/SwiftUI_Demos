@@ -2,6 +2,13 @@
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
+| [FloatingTabBar              ](SwiftUI_Demos/FloatingTabBar)              |  ![FloatingTabBar               ](SwiftUI_Demos/FloatingTabBar/FloatingTabBar.gif)                            | 自定义 TabBar 7 |   
+| [CustomTabBar1               ](SwiftUI_Demos/CustomTabBar1)               |  ![CustomTabBar1                ](SwiftUI_Demos/CustomTabBar1/CustomTabBar1.gif)                              | 自定义 TabBar 1 |     
+| [CustomTabBar2               ](SwiftUI_Demos/CustomTabBar2)               |  ![CustomTabBar2                ](SwiftUI_Demos/CustomTabBar2/CustomTabBar2.gif)                              | 自定义 TabBar 2 |     
+| [CustomTabBar3               ](SwiftUI_Demos/CustomTabBar3)               |  ![CustomTabBar3                ](SwiftUI_Demos/CustomTabBar3/CustomTabBar3.gif)                              | 自定义 TabBar 3 |     
+| [CustomTabBar4               ](SwiftUI_Demos/CustomTabBar4)               |  ![CustomTabBar4                ](SwiftUI_Demos/CustomTabBar4/CustomTabBar4.gif)                              | 自定义 TabBar 4 |     
+| [CustomTabBar5               ](SwiftUI_Demos/CustomTabBar5)               |  ![CustomTabBar5                ](SwiftUI_Demos/CustomTabBar5/CustomTabBar5.gif)                              | 自定义 TabBar 5 |     
+| [CustomTabBar6               ](SwiftUI_Demos/CustomTabBar6)               |  ![CustomTabBar6                ](SwiftUI_Demos/CustomTabBar6/CustomTabBar6.gif)                              | 自定义 TabBar 6 |     
 | [Custom_Header               ](SwiftUI_Demos/Custom_Header)               |  ![Custom_Header                ](SwiftUI_Demos/Custom_Header/Custom_Header.gif)                              | 自定义头部视图 | 
 | [CompositionalGridLayout     ](SwiftUI_Demos/CompositionalGridLayout)     |  ![CompositionalGridLayout      ](SwiftUI_Demos/CompositionalGridLayout/CompositionalGridLayout.gif)          | Group API 实战示例 | 
 | [FloatingBottomSheet         ](SwiftUI_Demos/FloatingBottomSheet)         |  ![FloatingBottomSheet          ](SwiftUI_Demos/FloatingBottomSheet/FloatingBottomSheet.gif)                  | 浮层底部弹性框 | 
@@ -157,13 +164,7 @@
 | [WeatherAPPUI                ](SwiftUI_Demos/WeatherAPPUI)                |  ![WeatherAPPUI                 ](SwiftUI_Demos/WeatherAPPUI/WeatherAPPUI.gif)                                | 下雪动效 |      
 | [CardCreationView            ](SwiftUI_Demos/CardCreationView)            |  ![CardCreationView             ](SwiftUI_Demos/CardCreationView/CardCreationView.gif)                        |  |     
 | [ThemeView                   ](SwiftUI_Demos/ThemeView)                   |  ![ThemeView                    ](SwiftUI_Demos/ThemeView/ThemeView.gif)                                      |  |     
-| [CustomKeyboardShowView      ](SwiftUI_Demos/CustomKeyboardShowView)      |  ![CustomKeyboardShowView       ](SwiftUI_Demos/CustomKeyboardShowView/CustomKeyboardShowView.gif)            | 自定义电话输入键盘 |     
-| [CustomTabBar1               ](SwiftUI_Demos/CustomTabBar1)               |  ![CustomTabBar1                ](SwiftUI_Demos/CustomTabBar1/CustomTabBar1.gif)                              | 自定义 TabBar |     
-| [CustomTabBar2               ](SwiftUI_Demos/CustomTabBar2)               |  ![CustomTabBar2                ](SwiftUI_Demos/CustomTabBar2/CustomTabBar2.gif)                              |  |     
-| [CustomTabBar3               ](SwiftUI_Demos/CustomTabBar3)               |  ![CustomTabBar3                ](SwiftUI_Demos/CustomTabBar3/CustomTabBar3.gif)                              |  |     
-| [CustomTabBar4               ](SwiftUI_Demos/CustomTabBar4)               |  ![CustomTabBar4                ](SwiftUI_Demos/CustomTabBar4/CustomTabBar4.gif)                              |  |     
-| [CustomTabBar5               ](SwiftUI_Demos/CustomTabBar5)               |  ![CustomTabBar5                ](SwiftUI_Demos/CustomTabBar5/CustomTabBar5.gif)                              |  |     
-| [CustomTabBar6               ](SwiftUI_Demos/CustomTabBar6)               |  ![CustomTabBar6                ](SwiftUI_Demos/CustomTabBar6/CustomTabBar6.gif)                              |  |     
+| [CustomKeyboardShowView      ](SwiftUI_Demos/CustomKeyboardShowView)      |  ![CustomKeyboardShowView       ](SwiftUI_Demos/CustomKeyboardShowView/CustomKeyboardShowView.gif)            | 自定义电话输入键盘 |   
 | [ThreeColorAnimationView     ](SwiftUI_Demos/ThreeColorAnimationView)     |  ![ThreeColorAnimationView      ](SwiftUI_Demos/ThreeColorAnimationView/ThreeColorAnimationView.gif)          |  |     
 | [NumberLockView              ](SwiftUI_Demos/NumberLockView)              |  ![NumberLockView               ](SwiftUI_Demos/NumberLockView/NumberLockView.gif)                            |  |     
 | [FullScreenCoverView         ](SwiftUI_Demos/FullScreenCoverView)         |  ![FullScreenCoverView          ](SwiftUI_Demos/FullScreenCoverView/FullScreenCoverView.gif)                  |  |     
