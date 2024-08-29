@@ -3,6 +3,7 @@
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
 | [AppSchemeChanger            ](SwiftUI_Demos/AppSchemeChanger)            |  ![AppSchemeChanger             ](SwiftUI_Demos/AppSchemeChanger/AppSchemeChanger.gif)                        | 主题色更换 | 
+| [PSTabBar                    ](SwiftUI_Demos/PSTabBar)                    |  ![PSTabBar                     ](SwiftUI_Demos/PSTabBar/PSTabBar.gif)                                        | 自定义 TabBar 8 |  
 | [FloatingTabBar              ](SwiftUI_Demos/FloatingTabBar)              |  ![FloatingTabBar               ](SwiftUI_Demos/FloatingTabBar/FloatingTabBar.gif)                            | 自定义 TabBar 7 |   
 | [CustomTabBar1               ](SwiftUI_Demos/CustomTabBar1)               |  ![CustomTabBar1                ](SwiftUI_Demos/CustomTabBar1/CustomTabBar1.gif)                              | 自定义 TabBar 1 |     
 | [CustomTabBar2               ](SwiftUI_Demos/CustomTabBar2)               |  ![CustomTabBar2                ](SwiftUI_Demos/CustomTabBar2/CustomTabBar2.gif)                              | 自定义 TabBar 2 |     
