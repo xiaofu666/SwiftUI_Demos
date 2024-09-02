@@ -2,6 +2,7 @@
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
+| [CustomDragAndDrop           ](SwiftUI_Demos/CustomDragAndDrop)           |  ![CustomDragAndDrop            ](SwiftUI_Demos/CustomDragAndDrop/CustomDragAndDrop.gif)                      | 控制中心排序实现 | 
 | [SwiftDataExport             ](SwiftUI_Demos/SwiftDataExport)             |  ![SwiftDataExport              ](SwiftUI_Demos/SwiftDataExport/SwiftDataExport.gif)                          | 数据加密存储与加密导出 | 
 | [AppSchemeChanger            ](SwiftUI_Demos/AppSchemeChanger)            |  ![AppSchemeChanger             ](SwiftUI_Demos/AppSchemeChanger/AppSchemeChanger.gif)                        | 主题色更换 | 
 | [PSTabBar                    ](SwiftUI_Demos/PSTabBar)                    |  ![PSTabBar                     ](SwiftUI_Demos/PSTabBar/PSTabBar.gif)                                        | 自定义 TabBar 8 |  
