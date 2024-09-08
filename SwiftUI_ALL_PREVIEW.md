@@ -2,6 +2,7 @@
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
+| [AdaptiveLayoutDesign        ](SwiftUI_Demos/AdaptiveLayoutDesign)        |  ![AdaptiveLayoutDesign         ](SwiftUI_Demos/AdaptiveLayoutDesign/AdaptiveLayoutDesign.gif)                | 侧边栏适配横竖屏（iOS & iPadOS） | 
 | [CustomPopView               ](SwiftUI_Demos/CustomPopView)               |  ![CustomPopView                ](SwiftUI_Demos/CustomPopView/CustomPopView.gif)                              | 自定义弹框 | 
 | [CustomDragAndDrop           ](SwiftUI_Demos/CustomDragAndDrop)           |  ![CustomDragAndDrop            ](SwiftUI_Demos/CustomDragAndDrop/CustomDragAndDrop.gif)                      | 控制中心排序实现 | 
 | [SwiftDataExport             ](SwiftUI_Demos/SwiftDataExport)             |  ![SwiftDataExport              ](SwiftUI_Demos/SwiftDataExport/SwiftDataExport.gif)                          | 数据加密存储与加密导出 | 
