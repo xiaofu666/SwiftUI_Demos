@@ -30,6 +30,7 @@ struct Home: View {
     @State private var lastOffset: CGFloat = .zero
     @State private var progress: CGFloat = .zero
     @State private var navigationPath: NavigationPath = .init()
+    @State private var panGesture: UIPanGestureRecognizer?
     
     var body: some View {
         AdaptiveView { size, isLandscape in
@@ -70,6 +71,9 @@ struct Home: View {
                 }
                 .gesture(
                     CustomPanGesture(isEnabled: !isLandscape) { gesture in
+                        if panGesture == nil {
+                            panGesture = gesture
+                        }
                         let state = gesture.state
                         let translationX = gesture.translation(in: gesture.view).x + lastOffset
                         let velocityX = gesture.velocity(in: gesture.view).x / 3
@@ -97,8 +101,10 @@ struct Home: View {
                         .navigationTitle(value)
                 }
             }
+            .onChange(of: isLandscape) { oldValue, newValue in
+                panGesture?.isEnabled = !newValue
+            }
         }
-        
     }
     
     func toggleSideBar() {
