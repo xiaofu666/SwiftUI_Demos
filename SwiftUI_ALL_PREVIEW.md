@@ -2,6 +2,7 @@
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
+| [NotesApp                    ](SwiftUI_Demos/NotesApp)                    |  ![NotesApp                     ](SwiftUI_Demos/NotesApp/NotesApp.gif)                                        | 笔记 app | 
 | [ChipsUI                     ](SwiftUI_Demos/ChipsUI)                     |  ![ChipsUI                      ](SwiftUI_Demos/ChipsUI/ChipsUI.gif)                                          | 动态标签 | 
 | [CustomSplashScreen          ](SwiftUI_Demos/CustomSplashScreen)          |  ![CustomSplashScreen           ](SwiftUI_Demos/CustomSplashScreen/CustomSplashScreen.gif)                    | 启动页动画 | 
 | [CustomKeyboard              ](SwiftUI_Demos/CustomKeyboard)              |  ![CustomKeyboard               ](SwiftUI_Demos/CustomKeyboard/CustomKeyboard.gif)                            | 自定义数字键盘 | 
