@@ -2,6 +2,7 @@
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
+| [AutoScrollCarousel          ](SwiftUI_Demos/AutoScrollCarousel)          |  ![AutoScrollCarousel           ](SwiftUI_Demos/AutoScrollCarousel/AutoScrollCarousel.gif)                    | 无限轮播 | 
 | [NotesApp                    ](SwiftUI_Demos/NotesApp)                    |  ![NotesApp                     ](SwiftUI_Demos/NotesApp/NotesApp.gif)                                        | 笔记 app | 
 | [ChipsUI                     ](SwiftUI_Demos/ChipsUI)                     |  ![ChipsUI                      ](SwiftUI_Demos/ChipsUI/ChipsUI.gif)                                          | 动态标签 | 
 | [CustomSplashScreen          ](SwiftUI_Demos/CustomSplashScreen)          |  ![CustomSplashScreen           ](SwiftUI_Demos/CustomSplashScreen/CustomSplashScreen.gif)                    | 启动页动画 | 
