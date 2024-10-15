@@ -2,6 +2,8 @@
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
+| [DragToSelect                ](SwiftUI_Demos/DragToSelect)                |  ![DragToSelect                 ](SwiftUI_Demos/DragToSelect/DragToSelect.gif)                                | 模拟相册滑动选择 | 
+| [AlterIcons                  ](SwiftUI_Demos/AlterIcons)                  |  ![AlterIcons                   ](SwiftUI_Demos/AlterIcons/AlterIcons.gif)                                    | app图标更改 | 
 | [AutoScrollCarousel          ](SwiftUI_Demos/AutoScrollCarousel)          |  ![AutoScrollCarousel           ](SwiftUI_Demos/AutoScrollCarousel/AutoScrollCarousel.gif)                    | 无限轮播 | 
 | [NotesApp                    ](SwiftUI_Demos/NotesApp)                    |  ![NotesApp                     ](SwiftUI_Demos/NotesApp/NotesApp.gif)                                        | 笔记 app | 
 | [ChipsUI                     ](SwiftUI_Demos/ChipsUI)                     |  ![ChipsUI                      ](SwiftUI_Demos/ChipsUI/ChipsUI.gif)                                          | 动态标签 | 
