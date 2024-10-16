@@ -2,6 +2,7 @@
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
+| [ScrollInteraction           ](SwiftUI_Demos/ScrollInteraction)           |  ![ScrollInteraction            ](SwiftUI_Demos/ScrollInteraction/ScrollInteraction.gif)                      | 快速创建旋转木马动效 | 
 | [DragToSelect                ](SwiftUI_Demos/DragToSelect)                |  ![DragToSelect                 ](SwiftUI_Demos/DragToSelect/DragToSelect.gif)                                | 模拟相册滑动选择 | 
 | [AlterIcons                  ](SwiftUI_Demos/AlterIcons)                  |  ![AlterIcons                   ](SwiftUI_Demos/AlterIcons/AlterIcons.gif)                                    | app图标更改 | 
 | [AutoScrollCarousel          ](SwiftUI_Demos/AutoScrollCarousel)          |  ![AutoScrollCarousel           ](SwiftUI_Demos/AutoScrollCarousel/AutoScrollCarousel.gif)                    | 无限轮播 | 
@@ -14,6 +15,7 @@
 | [CustomDragAndDrop           ](SwiftUI_Demos/CustomDragAndDrop)           |  ![CustomDragAndDrop            ](SwiftUI_Demos/CustomDragAndDrop/CustomDragAndDrop.gif)                      | 控制中心排序实现 | 
 | [SwiftDataExport             ](SwiftUI_Demos/SwiftDataExport)             |  ![SwiftDataExport              ](SwiftUI_Demos/SwiftDataExport/SwiftDataExport.gif)                          | 数据加密存储与加密导出 | 
 | [AppSchemeChanger            ](SwiftUI_Demos/AppSchemeChanger)            |  ![AppSchemeChanger             ](SwiftUI_Demos/AppSchemeChanger/AppSchemeChanger.gif)                        | 主题色更换 | 
+| [TabBarCustomization         ](SwiftUI_Demos/TabBarCustomization)         |  ![TabBarCustomization          ](SwiftUI_Demos/TabBarCustomization/TabBarCustomization.gif)                  | 自定义 TabBar 9 | 
 | [PSTabBar                    ](SwiftUI_Demos/PSTabBar)                    |  ![PSTabBar                     ](SwiftUI_Demos/PSTabBar/PSTabBar.gif)                                        | 自定义 TabBar 8 |  
 | [FloatingTabBar              ](SwiftUI_Demos/FloatingTabBar)              |  ![FloatingTabBar               ](SwiftUI_Demos/FloatingTabBar/FloatingTabBar.gif)                            | 自定义 TabBar 7 |    
 | [CustomTabBar6               ](SwiftUI_Demos/CustomTabBar6)               |  ![CustomTabBar6                ](SwiftUI_Demos/CustomTabBar6/CustomTabBar6.gif)                              | 自定义 TabBar 6 |     
