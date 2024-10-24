@@ -2,6 +2,7 @@
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
+| [UniversalView               ](SwiftUI_Demos/UniversalView)               |  ![UniversalView                ](SwiftUI_Demos/UniversalView/UniversalView.gif)                              | 通用浮层视图 | 
 | [InteractiveToasts           ](SwiftUI_Demos/InteractiveToasts)           |  ![InteractiveToasts            ](SwiftUI_Demos/InteractiveToasts/InteractiveToasts.gif)                      | Toast动画 | 
 | [ScrollInteraction           ](SwiftUI_Demos/ScrollInteraction)           |  ![ScrollInteraction            ](SwiftUI_Demos/ScrollInteraction/ScrollInteraction.gif)                      | 快速创建旋转木马动效 | 
 | [DragToSelect                ](SwiftUI_Demos/DragToSelect)                |  ![DragToSelect                 ](SwiftUI_Demos/DragToSelect/DragToSelect.gif)                                | 模拟相册滑动选择 | 
