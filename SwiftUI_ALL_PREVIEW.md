@@ -2,6 +2,7 @@
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
+| [ViewSnapshot                ](SwiftUI_Demos/ViewSnapshot)                |  ![ViewSnapshot                 ](SwiftUI_Demos/ViewSnapshot/ViewSnapshot.gif)                                | 截图 | 
 | [AppleMusicMiniPlayer        ](SwiftUI_Demos/AppleMusicMiniPlayer)        |  ![AppleMusicMiniPlayer         ](SwiftUI_Demos/AppleMusicMiniPlayer/AppleMusicMiniPlayer.gif)                | 仿 Apple Music | 
 | [UniversalView               ](SwiftUI_Demos/UniversalView)               |  ![UniversalView                ](SwiftUI_Demos/UniversalView/UniversalView.gif)                              | 通用浮层视图 | 
 | [InteractiveToasts           ](SwiftUI_Demos/InteractiveToasts)           |  ![InteractiveToasts            ](SwiftUI_Demos/InteractiveToasts/InteractiveToasts.gif)                      | Toast动画 | 
