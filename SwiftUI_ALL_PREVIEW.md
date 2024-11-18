@@ -2,6 +2,7 @@
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
+| [HeroNavigationStack         ](SwiftUI_Demos/HeroNavigationStack)         |  ![HeroNavigationStack          ](SwiftUI_Demos/HeroNavigationStack/HeroNavigationStack.gif)                  | 导航栏转场动画 | 
 | [ExpandableSlider            ](SwiftUI_Demos/ExpandableSlider)            |  ![ExpandableSlider             ](SwiftUI_Demos/ExpandableSlider/ExpandableSlider.gif)                        | 自定义滑块 | 
 | [TextFieldMenu               ](SwiftUI_Demos/TextFieldMenu)               |  ![TextFieldMenu                ](SwiftUI_Demos/TextFieldMenu/TextFieldMenu.gif)                              | 自定义编辑框菜单功能 | 
 | [ViewSnapshot                ](SwiftUI_Demos/ViewSnapshot)                |  ![ViewSnapshot                 ](SwiftUI_Demos/ViewSnapshot/ViewSnapshot.gif)                                | 截图 | 
