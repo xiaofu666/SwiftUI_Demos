@@ -2,6 +2,8 @@
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
+| [CustomNavigationPopItems    ](SwiftUI_Demos/CustomNavigationPopItems)    |  ![CustomNavigationPopItems     ](SwiftUI_Demos/CustomNavigationPopItems/CustomNavigationPopItems.gif)        | 导航栏手势转场动画 | 
+| [SnapEffect                  ](SwiftUI_Demos/SnapEffect)                  |  ![SnapEffect                   ](SwiftUI_Demos/SnapEffect/SnapEffect.gif)                                    | 仿iOS18浏览器隐藏动画 | 
 | [iOS18MailAppTabbar          ](SwiftUI_Demos/iOS18MailAppTabbar)          |  ![iOS18MailAppTabbar           ](SwiftUI_Demos/iOS18MailAppTabbar/iOS18MailAppTabbar.gif)                    | 自定义导航栏 | 
 | [HeroNavigationStack         ](SwiftUI_Demos/HeroNavigationStack)         |  ![HeroNavigationStack          ](SwiftUI_Demos/HeroNavigationStack/HeroNavigationStack.gif)                  | 导航栏转场动画 | 
 | [ExpandableSlider            ](SwiftUI_Demos/ExpandableSlider)            |  ![ExpandableSlider             ](SwiftUI_Demos/ExpandableSlider/ExpandableSlider.gif)                        | 自定义滑块 | 
