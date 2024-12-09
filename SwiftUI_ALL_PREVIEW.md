@@ -2,6 +2,7 @@
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
+| [WalletCardAnimation         ](SwiftUI_Demos/WalletCardAnimation)         |  ![WalletCardAnimation          ](SwiftUI_Demos/WalletCardAnimation/WalletCardAnimation.gif)                  | 钱包动画 | 
 | [CustomIntroPage             ](SwiftUI_Demos/CustomIntroPage)             |  ![CustomIntroPage              ](SwiftUI_Demos/CustomIntroPage/CustomIntroPage.gif)                          | 引导页动画 | 
 | [CustomNavigationPopItems    ](SwiftUI_Demos/CustomNavigationPopItems)    |  ![CustomNavigationPopItems     ](SwiftUI_Demos/CustomNavigationPopItems/CustomNavigationPopItems.gif)        | 导航栏手势转场动画 | 
 | [SnapEffect                  ](SwiftUI_Demos/SnapEffect)                  |  ![SnapEffect                   ](SwiftUI_Demos/SnapEffect/SnapEffect.gif)                                    | 仿iOS18浏览器隐藏动画 | 
