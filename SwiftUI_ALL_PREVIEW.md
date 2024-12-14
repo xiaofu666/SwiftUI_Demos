@@ -2,6 +2,7 @@
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
+| [PaymentCard                 ](SwiftUI_Demos/PaymentCard)                 |  ![PaymentCard                  ](SwiftUI_Demos/PaymentCard/PaymentCard.gif)                                  | 信用卡 | 
 | [InteractionsDemo            ](SwiftUI_Demos/InteractionsDemo)            |  ![InteractionsDemo             ](SwiftUI_Demos/InteractionsDemo/InteractionsDemo.gif)                        | 手势指导动画 | 
 | [WalletCardAnimation         ](SwiftUI_Demos/WalletCardAnimation)         |  ![WalletCardAnimation          ](SwiftUI_Demos/WalletCardAnimation/WalletCardAnimation.gif)                  | 钱包动画 | 
 | [CustomIntroPage             ](SwiftUI_Demos/CustomIntroPage)             |  ![CustomIntroPage              ](SwiftUI_Demos/CustomIntroPage/CustomIntroPage.gif)                          | 引导页动画 | 
