@@ -2,6 +2,7 @@
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
+| [LoopingCards                ](SwiftUI_Demos/LoopingCards)                |  ![LoopingCards                 ](SwiftUI_Demos/LoopingCards/LoopingCards.gif)                                | 循环卡片 | 
 | [PaymentCard                 ](SwiftUI_Demos/PaymentCard)                 |  ![PaymentCard                  ](SwiftUI_Demos/PaymentCard/PaymentCard.gif)                                  | 信用卡 | 
 | [InteractionsDemo            ](SwiftUI_Demos/InteractionsDemo)            |  ![InteractionsDemo             ](SwiftUI_Demos/InteractionsDemo/InteractionsDemo.gif)                        | 手势指导动画 | 
 | [WalletCardAnimation         ](SwiftUI_Demos/WalletCardAnimation)         |  ![WalletCardAnimation          ](SwiftUI_Demos/WalletCardAnimation/WalletCardAnimation.gif)                  | 钱包动画 | 
