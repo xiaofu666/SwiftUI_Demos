@@ -2,6 +2,7 @@
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
+| [InteractiveTab              ](SwiftUI_Demos/InteractiveTab)              |  ![InteractiveTab               ](SwiftUI_Demos/InteractiveTab/InteractiveTab.gif)                            | 可交互TabBar | 
 | [ImageSliderView             ](SwiftUI_Demos/ImageSliderView)             |  ![ImageSliderView              ](SwiftUI_Demos/ImageSliderView/ImageSliderView.gif)                          | 图片查看 | 
 | [LoopingCards                ](SwiftUI_Demos/LoopingCards)                |  ![LoopingCards                 ](SwiftUI_Demos/LoopingCards/LoopingCards.gif)                                | 循环卡片 | 
 | [PaymentCard                 ](SwiftUI_Demos/PaymentCard)                 |  ![PaymentCard                  ](SwiftUI_Demos/PaymentCard/PaymentCard.gif)                                  | 信用卡 | 
