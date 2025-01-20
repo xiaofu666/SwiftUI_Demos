@@ -1,0 +1,11 @@
+{
+    "aps" : {
+        "alert" : {
+            "title" : "Push Notification's",
+            "body" : "Go to View 2"
+            },
+        "badge" : 0
+    },
+    "pageLink" : "lurichapp://View2",
+    "Simulator Target Bundle" : "con.lurich.NotificationDeepLink"
+}
