@@ -2,6 +2,8 @@
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
+| [ManualOrientation           ](SwiftUI_Demos/ManualOrientation)           |  ![ManualOrientation            ](SwiftUI_Demos/ManualOrientation/ManualOrientation.gif)                      | 横竖屏切换 | 
+| [NotificationDeepLink        ](SwiftUI_Demos/NotificationDeepLink)        |  ![NotificationDeepLink         ](SwiftUI_Demos/NotificationDeepLink/NotificationDeepLink.gif)                | 通知跳转处理 | 
 | [BackdropCarousel            ](SwiftUI_Demos/BackdropCarousel)            |  ![BackdropCarousel             ](SwiftUI_Demos/BackdropCarousel/BackdropCarousel.gif)                        | 轮播背景动画 | 
 | [InteractiveTab              ](SwiftUI_Demos/InteractiveTab)              |  ![InteractiveTab               ](SwiftUI_Demos/InteractiveTab/InteractiveTab.gif)                            | 可交互TabBar | 
 | [ImageSliderView             ](SwiftUI_Demos/ImageSliderView)             |  ![ImageSliderView              ](SwiftUI_Demos/ImageSliderView/ImageSliderView.gif)                          | 图片查看 | 
