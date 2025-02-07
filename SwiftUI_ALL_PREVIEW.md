@@ -2,6 +2,7 @@
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
+| [FlashCards                  ](SwiftUI_Demos/FlashCards)                  |  ![FlashCards                   ](SwiftUI_Demos/FlashCards/FlashCards.gif)                                    | CoreData应用 | 
 | [CustomAlertView             ](SwiftUI_Demos/CustomAlertView)             |  ![CustomAlertView              ](SwiftUI_Demos/CustomAlertView/CustomAlertView.gif)                          | 自定义弹框 | 
 | [VerificationCode            ](SwiftUI_Demos/VerificationCode)            |  ![VerificationCode             ](SwiftUI_Demos/VerificationCode/VerificationCode.gif)                        | 验证码输入框 | 
 | [ManualOrientation           ](SwiftUI_Demos/ManualOrientation)           |  ![ManualOrientation            ](SwiftUI_Demos/ManualOrientation/ManualOrientation.gif)                      | 横竖屏切换 | 
