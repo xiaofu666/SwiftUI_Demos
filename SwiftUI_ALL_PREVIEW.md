@@ -2,6 +2,8 @@
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
+| [CustomAlertView             ](SwiftUI_Demos/CustomAlertView)             |  ![CustomAlertView              ](SwiftUI_Demos/CustomAlertView/CustomAlertView.gif)                          | 自定义弹框 | 
+| [VerificationCode            ](SwiftUI_Demos/VerificationCode)            |  ![VerificationCode             ](SwiftUI_Demos/VerificationCode/VerificationCode.gif)                        | 验证码输入框 | 
 | [ManualOrientation           ](SwiftUI_Demos/ManualOrientation)           |  ![ManualOrientation            ](SwiftUI_Demos/ManualOrientation/ManualOrientation.gif)                      | 横竖屏切换 | 
 | [NotificationDeepLink        ](SwiftUI_Demos/NotificationDeepLink)        |  ![NotificationDeepLink         ](SwiftUI_Demos/NotificationDeepLink/NotificationDeepLink.gif)                | 通知跳转处理 | 
 | [BackdropCarousel            ](SwiftUI_Demos/BackdropCarousel)            |  ![BackdropCarousel             ](SwiftUI_Demos/BackdropCarousel/BackdropCarousel.gif)                        | 轮播背景动画 | 
