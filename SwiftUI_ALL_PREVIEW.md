@@ -2,6 +2,7 @@
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
+| [MailSwipeActions            ](SwiftUI_Demos/MailSwipeActions)            |  ![MailSwipeActions             ](SwiftUI_Demos/MailSwipeActions/MailSwipeActions.gif)                        | 侧滑功能 | 
 | [FlashCards                  ](SwiftUI_Demos/FlashCards)                  |  ![FlashCards                   ](SwiftUI_Demos/FlashCards/FlashCards.gif)                                    | CoreData应用 | 
 | [CustomAlertView             ](SwiftUI_Demos/CustomAlertView)             |  ![CustomAlertView              ](SwiftUI_Demos/CustomAlertView/CustomAlertView.gif)                          | 自定义弹框 | 
 | [VerificationCode            ](SwiftUI_Demos/VerificationCode)            |  ![VerificationCode             ](SwiftUI_Demos/VerificationCode/VerificationCode.gif)                        | 验证码输入框 | 
