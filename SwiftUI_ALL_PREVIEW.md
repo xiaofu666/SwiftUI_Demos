@@ -2,6 +2,7 @@
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
+| [InvitesIntroPage            ](SwiftUI_Demos/InvitesIntroPage)            |  ![InvitesIntroPage             ](SwiftUI_Demos/InvitesIntroPage/InvitesIntroPage.gif)                        | 苹果邀请APP动画 | 
 | [MailSwipeActions            ](SwiftUI_Demos/MailSwipeActions)            |  ![MailSwipeActions             ](SwiftUI_Demos/MailSwipeActions/MailSwipeActions.gif)                        | 侧滑功能 | 
 | [FlashCards                  ](SwiftUI_Demos/FlashCards)                  |  ![FlashCards                   ](SwiftUI_Demos/FlashCards/FlashCards.gif)                                    | CoreData应用 | 
 | [CustomAlertView             ](SwiftUI_Demos/CustomAlertView)             |  ![CustomAlertView              ](SwiftUI_Demos/CustomAlertView/CustomAlertView.gif)                          | 自定义弹框 | 
