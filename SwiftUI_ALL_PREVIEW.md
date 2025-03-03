@@ -2,6 +2,7 @@
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
+| [AppShortcuts                ](SwiftUI_Demos/AppShortcuts)                |  ![AppShortcuts                 ](SwiftUI_Demos/AppShortcuts/AppShortcuts.gif)                                | App 快捷指令 | 
 | [AppleBooks                  ](SwiftUI_Demos/AppleBooks)                  |  ![AppleBooks                   ](SwiftUI_Demos/AppleBooks/AppleBooks.gif)                                    |  | 
 | [CustomScrollInteraction     ](SwiftUI_Demos/CustomScrollInteraction)     |  ![CustomScrollInteraction      ](SwiftUI_Demos/CustomScrollInteraction/CustomScrollInteraction.gif)          | 自定义滚动提示条 | 
 | [RippleTransitions           ](SwiftUI_Demos/RippleTransitions)           |  ![RippleTransitions            ](SwiftUI_Demos/RippleTransitions/RippleTransitions.gif)                      | 涟漪转场动画 | 
