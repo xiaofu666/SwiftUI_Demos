@@ -2,6 +2,7 @@
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
+| [ChipSelection               ](SwiftUI_Demos/ChipSelection)               |  ![ChipSelection                ](SwiftUI_Demos/ChipSelection/ChipSelection.gif)                              | 自定义标签layout | 
 | [SystemTray                  ](SwiftUI_Demos/SystemTray)                  |  ![SystemTray                   ](SwiftUI_Demos/SystemTray/SystemTray.gif)                                    | 动态高度Sheet | 
 | [AppShortcuts                ](SwiftUI_Demos/AppShortcuts)                |  ![AppShortcuts                 ](SwiftUI_Demos/AppShortcuts/AppShortcuts.gif)                                | App 快捷指令 | 
 | [AppleBooks                  ](SwiftUI_Demos/AppleBooks)                  |  ![AppleBooks                   ](SwiftUI_Demos/AppleBooks/AppleBooks.gif)                                    |  | 
