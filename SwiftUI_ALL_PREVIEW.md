@@ -2,6 +2,7 @@
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
+| [AudioScrubber               ](SwiftUI_Demos/AudioScrubber)               |  ![AudioScrubber                ](SwiftUI_Demos/AudioScrubber/AudioScrubber.gif)                              | 音频动画 | 
 | [AnimatedStateButton         ](SwiftUI_Demos/AnimatedStateButton)         |  ![AnimatedStateButton          ](SwiftUI_Demos/AnimatedStateButton/AnimatedStateButton.gif)                  | 自定义状态按钮 | 
 | [VisionOSMenuBar             ](SwiftUI_Demos/VisionOSMenuBar)             |  ![VisionOSMenuBar              ](SwiftUI_Demos/VisionOSMenuBar/VisionOSMenuBar.gif)                          | 自定义菜单栏 | 
 | [ChipSelection               ](SwiftUI_Demos/ChipSelection)               |  ![ChipSelection                ](SwiftUI_Demos/ChipSelection/ChipSelection.gif)                              | 自定义标签layout | 
