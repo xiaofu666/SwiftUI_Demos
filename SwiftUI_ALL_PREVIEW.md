@@ -2,6 +2,7 @@
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
+| [SlideControl                ](SwiftUI_Demos/SlideControl)                |  ![SlideControl                 ](SwiftUI_Demos/SlideControl/SlideControl.gif)                                | 滑动解锁动画 | 
 | [AlertDrawer                 ](SwiftUI_Demos/AlertDrawer)                 |  ![AlertDrawer                  ](SwiftUI_Demos/AlertDrawer/AlertDrawer.gif)                                  | 警告抽屉 | 
 | [StaggeredAnimation          ](SwiftUI_Demos/StaggeredAnimation)          |  ![StaggeredAnimation           ](SwiftUI_Demos/StaggeredAnimation/StaggeredAnimation.gif)                    | 交错动画 | 
 | [AudioScrubber               ](SwiftUI_Demos/AudioScrubber)               |  ![AudioScrubber                ](SwiftUI_Demos/AudioScrubber/AudioScrubber.gif)                              | 音频动画 | 
