@@ -2,6 +2,7 @@
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
+| [SlackHeaderAnimation        ](SwiftUI_Demos/SlackHeaderAnimation)        |  ![SlackHeaderAnimation         ](SwiftUI_Demos/SlackHeaderAnimation/SlackHeaderAnimation.gif)                | 标题动画 | 
 | [SlideControl                ](SwiftUI_Demos/SlideControl)                |  ![SlideControl                 ](SwiftUI_Demos/SlideControl/SlideControl.gif)                                | 滑动解锁动画 | 
 | [AlertDrawer                 ](SwiftUI_Demos/AlertDrawer)                 |  ![AlertDrawer                  ](SwiftUI_Demos/AlertDrawer/AlertDrawer.gif)                                  | 警告抽屉 | 
 | [StaggeredAnimation          ](SwiftUI_Demos/StaggeredAnimation)          |  ![StaggeredAnimation           ](SwiftUI_Demos/StaggeredAnimation/StaggeredAnimation.gif)                    | 交错动画 | 
