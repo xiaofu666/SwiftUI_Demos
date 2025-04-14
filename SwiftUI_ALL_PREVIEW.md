@@ -2,6 +2,7 @@
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
+| [Skeleton                    ](SwiftUI_Demos/Skeleton)                    |  ![Skeleton                     ](SwiftUI_Demos/Skeleton/Skeleton.gif)                                        | 视图骨架动画 | 
 | [CustomCalendar              ](SwiftUI_Demos/CustomCalendar)              |  ![CustomCalendar               ](SwiftUI_Demos/CustomCalendar/CustomCalendar.gif)                            | 自定义日历 | 
 | [SlackHeaderAnimation        ](SwiftUI_Demos/SlackHeaderAnimation)        |  ![SlackHeaderAnimation         ](SwiftUI_Demos/SlackHeaderAnimation/SlackHeaderAnimation.gif)                | 标题动画 | 
 | [SlideControl                ](SwiftUI_Demos/SlideControl)                |  ![SlideControl                 ](SwiftUI_Demos/SlideControl/SlideControl.gif)                                | 滑动解锁动画 | 
