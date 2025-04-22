@@ -2,6 +2,7 @@
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
+| [CustomLocationPicker        ](SwiftUI_Demos/CustomLocationPicker)        |  ![CustomLocationPicker         ](SwiftUI_Demos/CustomLocationPicker/CustomLocationPicker.gif)                | 位置选择器 | 
 | [InternetConnectivity        ](SwiftUI_Demos/InternetConnectivity)        |  ![InternetConnectivity         ](SwiftUI_Demos/InternetConnectivity/InternetConnectivity.gif)                | 网络状态监听 | 
 | [Skeleton                    ](SwiftUI_Demos/Skeleton)                    |  ![Skeleton                     ](SwiftUI_Demos/Skeleton/Skeleton.gif)                                        | 视图骨架动画 | 
 | [CustomCalendar              ](SwiftUI_Demos/CustomCalendar)              |  ![CustomCalendar               ](SwiftUI_Demos/CustomCalendar/CustomCalendar.gif)                            | 自定义日历 | 
