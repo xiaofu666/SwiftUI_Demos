@@ -11,6 +11,7 @@
 ### 仅展示部分效果图，全部效果图[点击这里](SwiftUI_ALL_PREVIEW.md)查看
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
+| [3DMorphingDotSphere         ](SwiftUI_Demos/3DMorphingDotSphere)         |  ![3DMorphingDotSphere          ](SwiftUI_Demos/3DMorphingDotSphere/3DMorphingDotSphere.gif)                  | 3D点球变形动画 | 
 | [AnimationLineView           ](SwiftUI_Demos/AnimationLineView)           |  ![AnimationLineView            ](SwiftUI_Demos/AnimationLineView/AnimationLineView.gif)                      | 魔术线2 | 
 | [MagicDividingLineView       ](SwiftUI_Demos/MagicDividingLineView)       |  ![MagicDividingLineView        ](SwiftUI_Demos/MagicDividingLineView/MagicDividingLineView.gif)              | 魔术线1 | 
 | [HelloAnimation              ](SwiftUI_Demos/HelloAnimation)              |  ![HelloAnimation               ](SwiftUI_Demos/HelloAnimation/HelloAnimation.gif)                            | Hello 动画 |  

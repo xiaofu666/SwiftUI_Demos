@@ -2,10 +2,13 @@
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
+| [CustomCalendarPlus          ](SwiftUI_Demos/CustomCalendarPlus)          |  ![CustomCalendarPlus           ](SwiftUI_Demos/CustomCalendarPlus/CustomCalendarPlus.gif)                    | 自定义日历选择器 | 
+| [CustomCalendar              ](SwiftUI_Demos/CustomCalendar)              |  ![CustomCalendar               ](SwiftUI_Demos/CustomCalendar/CustomCalendar.gif)                            | 自定义日历 | 
+| [CustomColorPickers          ](SwiftUI_Demos/CustomColorPickers)          |  ![CustomColorPickers           ](SwiftUI_Demos/CustomColorPickers/CustomColorPickers.gif)                    | 自定义颜色选择器 | 
+| [3DMorphingDotSphere         ](SwiftUI_Demos/3DMorphingDotSphere)         |  ![3DMorphingDotSphere          ](SwiftUI_Demos/3DMorphingDotSphere/3DMorphingDotSphere.gif)                  | 3D点球变形动画 | 
 | [CustomLocationPicker        ](SwiftUI_Demos/CustomLocationPicker)        |  ![CustomLocationPicker         ](SwiftUI_Demos/CustomLocationPicker/CustomLocationPicker.gif)                | 位置选择器 | 
 | [InternetConnectivity        ](SwiftUI_Demos/InternetConnectivity)        |  ![InternetConnectivity         ](SwiftUI_Demos/InternetConnectivity/InternetConnectivity.gif)                | 网络状态监听 | 
 | [Skeleton                    ](SwiftUI_Demos/Skeleton)                    |  ![Skeleton                     ](SwiftUI_Demos/Skeleton/Skeleton.gif)                                        | 视图骨架动画 | 
-| [CustomCalendar              ](SwiftUI_Demos/CustomCalendar)              |  ![CustomCalendar               ](SwiftUI_Demos/CustomCalendar/CustomCalendar.gif)                            | 自定义日历 | 
 | [SlackHeaderAnimation        ](SwiftUI_Demos/SlackHeaderAnimation)        |  ![SlackHeaderAnimation         ](SwiftUI_Demos/SlackHeaderAnimation/SlackHeaderAnimation.gif)                | 标题动画 | 
 | [SlideControl                ](SwiftUI_Demos/SlideControl)                |  ![SlideControl                 ](SwiftUI_Demos/SlideControl/SlideControl.gif)                                | 滑动解锁动画 | 
 | [AlertDrawer                 ](SwiftUI_Demos/AlertDrawer)                 |  ![AlertDrawer                  ](SwiftUI_Demos/AlertDrawer/AlertDrawer.gif)                                  | 警告抽屉 | 
