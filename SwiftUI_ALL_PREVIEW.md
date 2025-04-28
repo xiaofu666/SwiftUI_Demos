@@ -2,6 +2,7 @@
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
+| [InlineToasts                ](SwiftUI_Demos/InlineToasts)                |  ![InlineToasts                 ](SwiftUI_Demos/InlineToasts/InlineToasts.gif)                                | 内联提示 | 
 | [CustomCalendarPlus          ](SwiftUI_Demos/CustomCalendarPlus)          |  ![CustomCalendarPlus           ](SwiftUI_Demos/CustomCalendarPlus/CustomCalendarPlus.gif)                    | 自定义日历选择器 | 
 | [CustomCalendar              ](SwiftUI_Demos/CustomCalendar)              |  ![CustomCalendar               ](SwiftUI_Demos/CustomCalendar/CustomCalendar.gif)                            | 自定义日历 | 
 | [CustomColorPickers          ](SwiftUI_Demos/CustomColorPickers)          |  ![CustomColorPickers           ](SwiftUI_Demos/CustomColorPickers/CustomColorPickers.gif)                    | 自定义颜色选择器 | 
