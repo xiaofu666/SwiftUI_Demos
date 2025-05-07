@@ -2,6 +2,17 @@
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
+| [Floating_Tab_Bar            ](SwiftUI_Demos/Floating_Tab_Bar)            |  ![Floating_Tab_Bar             ](SwiftUI_Demos/Floating_Tab_Bar/Floating_Tab_Bar.gif)                        | 自定义 TabBar 11 | 
+| [InteractiveTab              ](SwiftUI_Demos/InteractiveTab)              |  ![InteractiveTab               ](SwiftUI_Demos/InteractiveTab/InteractiveTab.gif)                            | 自定义 TabBar 10 | 
+| [TabBarCustomization         ](SwiftUI_Demos/TabBarCustomization)         |  ![TabBarCustomization          ](SwiftUI_Demos/TabBarCustomization/TabBarCustomization.gif)                  | 自定义 TabBar 9 | 
+| [PSTabBar                    ](SwiftUI_Demos/PSTabBar)                    |  ![PSTabBar                     ](SwiftUI_Demos/PSTabBar/PSTabBar.gif)                                        | 自定义 TabBar 8 |  
+| [FloatingTabBar              ](SwiftUI_Demos/FloatingTabBar)              |  ![FloatingTabBar               ](SwiftUI_Demos/FloatingTabBar/FloatingTabBar.gif)                            | 自定义 TabBar 7 |    
+| [CustomTabBar6               ](SwiftUI_Demos/CustomTabBar6)               |  ![CustomTabBar6                ](SwiftUI_Demos/CustomTabBar6/CustomTabBar6.gif)                              | 自定义 TabBar 6 |     
+| [CustomTabBar5               ](SwiftUI_Demos/CustomTabBar5)               |  ![CustomTabBar5                ](SwiftUI_Demos/CustomTabBar5/CustomTabBar5.gif)                              | 自定义 TabBar 5 |     
+| [CustomTabBar4               ](SwiftUI_Demos/CustomTabBar4)               |  ![CustomTabBar4                ](SwiftUI_Demos/CustomTabBar4/CustomTabBar4.gif)                              | 自定义 TabBar 4 |      
+| [CustomTabBar3               ](SwiftUI_Demos/CustomTabBar3)               |  ![CustomTabBar3                ](SwiftUI_Demos/CustomTabBar3/CustomTabBar3.gif)                              | 自定义 TabBar 3 |     
+| [CustomTabBar2               ](SwiftUI_Demos/CustomTabBar2)               |  ![CustomTabBar2                ](SwiftUI_Demos/CustomTabBar2/CustomTabBar2.gif)                              | 自定义 TabBar 2 |   
+| [CustomTabBar1               ](SwiftUI_Demos/CustomTabBar1)               |  ![CustomTabBar1                ](SwiftUI_Demos/CustomTabBar1/CustomTabBar1.gif)                              | 自定义 TabBar 1 |  
 | [AnimationsExample           ](SwiftUI_Demos/AnimationsExample)           |  ![AnimationsExample            ](SwiftUI_Demos/AnimationsExample/AnimationsExample.gif)                      | 动画API使用示例 | 
 | [InlineToasts                ](SwiftUI_Demos/InlineToasts)                |  ![InlineToasts                 ](SwiftUI_Demos/InlineToasts/InlineToasts.gif)                                | 内联提示 | 
 | [CustomCalendarPlus          ](SwiftUI_Demos/CustomCalendarPlus)          |  ![CustomCalendarPlus           ](SwiftUI_Demos/CustomCalendarPlus/CustomCalendarPlus.gif)                    | 自定义日历选择器 | 
@@ -33,7 +44,6 @@
 | [ManualOrientation           ](SwiftUI_Demos/ManualOrientation)           |  ![ManualOrientation            ](SwiftUI_Demos/ManualOrientation/ManualOrientation.gif)                      | 横竖屏切换 | 
 | [NotificationDeepLink        ](SwiftUI_Demos/NotificationDeepLink)        |  ![NotificationDeepLink         ](SwiftUI_Demos/NotificationDeepLink/NotificationDeepLink.gif)                | 通知跳转处理 | 
 | [BackdropCarousel            ](SwiftUI_Demos/BackdropCarousel)            |  ![BackdropCarousel             ](SwiftUI_Demos/BackdropCarousel/BackdropCarousel.gif)                        | 轮播背景动画 | 
-| [InteractiveTab              ](SwiftUI_Demos/InteractiveTab)              |  ![InteractiveTab               ](SwiftUI_Demos/InteractiveTab/InteractiveTab.gif)                            | 可交互TabBar | 
 | [ImageSliderView             ](SwiftUI_Demos/ImageSliderView)             |  ![ImageSliderView              ](SwiftUI_Demos/ImageSliderView/ImageSliderView.gif)                          | 图片查看 | 
 | [LoopingCards                ](SwiftUI_Demos/LoopingCards)                |  ![LoopingCards                 ](SwiftUI_Demos/LoopingCards/LoopingCards.gif)                                | 循环卡片 | 
 | [PaymentCard                 ](SwiftUI_Demos/PaymentCard)                 |  ![PaymentCard                  ](SwiftUI_Demos/PaymentCard/PaymentCard.gif)                                  | 信用卡 | 
@@ -62,16 +72,7 @@
 | [CustomPopView               ](SwiftUI_Demos/CustomPopView)               |  ![CustomPopView                ](SwiftUI_Demos/CustomPopView/CustomPopView.gif)                              | 自定义弹框 | 
 | [CustomDragAndDrop           ](SwiftUI_Demos/CustomDragAndDrop)           |  ![CustomDragAndDrop            ](SwiftUI_Demos/CustomDragAndDrop/CustomDragAndDrop.gif)                      | 控制中心排序实现 | 
 | [SwiftDataExport             ](SwiftUI_Demos/SwiftDataExport)             |  ![SwiftDataExport              ](SwiftUI_Demos/SwiftDataExport/SwiftDataExport.gif)                          | 数据加密存储与加密导出 | 
-| [AppSchemeChanger            ](SwiftUI_Demos/AppSchemeChanger)            |  ![AppSchemeChanger             ](SwiftUI_Demos/AppSchemeChanger/AppSchemeChanger.gif)                        | 主题色更换 | 
-| [TabBarCustomization         ](SwiftUI_Demos/TabBarCustomization)         |  ![TabBarCustomization          ](SwiftUI_Demos/TabBarCustomization/TabBarCustomization.gif)                  | 自定义 TabBar 9 | 
-| [PSTabBar                    ](SwiftUI_Demos/PSTabBar)                    |  ![PSTabBar                     ](SwiftUI_Demos/PSTabBar/PSTabBar.gif)                                        | 自定义 TabBar 8 |  
-| [FloatingTabBar              ](SwiftUI_Demos/FloatingTabBar)              |  ![FloatingTabBar               ](SwiftUI_Demos/FloatingTabBar/FloatingTabBar.gif)                            | 自定义 TabBar 7 |    
-| [CustomTabBar6               ](SwiftUI_Demos/CustomTabBar6)               |  ![CustomTabBar6                ](SwiftUI_Demos/CustomTabBar6/CustomTabBar6.gif)                              | 自定义 TabBar 6 |     
-| [CustomTabBar5               ](SwiftUI_Demos/CustomTabBar5)               |  ![CustomTabBar5                ](SwiftUI_Demos/CustomTabBar5/CustomTabBar5.gif)                              | 自定义 TabBar 5 |     
-| [CustomTabBar4               ](SwiftUI_Demos/CustomTabBar4)               |  ![CustomTabBar4                ](SwiftUI_Demos/CustomTabBar4/CustomTabBar4.gif)                              | 自定义 TabBar 4 |      
-| [CustomTabBar3               ](SwiftUI_Demos/CustomTabBar3)               |  ![CustomTabBar3                ](SwiftUI_Demos/CustomTabBar3/CustomTabBar3.gif)                              | 自定义 TabBar 3 |     
-| [CustomTabBar2               ](SwiftUI_Demos/CustomTabBar2)               |  ![CustomTabBar2                ](SwiftUI_Demos/CustomTabBar2/CustomTabBar2.gif)                              | 自定义 TabBar 2 |   
-| [CustomTabBar1               ](SwiftUI_Demos/CustomTabBar1)               |  ![CustomTabBar1                ](SwiftUI_Demos/CustomTabBar1/CustomTabBar1.gif)                              | 自定义 TabBar 1 |     
+| [AppSchemeChanger            ](SwiftUI_Demos/AppSchemeChanger)            |  ![AppSchemeChanger             ](SwiftUI_Demos/AppSchemeChanger/AppSchemeChanger.gif)                        | 主题色更换 |    
 | [Custom_Header               ](SwiftUI_Demos/Custom_Header)               |  ![Custom_Header                ](SwiftUI_Demos/Custom_Header/Custom_Header.gif)                              | 自定义头部视图 | 
 | [CompositionalGridLayout     ](SwiftUI_Demos/CompositionalGridLayout)     |  ![CompositionalGridLayout      ](SwiftUI_Demos/CompositionalGridLayout/CompositionalGridLayout.gif)          | Group API 实战示例 | 
 | [FloatingBottomSheet         ](SwiftUI_Demos/FloatingBottomSheet)         |  ![FloatingBottomSheet          ](SwiftUI_Demos/FloatingBottomSheet/FloatingBottomSheet.gif)                  | 浮层底部弹性框 | 
