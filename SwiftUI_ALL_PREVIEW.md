@@ -2,6 +2,7 @@
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- | 
+| [ResizableHeaderScroll       ](SwiftUI_Demos/ResizableHeaderScroll)       |  ![ResizableHeaderScroll        ](SwiftUI_Demos/ResizableHeaderScroll/ResizableHeaderScroll.gif)              | 可伸缩头部 | 
 | [PayWall-StoreKit            ](SwiftUI_Demos/PayWall-StoreKit)            |  ![PayWall-StoreKit             ](SwiftUI_Demos/PayWall-StoreKit/PayWall-StoreKit.gif)                        | 原生内购示例 | 
 | [Floating_Tab_Bar            ](SwiftUI_Demos/Floating_Tab_Bar)            |  ![Floating_Tab_Bar             ](SwiftUI_Demos/Floating_Tab_Bar/Floating_Tab_Bar.gif)                        | 自定义 TabBar 11 | 
 | [InteractiveTab              ](SwiftUI_Demos/InteractiveTab)              |  ![InteractiveTab               ](SwiftUI_Demos/InteractiveTab/InteractiveTab.gif)                            | 自定义 TabBar 10 | 
