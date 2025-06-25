@@ -3,7 +3,7 @@
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- |    
 | [OrderLatte                  ](SwiftUI_Demos/OrderLatte)                  |  ![OrderLatte                   ](SwiftUI_Demos/OrderLatte/OrderLatte.gif)                                    | AppIntent应用 |  
-| [GradientGenFM               ](SwiftUI_Demos/GradientGenFM)               |  ![GradientGenFM                ](SwiftUI_Demos/GradientGenFM/GradientGenFM.gif)                              | 仿iPhone桌面下拉搜索 |  
+| [GradientGenFM               ](SwiftUI_Demos/GradientGenFM)               |  ![GradientGenFM                ](SwiftUI_Demos/GradientGenFM/GradientGenFM.gif)                              | Apple AI 应用 |  
 | [PullToSearch                ](SwiftUI_Demos/PullToSearch)                |  ![PullToSearch                 ](SwiftUI_Demos/PullToSearch/PullToSearch.gif)                                | 仿iPhone桌面下拉搜索 |   
 | [iMessageAnimation           ](SwiftUI_Demos/iMessageAnimation)           |  ![iMessageAnimation            ](SwiftUI_Demos/iMessageAnimation/iMessageAnimation.gif)                      | 仿iMessage动画 |  
 | [CalendarScrollEffect        ](SwiftUI_Demos/CalendarScrollEffect)        |  ![CalendarScrollEffect         ](SwiftUI_Demos/CalendarScrollEffect/CalendarScrollEffect.gif)                |  | 
