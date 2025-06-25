@@ -7,12 +7,15 @@
 
 import SwiftUI
 
-struct LatteOrderManager: View {
-    var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+class LatteOrderManager {
+    var choices: LocalizedStringResource = ""
+    var count: Int = 1
+    var milkPercentage: Int = 20
+    
+    func orderLatte() async throws {
+        /// YOUR CODE HERE
+        /// This is a dummy delay for tutorial purpose!
+        try? await Task.sleep(for:.seconds(1))
+        print("Orderer Latte with (\(count) cup(s), (\(milkPercentage)% milk, \(choices)")
     }
-}
-
-#Preview {
-    LatteOrderManager()
 }

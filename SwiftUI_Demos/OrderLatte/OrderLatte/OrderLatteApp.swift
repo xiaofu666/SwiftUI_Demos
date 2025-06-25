@@ -6,9 +6,14 @@
 //
 
 import SwiftUI
+import AppIntents
 
 @main
 struct OrderLatteApp: App {
+    init() {
+        AppDependencyManager.shared.add { LatteOrderManager() }
+    }
+    
     var body: some Scene {
         WindowGroup {
             ContentView()
