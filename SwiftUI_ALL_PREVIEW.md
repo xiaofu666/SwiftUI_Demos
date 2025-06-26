@@ -1,7 +1,8 @@
 # Swift UI 实现的小控件 (持续更新中)
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
-| ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- |    
+| ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- |   
+| [AppleMusicBottomBar         ](SwiftUI_Demos/AppleMusicBottomBar)         |  ![AppleMusicBottomBar          ](SwiftUI_Demos/AppleMusicBottomBar/AppleMusicBottomBar.gif)                  | 新版 iOS 26 TabBar |  
 | [OrderLatte                  ](SwiftUI_Demos/OrderLatte)                  |  ![OrderLatte                   ](SwiftUI_Demos/OrderLatte/OrderLatte.gif)                                    | AppIntent应用 |  
 | [GradientGenFM               ](SwiftUI_Demos/GradientGenFM)               |  ![GradientGenFM                ](SwiftUI_Demos/GradientGenFM/GradientGenFM.gif)                              | Apple AI 应用 |  
 | [PullToSearch                ](SwiftUI_Demos/PullToSearch)                |  ![PullToSearch                 ](SwiftUI_Demos/PullToSearch/PullToSearch.gif)                                | 仿iPhone桌面下拉搜索 |   
