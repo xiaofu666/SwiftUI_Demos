@@ -2,6 +2,7 @@
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- |   
+| [AlarmKitExample             ](SwiftUI_Demos/AlarmKitExample)             |  ![AlarmKitExample              ](SwiftUI_Demos/AlarmKitExample/AlarmKitExample.gif)                          | AlarmKit使用示例 |  
 | [AppleMusicBottomBar         ](SwiftUI_Demos/AppleMusicBottomBar)         |  ![AppleMusicBottomBar          ](SwiftUI_Demos/AppleMusicBottomBar/AppleMusicBottomBar.gif)                  | 新版 iOS 26 TabBar |  
 | [OrderLatte                  ](SwiftUI_Demos/OrderLatte)                  |  ![OrderLatte                   ](SwiftUI_Demos/OrderLatte/OrderLatte.gif)                                    | AppIntent应用 |  
 | [GradientGenFM               ](SwiftUI_Demos/GradientGenFM)               |  ![GradientGenFM                ](SwiftUI_Demos/GradientGenFM/GradientGenFM.gif)                              | Apple AI 应用 |  
