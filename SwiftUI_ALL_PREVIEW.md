@@ -1,7 +1,9 @@
 # Swift UI 实现的小控件 (持续更新中)
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
-| ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- |   
+| ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- |     
+| [iOS26MapsBottomSheet        ](SwiftUI_Demos/iOS26MapsBottomSheet)        |  ![iOS26MapsBottomSheet         ](SwiftUI_Demos/iOS26MapsBottomSheet/iOS26MapsBottomSheet.gif)                | 仿 Maps Sheet |  
+| [MorphingFAB                 ](SwiftUI_Demos/MorphingFAB)                 |  ![MorphingFAB                  ](SwiftUI_Demos/MorphingFAB/MorphingFAB.gif)                                  | 浮屏变形视图 |   
 | [AlarmKitExample             ](SwiftUI_Demos/AlarmKitExample)             |  ![AlarmKitExample              ](SwiftUI_Demos/AlarmKitExample/AlarmKitExample.gif)                          | AlarmKit使用示例 |  
 | [AppleMusicBottomBar         ](SwiftUI_Demos/AppleMusicBottomBar)         |  ![AppleMusicBottomBar          ](SwiftUI_Demos/AppleMusicBottomBar/AppleMusicBottomBar.gif)                  | 新版 iOS 26 TabBar |  
 | [OrderLatte                  ](SwiftUI_Demos/OrderLatte)                  |  ![OrderLatte                   ](SwiftUI_Demos/OrderLatte/OrderLatte.gif)                                    | AppIntent应用 |  
