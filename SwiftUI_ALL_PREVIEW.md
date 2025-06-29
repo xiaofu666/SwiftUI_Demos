@@ -2,6 +2,7 @@
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- |     
+| [MapsBottomBar               ](SwiftUI_Demos/MapsBottomBar)               |  ![MapsBottomBar                ](SwiftUI_Demos/MapsBottomBar/MapsBottomBar.gif)                              | 仿 Find Bottom Bar |  
 | [iOS26MapsBottomSheet        ](SwiftUI_Demos/iOS26MapsBottomSheet)        |  ![iOS26MapsBottomSheet         ](SwiftUI_Demos/iOS26MapsBottomSheet/iOS26MapsBottomSheet.gif)                | 仿 Maps Sheet |  
 | [MorphingFAB                 ](SwiftUI_Demos/MorphingFAB)                 |  ![MorphingFAB                  ](SwiftUI_Demos/MorphingFAB/MorphingFAB.gif)                                  | 浮屏变形视图 |   
 | [AlarmKitExample             ](SwiftUI_Demos/AlarmKitExample)             |  ![AlarmKitExample              ](SwiftUI_Demos/AlarmKitExample/AlarmKitExample.gif)                          | AlarmKit使用示例 |  
