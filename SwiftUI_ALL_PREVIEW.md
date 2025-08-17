@@ -2,6 +2,8 @@
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
 | ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- |   
+| [ResizableScrollHeader       ](SwiftUI_Demos/ResizableScrollHeader)       |  ![ResizableScrollHeader        ](SwiftUI_Demos/ResizableScrollHeader/ResizableScrollHeader.gif)              | 头部伸缩视图 |  
+| [PermissionTutorial          ](SwiftUI_Demos/PermissionTutorial)          |  ![PermissionTutorial           ](SwiftUI_Demos/PermissionTutorial/PermissionTutorial.gif)                    | 权限请求 |  
 | [ChromePullEffect            ](SwiftUI_Demos/ChromePullEffect)            |  ![ChromePullEffect             ](SwiftUI_Demos/ChromePullEffect/ChromePullEffect.gif)                        | 下拉功能 |  
 | [NewSymbolEffect             ](SwiftUI_Demos/NewSymbolEffect)             |  ![NewSymbolEffect              ](SwiftUI_Demos/NewSymbolEffect/NewSymbolEffect.gif)                          | 功能介绍指引2 |  
 | [OnBoarding                  ](SwiftUI_Demos/OnBoarding)                  |  ![OnBoarding                   ](SwiftUI_Demos/OnBoarding/OnBoarding.gif)                                    | 功能介绍指引1 |    
