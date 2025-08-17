@@ -1,7 +1,10 @@
 # Swift UI 实现的小控件 (持续更新中)
 
 | Demo                                                                      |  效果图                                                                                                        | 功能的介绍 |
-| ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- |     
+| ------------------------------------------------------------------------  |  -----------------------------------------------------------------------------------------------------------  | -------- |   
+| [ChromePullEffect            ](SwiftUI_Demos/ChromePullEffect)            |  ![ChromePullEffect             ](SwiftUI_Demos/ChromePullEffect/ChromePullEffect.gif)                        | 下拉功能 |  
+| [NewSymbolEffect             ](SwiftUI_Demos/NewSymbolEffect)             |  ![NewSymbolEffect              ](SwiftUI_Demos/NewSymbolEffect/NewSymbolEffect.gif)                          | 功能介绍指引2 |  
+| [OnBoarding                  ](SwiftUI_Demos/OnBoarding)                  |  ![OnBoarding                   ](SwiftUI_Demos/OnBoarding/OnBoarding.gif)                                    | 功能介绍指引1 |    
 | [CamBottomControl            ](SwiftUI_Demos/CamBottomControl)            |  ![CamBottomControl             ](SwiftUI_Demos/CamBottomControl/CamBottomControl.gif)                        | 仿 相机界面 | 
 | [MapsBottomBar               ](SwiftUI_Demos/MapsBottomBar)               |  ![MapsBottomBar                ](SwiftUI_Demos/MapsBottomBar/MapsBottomBar.gif)                              | 仿 Find Bottom Bar |  
 | [iOS26MapsBottomSheet        ](SwiftUI_Demos/iOS26MapsBottomSheet)        |  ![iOS26MapsBottomSheet         ](SwiftUI_Demos/iOS26MapsBottomSheet/iOS26MapsBottomSheet.gif)                | 仿 Maps Sheet |  
